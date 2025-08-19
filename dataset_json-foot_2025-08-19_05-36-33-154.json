@@ -1,0 +1,464 @@
+[{
+  "match_id": "LaLiga|2025-08-19T19:00:00.000Z|Real_Madrid|Osasuna",
+  "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3238398/real-madrid-vs-osasuna",
+  "league": "LaLiga",
+  "kickoff_raw": "À 19h00",
+  "kickoff_utc": "2025-08-19T19:00:00.000Z",
+  "home": "Real Madrid",
+  "away": "Osasuna",
+  "odds": {
+    "1x2": {
+      "1": 1.22,
+      "2": 12,
+      "X": 6.5
+    },
+    "double_chance": {
+      "12": 1.09,
+      "1X": 1.05,
+      "X2": 3.25
+    },
+    "btts": {
+      "yes": 1.95,
+      "no": 1.62
+    },
+    "ou": {
+      "0.5": {
+        "over": 1.02,
+        "under": 10
+      },
+      "1.5": {
+        "over": 1.13,
+        "under": 4.4
+      },
+      "2.5": {
+        "over": 1.45,
+        "under": 2.35
+      },
+      "3.5": {
+        "over": 2.15,
+        "under": 1.55
+      },
+      "4.5": {
+        "over": 3.4,
+        "under": 1.22
+      },
+      "5.5": {
+        "over": 5.75,
+        "under": 1.08
+      }
+    },
+    "european_handicap": [
+      {
+        "line": -4,
+        "odds": {
+          "h1": 8,
+          "hx": 6.6,
+          "h2": 1.15
+        }
+      },
+      {
+        "line": -3,
+        "odds": {
+          "h1": 4.3,
+          "hx": 4.7,
+          "h2": 1.42
+        }
+      },
+      {
+        "line": -2,
+        "odds": {
+          "h1": 2.45,
+          "hx": 3.8,
+          "h2": 2.1
+        }
+      },
+      {
+        "line": -1,
+        "odds": {
+          "h1": 1.57,
+          "hx": 3.85,
+          "h2": 3.95
+        }
+      }
+    ],
+    "asian_handicap": [
+      {
+        "line": -3.5,
+        "odds": {
+          "h1": 3.85,
+          "h2": 1.15
+        }
+      },
+      {
+        "line": -2.5,
+        "odds": {
+          "h1": 2.35,
+          "h2": 1.42
+        }
+      },
+      {
+        "line": -1.5,
+        "odds": {
+          "h1": 1.55,
+          "h2": 2.05
+        }
+      },
+      {
+        "line": -0.5,
+        "odds": {
+          "h1": 1.18,
+          "h2": 3.5
+        }
+      }
+    ]
+  },
+  "scraped_at": "2025-08-19T05:04:55.300Z"
+},
+{
+  "match_id": "ChampionsLeague|2025-08-19T19:00:00.000Z|Rangers|Club_Bruges",
+  "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3251770/rangers-vs-club-bruges",
+  "league": "ChampionsLeague",
+  "kickoff_raw": "À 19h00",
+  "kickoff_utc": "2025-08-19T19:00:00.000Z",
+  "home": "Rangers",
+  "away": "Club Bruges",
+  "odds": {
+    "1x2": {
+      "1": 2.8,
+      "2": 2.3,
+      "X": 3.55
+    },
+    "double_chance": {
+      "12": 1.26,
+      "1X": 1.52,
+      "X2": 1.37
+    },
+    "btts": {
+      "yes": 1.52,
+      "no": 2.1
+    },
+    "ou": {
+      "0.5": {
+        "over": 1.03,
+        "under": 8
+      },
+      "1.5": {
+        "over": 1.18,
+        "under": 3.4
+      },
+      "2.5": {
+        "over": 1.6,
+        "under": 1.95
+      },
+      "3.5": {
+        "over": 2.4,
+        "under": 1.38
+      },
+      "4.5": {
+        "over": 4,
+        "under": 1.12
+      },
+      "5.5": {
+        "over": 7,
+        "under": 1.04
+      }
+    },
+    "european_handicap": [
+      {
+        "line": -2,
+        "odds": {
+          "h1": 11.5,
+          "hx": 6.5,
+          "h2": 1.1
+        }
+      },
+      {
+        "line": -1,
+        "odds": {
+          "h1": 5.3,
+          "hx": 4.4,
+          "h2": 1.37
+        }
+      },
+      {
+        "line": 1,
+        "odds": {
+          "h1": 1.54,
+          "hx": 4,
+          "h2": 4
+        }
+      },
+      {
+        "line": 2,
+        "odds": {
+          "h1": 1.17,
+          "hx": 5.7,
+          "h2": 8.4
+        }
+      }
+    ],
+    "asian_handicap": [
+      {
+        "line": -1.5,
+        "odds": {
+          "h1": 4.3,
+          "h2": 1.1
+        }
+      },
+      {
+        "line": -0.5,
+        "odds": {
+          "h1": 2.45,
+          "h2": 1.36
+        }
+      },
+      {
+        "line": 0.5,
+        "odds": {
+          "h1": 1.52,
+          "h2": 2.05
+        }
+      },
+      {
+        "line": 1.5,
+        "odds": {
+          "h1": 1.18,
+          "h2": 3.4
+        }
+      }
+    ]
+  },
+  "scraped_at": "2025-08-19T05:35:27.082Z"
+},
+{
+  "match_id": "ChampionsLeague|2025-08-19T19:00:00.000Z|Ferencvaros|FC_Qarabag",
+  "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3251773/ferencvaros-vs-fc-qarabag",
+  "league": "ChampionsLeague",
+  "kickoff_raw": "À 19h00",
+  "kickoff_utc": "2025-08-19T19:00:00.000Z",
+  "home": "Ferencvaros",
+  "away": "FC Qarabag",
+  "odds": {
+    "1x2": {
+      "1": 1.93,
+      "2": 3.75,
+      "X": 3.4
+    },
+    "double_chance": {
+      "12": 1.28,
+      "1X": 1.24,
+      "X2": 1.69
+    },
+    "btts": {
+      "yes": 1.72,
+      "no": 1.82
+    },
+    "ou": {
+      "0.5": {
+        "over": 1.04,
+        "under": 7
+      },
+      "1.5": {
+        "over": 1.25,
+        "under": 3
+      },
+      "2.5": {
+        "over": 1.8,
+        "under": 1.7
+      },
+      "3.5": {
+        "over": 3,
+        "under": 1.25
+      },
+      "4.5": {
+        "over": 5,
+        "under": 1.07
+      },
+      "5.5": {
+        "over": 10,
+        "under": 1.02
+      }
+    },
+    "european_handicap": [
+      {
+        "line": -3,
+        "odds": {
+          "h1": 14.5,
+          "hx": 7.6,
+          "h2": 1.05
+        }
+      },
+      {
+        "line": -2,
+        "odds": {
+          "h1": 7.1,
+          "hx": 5.1,
+          "h2": 1.23
+        }
+      },
+      {
+        "line": -1,
+        "odds": {
+          "h1": 3.4,
+          "hx": 3.6,
+          "h2": 1.73
+        }
+      },
+      {
+        "line": 1,
+        "odds": {
+          "h1": 1.23,
+          "hx": 4.8,
+          "h2": 8
+        }
+      }
+    ],
+    "asian_handicap": [
+      {
+        "line": -2.5,
+        "odds": {
+          "h1": 5.5,
+          "h2": 1.06
+        }
+      },
+      {
+        "line": -1.5,
+        "odds": {
+          "h1": 3.1,
+          "h2": 1.22
+        }
+      },
+      {
+        "line": -0.5,
+        "odds": {
+          "h1": 1.8,
+          "h2": 1.7
+        }
+      },
+      {
+        "line": 0.5,
+        "odds": {
+          "h1": 1.22,
+          "h2": 3.1
+        }
+      }
+    ]
+  },
+  "scraped_at": "2025-08-19T05:36:21.462Z"
+},
+{
+  "match_id": "ChampionsLeague|2025-08-19T19:00:00.000Z|ERougeBelgrade|Pafos_FC",
+  "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3251783/erougebelgrade-vs-pafos-fc",
+  "league": "ChampionsLeague",
+  "kickoff_raw": "À 19h00",
+  "kickoff_utc": "2025-08-19T19:00:00.000Z",
+  "home": "ERougeBelgrade",
+  "away": "Pafos FC",
+  "odds": {
+    "1x2": {
+      "1": 1.56,
+      "2": 5.2,
+      "X": 4.05
+    },
+    "double_chance": {
+      "12": 1.21,
+      "1X": 1.15,
+      "X2": 2.05
+    },
+    "btts": {
+      "yes": 1.65,
+      "no": 1.9
+    },
+    "ou": {
+      "0.5": {
+        "over": 1.03,
+        "under": 8
+      },
+      "1.5": {
+        "over": 1.18,
+        "under": 3.4
+      },
+      "2.5": {
+        "over": 1.55,
+        "under": 2
+      },
+      "3.5": {
+        "over": 2.35,
+        "under": 1.4
+      },
+      "4.5": {
+        "over": 3.7,
+        "under": 1.15
+      },
+      "5.5": {
+        "over": 7,
+        "under": 1.04
+      }
+    },
+    "european_handicap": [
+      {
+        "line": -3,
+        "odds": {
+          "h1": 8.7,
+          "hx": 6.3,
+          "h2": 1.14
+        }
+      },
+      {
+        "line": -2,
+        "odds": {
+          "h1": 4.4,
+          "hx": 4.4,
+          "h2": 1.44
+        }
+      },
+      {
+        "line": -1,
+        "odds": {
+          "h1": 2.4,
+          "hx": 3.6,
+          "h2": 2.2
+        }
+      },
+      {
+        "line": 1,
+        "odds": {
+          "h1": 1.13,
+          "hx": 5.8,
+          "h2": 11
+        }
+      }
+    ],
+    "asian_handicap": [
+      {
+        "line": -2.5,
+        "odds": {
+          "h1": 3.7,
+          "h2": 1.15
+        }
+      },
+      {
+        "line": -1.5,
+        "odds": {
+          "h1": 2.3,
+          "h2": 1.42
+        }
+      },
+      {
+        "line": -0.5,
+        "odds": {
+          "h1": 1.5,
+          "h2": 2.1
+        }
+      },
+      {
+        "line": 0.5,
+        "odds": {
+          "h1": 1.12,
+          "h2": 4
+        }
+      }
+    ]
+  },
+  "scraped_at": "2025-08-19T05:36:33.112Z"
+}]
