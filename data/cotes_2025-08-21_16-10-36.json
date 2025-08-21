@@ -1,0 +1,1496 @@
+[
+  {
+    "match_id": "D1_Japon|2025-08-22T10:00:00.000Z|Kashiwa_Reysol|Urawa_Reds",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/japon/d1-japon/3214419/kashiwa-reysol-vs-urawa-reds",
+    "league": "D1 Japon",
+    "kickoff_raw": "Demain à 10h00",
+    "kickoff_utc": "2025-08-22T10:00:00.000Z",
+    "home": "Kashiwa Reysol",
+    "away": "Urawa Reds",
+    "odds": {
+      "1x2": {
+        "1": 1.96,
+        "2": 3.15,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.28,
+        "X2": 1.58
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 2.9,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 4.8,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 6.75,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.4,
+            "hx": 4.85,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.6,
+            "hx": 3.45,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.15,
+            "h2": 6.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.2,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 4.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T15:59:28.071Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T16:30:00.000Z|Midtjylland|Kups",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252602/midtjylland-vs-kups",
+    "league": "Europa League",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-08-21T16:30:00.000Z",
+    "home": "Midtjylland",
+    "away": "Kups",
+    "odds": {
+      "1x2": {
+        "1": 1.13,
+        "2": 14,
+        "X": 7.3
+      },
+      "double_chance": {
+        "12": 1.06,
+        "1X": 1.03,
+        "X2": 3.75
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.08,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "3.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.3,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 10.5,
+            "hx": 8.1,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 6,
+            "hx": 5.9,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 3.35,
+            "hx": 4.4,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.85,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 4.25,
+            "h2": 5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:08:12.559Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T17:00:00.000Z|SK_Brann|Aek_Larnaca",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252591/sk-brann-vs-aek-larnaca",
+    "league": "Europa League",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-08-21T17:00:00.000Z",
+    "home": "SK Brann",
+    "away": "Aek Larnaca",
+    "odds": {
+      "1x2": {
+        "1": 1.64,
+        "2": 4.6,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.17,
+        "X2": 1.95
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.5,
+            "h2": 1.34
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.75,
+            "hx": 3.4,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.3,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:08:25.159Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T17:00:00.000Z|Malmö|Sigma_Olomouc",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3251873/malmo-vs-sigma-olomouc",
+    "league": "Europa League",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-08-21T17:00:00.000Z",
+    "home": "Malmö",
+    "away": "Sigma Olomouc",
+    "odds": {
+      "1x2": {
+        "1": 1.43,
+        "2": 7,
+        "X": 4.05
+      },
+      "double_chance": {
+        "12": 1.2,
+        "1X": 1.1,
+        "X2": 2.3
+      },
+      "btts": {
+        "yes": 2.1,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.1,
+            "hx": 6,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.35,
+            "hx": 4,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.25,
+            "hx": 3.25,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.2,
+            "h2": 18
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:08:34.290Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:00:00.000Z|ZrinjskiMostar|Utrecht",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252653/zrinjskimostar-vs-utrecht",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-08-21T18:00:00.000Z",
+    "home": "ZrinjskiMostar",
+    "away": "Utrecht",
+    "odds": {
+      "1x2": {
+        "1": 5.1,
+        "2": 1.56,
+        "X": 4
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 2.05,
+        "X2": 1.15
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.45,
+          "under": 1.36
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 11,
+            "hx": 5.7,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.2,
+            "hx": 3.55,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.43,
+            "hx": 4.4,
+            "h2": 4.5
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.13,
+            "hx": 6.3,
+            "h2": 9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:08:42.697Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:00:00.000Z|Panathinaïkos|Samsunspor",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252599/panathinaikos-vs-samsunspor",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-08-21T18:00:00.000Z",
+    "home": "Panathinaïkos",
+    "away": "Samsunspor",
+    "odds": {
+      "1x2": {
+        "1": 1.53,
+        "2": 5.6,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.13,
+        "X2": 2.15
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.7,
+            "hx": 6.3,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.7,
+            "hx": 4.25,
+            "h2": 1.43
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.4,
+            "hx": 3.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.8,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:08:51.322Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:00:00.000Z|KF_Shkendija|Ludogorets",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3251871/kf-shkendija-vs-ludogorets",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-08-21T18:00:00.000Z",
+    "home": "KF Shkendija",
+    "away": "Ludogorets",
+    "odds": {
+      "1x2": {
+        "1": 3.75,
+        "2": 1.98,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.64,
+        "X2": 1.24
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "2.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "3.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.8,
+            "hx": 4.6,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.68,
+            "hx": 3.45,
+            "h2": 3.75
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.19,
+            "hx": 5.2,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:08:59.804Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:00:00.000Z|Mac.Tel_Aviv|Dynamo_Kiev",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252643/mac-tel-aviv-vs-dynamo-kiev",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-08-21T18:00:00.000Z",
+    "home": "Mac.Tel Aviv",
+    "away": "Dynamo Kiev",
+    "odds": {
+      "1x2": {
+        "1": 2.6,
+        "2": 2.5,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.43,
+        "X2": 1.42
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 6.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.95,
+            "hx": 4.1,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.43,
+            "hx": 4.05,
+            "h2": 4.85
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.1,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:09:11.979Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:15:00.000Z|Slo.Bratislava|Young_Boys",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252033/slo-bratislava-vs-young-boys",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h15",
+    "kickoff_utc": "2025-08-21T18:15:00.000Z",
+    "home": "Slo.Bratislava",
+    "away": "Young Boys",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.65,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.4,
+        "X2": 1.5
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.5,
+            "hx": 5.8,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 4.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 4.3,
+            "h2": 4.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.3,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:09:20.387Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:30:00.000Z|Lech_Poznan|RC_Genk",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3251872/lech-poznan-vs-rc-genk",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2025-08-21T18:30:00.000Z",
+    "home": "Lech Poznan",
+    "away": "RC Genk",
+    "odds": {
+      "1x2": {
+        "1": 3.2,
+        "2": 2,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.62,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.3,
+            "hx": 4.7,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.66,
+            "hx": 3.85,
+            "h2": 3.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.22,
+            "hx": 5.3,
+            "h2": 7
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.7,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:09:32.682Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:45:00.000Z|HNK_Rijeka|PAOK_Salonique",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252482/hnk-rijeka-vs-paok-salonique",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-08-21T18:45:00.000Z",
+    "home": "HNK Rijeka",
+    "away": "PAOK Salonique",
+    "odds": {
+      "1x2": {
+        "1": 3.5,
+        "2": 2.1,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.58,
+        "X2": 1.26
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.8,
+            "hx": 4.55,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.61,
+            "hx": 3.6,
+            "h2": 4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.4,
+            "h2": 9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:09:41.821Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T18:45:00.000Z|Aberdeen|FCSB",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252481/aberdeen-vs-fcsb",
+    "league": "Europa League",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-08-21T18:45:00.000Z",
+    "home": "Aberdeen",
+    "away": "FCSB",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.7,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.38,
+        "X2": 1.46
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 6,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.75,
+            "hx": 3.9,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.05,
+            "h2": 5.5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.4,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:09:53.590Z"
+  },
+  {
+    "match_id": "Europa_League|2025-08-21T19:00:00.000Z|Lincoln_FC|Braga",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/europa-league/3252594/lincoln-fc-vs-braga",
+    "league": "Europa League",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-08-21T19:00:00.000Z",
+    "home": "Lincoln FC",
+    "away": "Braga",
+    "odds": {
+      "1x2": {
+        "1": 19,
+        "2": 1.1,
+        "X": 7.8
+      },
+      "double_chance": {
+        "12": 1.05,
+        "1X": 4,
+        "X2": 1.02
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.42
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.36,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.8,
+            "h2": 1.93
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.67,
+            "hx": 4.25,
+            "h2": 3.15
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.26,
+            "hx": 5.6,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.8,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-21T16:10:02.889Z"
+  }
+]
