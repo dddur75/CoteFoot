@@ -1,0 +1,2021 @@
+[
+  {
+    "match_id": "D1_Argentine|2025-08-25T18:00:00.000Z|Dep._Riestra|Sarmiento",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3251582/dep-riestra-vs-sarmiento",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-08-25T18:00:00.000Z",
+    "home": "Dep. Riestra",
+    "away": "Sarmiento",
+    "odds": {
+      "1x2": {
+        "1": 1.98,
+        "2": 3.85,
+        "X": 2.65
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.2,
+        "X2": 1.59
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.55,
+          "under": 1.95
+        },
+        "2.5": {
+          "over": 2.6,
+          "under": 1.28
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.07
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.1,
+            "hx": 4.75,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.95,
+            "hx": 3.1,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 4.2,
+            "h2": 9.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.2
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:33:52.371Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-08-25T20:00:00.000Z|Godoy_Cruz|VelezSarsfield",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3251583/godoy-cruz-vs-velezsarsfield",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-08-25T20:00:00.000Z",
+    "home": "Godoy Cruz",
+    "away": "VelezSarsfield",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 3.2,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.27,
+        "X2": 1.48
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.55,
+          "under": 1.95
+        },
+        "2.5": {
+          "over": 2.55,
+          "under": 1.3
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.08
+        },
+        "4.5": {
+          "over": 6.75,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.1,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.6,
+            "hx": 3.3,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 3.85,
+            "h2": 7.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.04,
+            "h2": 5.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:34:02.561Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-08-25T22:00:00.000Z|Belgrano|CentralCordoba",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3251704/belgrano-vs-centralcordoba",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-08-25T22:00:00.000Z",
+    "home": "Belgrano",
+    "away": "CentralCordoba",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 3.45,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.24,
+        "X2": 1.56
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "2.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.8,
+            "hx": 5.3,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.2,
+            "hx": 3.4,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.35,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:34:11.273Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-08-25T22:15:00.000Z|Estudiantes_LP|CA_Aldosivi",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3251580/estudiantes-lp-vs-ca-aldosivi",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h15",
+    "kickoff_utc": "2025-08-25T22:15:00.000Z",
+    "home": "Estudiantes LP",
+    "away": "CA Aldosivi",
+    "odds": {
+      "1x2": {
+        "1": 1.58,
+        "2": 5.1,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.13,
+        "X2": 1.94
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 4.8
+        },
+        "1.5": {
+          "over": 1.38,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.42
+        },
+        "3.5": {
+          "over": 3.7,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 5.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.05,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.05,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 4.8,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.55,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:34:21.660Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-08-26T00:15:00.000Z|CA_Lanus|River_Plate",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3251581/ca-lanus-vs-river-plate",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h15",
+    "kickoff_utc": "2025-08-26T00:15:00.000Z",
+    "home": "CA Lanus",
+    "away": "River Plate",
+    "odds": {
+      "1x2": {
+        "1": 2.95,
+        "2": 2.3,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.44,
+        "X2": 1.32
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "2.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 17,
+            "hx": 6.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.9,
+            "hx": 3.95,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.46,
+            "hx": 3.55,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.8,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:34:36.370Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-08-25T22:00:00.000Z|Palmeiras|Recife",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3248095/palmeiras-vs-recife",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-08-25T22:00:00.000Z",
+    "home": "Palmeiras",
+    "away": "Recife",
+    "odds": {
+      "1x2": {
+        "1": 1.27,
+        "2": 8.6,
+        "X": 4.45
+      },
+      "double_chance": {
+        "12": 1.14,
+        "1X": 1.06,
+        "X2": 2.6
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5.2,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.35,
+            "hx": 3.7,
+            "h2": 1.68
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.89,
+            "hx": 3.3,
+            "h2": 3.05
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:35:39.092Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-08-26T00:00:00.000Z|Flamengo|Vitoria_BA",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3244741/flamengo-vs-vitoria-ba",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h00",
+    "kickoff_utc": "2025-08-26T00:00:00.000Z",
+    "home": "Flamengo",
+    "away": "Vitoria BA",
+    "odds": {
+      "1x2": {
+        "1": 1.16,
+        "2": 12,
+        "X": 5.3
+      },
+      "double_chance": {
+        "12": 1.09,
+        "1X": 1.03,
+        "X2": 3.15
+      },
+      "btts": {
+        "yes": 2.3,
+        "no": 1.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.1,
+            "hx": 6.6,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.8,
+            "hx": 4.6,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.6,
+            "h2": 2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.59,
+            "hx": 3.55,
+            "h2": 4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:35:49.800Z"
+  },
+  {
+    "match_id": "Premier_League|2025-08-25T19:00:00.000Z|Newcastle|Liverpool",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3252931/newcastle-vs-liverpool",
+    "league": "Premier League",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-08-25T19:00:00.000Z",
+    "home": "Newcastle",
+    "away": "Liverpool",
+    "odds": {
+      "1x2": {
+        "1": 3.35,
+        "2": 1.98,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.69,
+        "X2": 1.28
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.13,
+          "under": 4.4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.2,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.2,
+            "hx": 4.9,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.73,
+            "hx": 3.95,
+            "h2": 3.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.26,
+            "hx": 5.2,
+            "h2": 6
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.4,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.85,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:38:12.603Z"
+  },
+  {
+    "match_id": "LaLiga|2025-08-25T17:30:00.000Z|Ath._Bilbao|Rayo_Vallecano",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3238403/ath-bilbao-vs-rayo-vallecano",
+    "league": "LaLiga",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-08-25T17:30:00.000Z",
+    "home": "Ath. Bilbao",
+    "away": "Rayo Vallecano",
+    "odds": {
+      "1x2": {
+        "1": 1.64,
+        "2": 5.4,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.15,
+        "X2": 1.98
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.7,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.4,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.3,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.12,
+            "hx": 5.5,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:40:20.667Z"
+  },
+  {
+    "match_id": "LaLiga|2025-08-25T19:30:00.000Z|FC_Séville|Getafe",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3238411/fc-seville-vs-getafe",
+    "league": "LaLiga",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-08-25T19:30:00.000Z",
+    "home": "FC Séville",
+    "away": "Getafe",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 3.65,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.26,
+        "X2": 1.55
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 5.3
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.45,
+          "under": 1.42
+        },
+        "3.5": {
+          "over": 4.25,
+          "under": 1.14
+        },
+        "4.5": {
+          "over": 8.5,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 5.5,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.3,
+            "hx": 3.55,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.45,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:40:31.392Z"
+  },
+  {
+    "match_id": "Serie_A|2025-08-25T16:30:00.000Z|Udinese|Hellas_Vérone",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-a/3216439/udinese-vs-hellas-verone",
+    "league": "Serie A",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-08-25T16:30:00.000Z",
+    "home": "Udinese",
+    "away": "Hellas Vérone",
+    "odds": {
+      "1x2": {
+        "1": 1.85,
+        "2": 4.5,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.19,
+        "X2": 1.77
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.45
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.48
+        },
+        "3.5": {
+          "over": 4.1,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7.5,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 15,
+            "hx": 7.4,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.3,
+            "hx": 4.8,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.3,
+            "hx": 3.35,
+            "h2": 1.83
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 4.95,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:43:02.560Z"
+  },
+  {
+    "match_id": "Serie_A|2025-08-25T18:45:00.000Z|Inter_Milan|Torino",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-a/3216434/inter-milan-vs-torino",
+    "league": "Serie A",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-08-25T18:45:00.000Z",
+    "home": "Inter Milan",
+    "away": "Torino",
+    "odds": {
+      "1x2": {
+        "1": 1.36,
+        "2": 7.7,
+        "X": 4.85
+      },
+      "double_chance": {
+        "12": 1.15,
+        "1X": 1.09,
+        "X2": 2.55
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.6
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.98
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.37
+        },
+        "4.5": {
+          "over": 4.4,
+          "under": 1.13
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5.4,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.9,
+            "h2": 1.66
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.94,
+            "hx": 3.45,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.6,
+            "h2": 17
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:43:14.485Z"
+  },
+  {
+    "match_id": "Ligue_2_BKT|2025-08-25T18:45:00.000Z|Pau|Reims",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/france/ligue-2-bkt/3240943/pau-vs-reims",
+    "league": "Ligue 2 BKT",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-08-25T18:45:00.000Z",
+    "home": "Pau",
+    "away": "Reims",
+    "odds": {
+      "1x2": {
+        "1": 3.4,
+        "2": 1.96,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.64,
+        "X2": 1.27
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 16,
+            "hx": 7.1,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.2,
+            "hx": 4.6,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.67,
+            "hx": 3.65,
+            "h2": 3.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.2,
+            "hx": 5.2,
+            "h2": 7.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:46:22.173Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-08-25T17:30:00.000Z|Albacete|Santander",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238335/albacete-vs-santander",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-08-25T17:30:00.000Z",
+    "home": "Albacete",
+    "away": "Santander",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.65,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.36,
+        "X2": 1.45
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.8,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.2,
+            "hx": 4.1,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.35,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.3,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:52:01.469Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-08-25T19:30:00.000Z|Cordoba|Las_Palmas",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238338/cordoba-vs-las-palmas",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-08-25T19:30:00.000Z",
+    "home": "Cordoba",
+    "away": "Las Palmas",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 2.85,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.33,
+        "X2": 1.48
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.4,
+            "hx": 5.7,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.35,
+            "hx": 3.85,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.32,
+            "hx": 4.25,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.5,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:52:12.393Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-08-25T19:15:00.000Z|CF_Estrela|Alverca_FC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3253622/cf-estrela-vs-alverca-fc",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 19h15",
+    "kickoff_utc": "2025-08-25T19:15:00.000Z",
+    "home": "CF Estrela",
+    "away": "Alverca FC",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 3.35,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.26,
+        "X2": 1.6
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.9,
+            "hx": 3.55,
+            "h2": 1.63
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.55,
+            "h2": 7.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:57:37.981Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-08-25T17:00:00.000Z|Lusitania|Benfica_B",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3253619/lusitania-vs-benfica-b",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-08-25T17:00:00.000Z",
+    "home": "Lusitania",
+    "away": "Benfica B",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.65,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.37,
+        "X2": 1.46
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 2.9,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 6.75,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.9,
+            "hx": 5.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.25,
+            "hx": 3.65,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 3.85,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 5.5,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:58:25.900Z"
+  },
+  {
+    "match_id": "D1_Turquie|2025-08-25T16:00:00.000Z|Eyupspor|Alanyaspor",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/turquie/d1-turquie/3239101/eyupspor-vs-alanyaspor",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2025-08-25T16:00:00.000Z",
+    "home": "Eyupspor",
+    "away": "Alanyaspor",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.6,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.38,
+        "X2": 1.46
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.9,
+            "hx": 5.9,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.55,
+            "hx": 4,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.2,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.4,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-25T05:58:51.471Z"
+  }
+]
