@@ -1,0 +1,482 @@
+[
+  {
+    "match_id": "Cpe_Allemagne|2025-08-26T18:45:00.000Z|Braunschweig|Stuttgart",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/cpe-allemagne/3228170/braunschweig-vs-stuttgart",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-08-26T18:45:00.000Z",
+    "home": "Braunschweig",
+    "away": "Stuttgart",
+    "odds": {
+      "1x2": {
+        "1": 7,
+        "2": 1.33,
+        "X": 5.1
+      },
+      "double_chance": {
+        "12": 1.14,
+        "1X": 2.6,
+        "X2": 1.09
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "3.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 14,
+            "hx": 6.8,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.9,
+            "hx": 3.8,
+            "h2": 1.84
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.74,
+            "hx": 4.1,
+            "h2": 3
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.28,
+            "hx": 5.3,
+            "h2": 5.5
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.09,
+            "hx": 7.5,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-26T05:42:16.299Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-08-26T16:45:00.000Z|Kairat_Almaty|Celtic",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3251788/kairat-almaty-vs-celtic",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2025-08-26T16:45:00.000Z",
+    "home": "Kairat Almaty",
+    "away": "Celtic",
+    "odds": {
+      "1x2": {
+        "1": 5,
+        "2": 1.54,
+        "X": 4
+      },
+      "double_chance": {
+        "12": 1.2,
+        "1X": 2.1,
+        "X2": 1.15
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 11,
+            "hx": 5.8,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.25,
+            "hx": 3.6,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.45,
+            "hx": 4.35,
+            "h2": 4.3
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.15,
+            "hx": 6.2,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-26T06:05:48.328Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-08-26T19:00:00.000Z|Sturm_Graz|Bodø/Glimt",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3249030/sturm-graz-vs-bodo-glimt",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-08-26T19:00:00.000Z",
+    "home": "Sturm Graz",
+    "away": "Bodø/Glimt",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.55,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.43,
+        "X2": 1.47
+      },
+      "btts": {
+        "yes": 1.35,
+        "no": 2.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.2,
+            "hx": 6,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 4.35,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.43,
+            "hx": 4.45,
+            "h2": 4.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 6.2,
+            "h2": 8.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-26T06:05:57.172Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-08-26T19:00:00.000Z|Pafos_FC|ERougeBelgrade",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3251784/pafos-fc-vs-erougebelgrade",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-08-26T19:00:00.000Z",
+    "home": "Pafos FC",
+    "away": "ERougeBelgrade",
+    "odds": {
+      "1x2": {
+        "1": 3.75,
+        "2": 1.86,
+        "X": 3.95
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.73,
+        "X2": 1.25
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2.15
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.57,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14.5,
+            "hx": 7.4,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7,
+            "hx": 4.95,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.79,
+            "hx": 3.8,
+            "h2": 3.05
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.28,
+            "hx": 5,
+            "h2": 6
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.3,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-08-26T06:06:04.608Z"
+  }
+]
