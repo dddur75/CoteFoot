@@ -1,5 +1,197 @@
-{
-  "homeTeam": "Benfica pt",
-  "awayTeam": "tr Fenerbahçe",
-  "score": "1-0"
-}
+[
+  {
+    "homeTeam": "Benfica pt",
+    "awayTeam": "tr Fenerbahçe",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Qarabağ az",
+    "awayTeam": "hu Ferencváros",
+    "score": "2-3"
+  },
+  {
+    "homeTeam": "Club Brugge be",
+    "awayTeam": "sct Rangers",
+    "score": "6-0"
+  },
+  {
+    "homeTeam": "FC Copenhagen dk",
+    "awayTeam": "ch Basel",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Ferencváros hu",
+    "awayTeam": "lu Racing-Union",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "BIIK Kazygurt kz",
+    "awayTeam": "pl GKS GieKSa Katowice",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Manchester Utd eng",
+    "awayTeam": "nl PSV",
+    "score": "4-0"
+  },
+  {
+    "homeTeam": "Vorskla Poltava ua",
+    "awayTeam": "ge Lanchkhuti",
+    "score": "5-0"
+  },
+  {
+    "homeTeam": "Rosengård se",
+    "awayTeam": "mk Ljuboten",
+    "score": "5-0"
+  },
+  {
+    "homeTeam": "Slavia Prague cz",
+    "awayTeam": "tr Fomget GSK",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Breiðablik UBK is",
+    "awayTeam": "ie Athlone Town",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "AS Roma it",
+    "awayTeam": "kz FC Aktobe",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Brann no",
+    "awayTeam": "it Internazionale",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Sparta Prague cz",
+    "awayTeam": "dk Nordsjælland",
+    "score": "(4) 4-4 (3)"
+  },
+  {
+    "homeTeam": "Apollon cy",
+    "awayTeam": "ch Young Boys",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Gintra lt",
+    "awayTeam": "ro Farul Constanţa",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Pomurje si",
+    "awayTeam": "sk Spartak Myjava",
+    "score": "3-2"
+  },
+  {
+    "homeTeam": "Valur is",
+    "awayTeam": "pt Braga",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Hammarby se",
+    "awayTeam": "ua Metalist 1925",
+    "score": "5-4"
+  },
+  {
+    "homeTeam": "Glasgow City sct",
+    "awayTeam": "at Landhaus",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Twente nl",
+    "awayTeam": "rs Red Star",
+    "score": "6-0"
+  },
+  {
+    "homeTeam": "Shkodër al",
+    "awayTeam": "by Dynamo Minsk",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Vålerenga no",
+    "awayTeam": "fi HJK Helsinki",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "SFK 2000 ba",
+    "awayTeam": "be OH Leuven",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Hjørring dk",
+    "awayTeam": "sct Hibernian",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "AÉK Lárnaka cy",
+    "awayTeam": "no Brann",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "Rīga FC lv",
+    "awayTeam": "cz Sparta Prague",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Fulham",
+    "awayTeam": "Bristol City",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Oxford United",
+    "awayTeam": "Brighton",
+    "score": "0-6"
+  },
+  {
+    "homeTeam": "Grimsby Town",
+    "awayTeam": "Manchester Utd",
+    "score": "(12) 2-2 (11)"
+  },
+  {
+    "homeTeam": "Everton",
+    "awayTeam": "Mansfield Town",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Betis",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Wehen",
+    "awayTeam": "Bayern Munich",
+    "score": "2-3"
+  },
+  {
+    "homeTeam": "One Knoxville SC",
+    "awayTeam": "FC Naples",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Fwd Madison",
+    "awayTeam": "Texoma FC",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Sekhukhune United FC",
+    "awayTeam": "AmaZulu",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Lamontville Golden Arrows",
+    "awayTeam": "Magesi FC",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Kaizer Chiefs",
+    "awayTeam": "Mamelodi Sundowns",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Grasshopper",
+    "awayTeam": "FC Zürich",
+    "score": "2-0"
+  }
+]
