@@ -1,0 +1,446 @@
+[
+  {
+    "match_id": "D1_Argentine|2025-09-01T20:00:00.000Z|Gimnasia_LP|Tucuman",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3255307/gimnasia-lp-vs-tucuman",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-09-01T20:00:00.000Z",
+    "home": "Gimnasia LP",
+    "away": "Tucuman",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 3.1,
+        "X": 2.7
+      },
+      "double_chance": {
+        "12": 1.36,
+        "1X": 1.29,
+        "X2": 1.45
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "2.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.7,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.95,
+            "hx": 3.65,
+            "h2": 1.46
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.15,
+            "h2": 7.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6.6,
+            "h2": 17
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-01T05:33:24.198Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-09-01T22:15:00.000Z|CA_Platense|Godoy_Cruz",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3255306/ca-platense-vs-godoy-cruz",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h15",
+    "kickoff_utc": "2025-09-01T22:15:00.000Z",
+    "home": "CA Platense",
+    "away": "Godoy Cruz",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.65,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.23,
+        "X2": 1.54
+      },
+      "btts": {
+        "yes": 2.3,
+        "no": 1.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "2.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "3.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "4.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.3,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.55,
+            "hx": 3.25,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.25,
+            "h2": 9.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.04,
+            "h2": 7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-01T05:33:35.245Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-09-01T17:30:00.000Z|Huesca|Eibar",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238355/huesca-vs-eibar",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-09-01T17:30:00.000Z",
+    "home": "Huesca",
+    "away": "Eibar",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.9,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.32,
+        "X2": 1.42
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "2.5": {
+          "over": 2.45,
+          "under": 1.36
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13,
+            "hx": 5.9,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.3,
+            "hx": 3.65,
+            "h2": 1.43
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.32,
+            "hx": 3.95,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.4,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-01T05:43:48.497Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-09-01T19:30:00.000Z|CD_Leganes|La_Corogne",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238354/cd-leganes-vs-la-corogne",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-09-01T19:30:00.000Z",
+    "home": "CD Leganes",
+    "away": "La Corogne",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.25,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.27,
+        "X2": 1.53
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.2,
+            "hx": 5.4,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 3.6,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.35,
+            "h2": 7.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6.8,
+            "h2": 17
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-01T05:43:58.427Z"
+  }
+]
