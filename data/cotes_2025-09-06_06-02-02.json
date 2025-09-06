@@ -1,0 +1,811 @@
+[
+  {
+    "match_id": "LaLiga_2|2025-09-06T14:15:00.000Z|La_Corogne|Gijon",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238361/la-corogne-vs-gijon",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 14h15",
+    "kickoff_utc": "2025-09-06T14:15:00.000Z",
+    "home": "La Corogne",
+    "away": "Gijon",
+    "odds": {
+      "1x2": {
+        "1": 1.85,
+        "2": 3.65,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.22,
+        "X2": 1.68
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.2,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.95,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.2,
+            "hx": 3.65,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.85,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-06T05:46:13.609Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-09-06T16:30:00.000Z|Saragosse|Valladolid",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238372/saragosse-vs-valladolid",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-09-06T16:30:00.000Z",
+    "home": "Saragosse",
+    "away": "Valladolid",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.6,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.38,
+        "X2": 1.4
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.55
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.2,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 5.4,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.75,
+            "hx": 3.7,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.36,
+            "hx": 3.8,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 5.5,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-06T05:46:24.926Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-09-06T19:00:00.000Z|Malaga|Granada_CF",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238381/malaga-vs-granada-cf",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-06T19:00:00.000Z",
+    "home": "Malaga",
+    "away": "Granada CF",
+    "odds": {
+      "1x2": {
+        "1": 1.84,
+        "2": 3.8,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.21,
+        "X2": 1.69
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.4,
+            "hx": 4.85,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.35,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.19,
+            "hx": 4.7,
+            "h2": 9.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-06T05:46:36.449Z"
+  },
+  {
+    "match_id": "MLS|2025-09-07T00:30:00.000Z|Saint_Louis_SC|Dallas_FC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3217149/saint-louis-sc-vs-dallas-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-09-07T00:30:00.000Z",
+    "home": "Saint Louis SC",
+    "away": "Dallas FC",
+    "odds": {
+      "1x2": {
+        "1": 1.83,
+        "2": 3.05,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.27,
+        "X2": 1.68
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 7.1,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 5.1,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.9,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 4.85,
+            "h2": 6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.9,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-06T05:54:48.252Z"
+  },
+  {
+    "match_id": "MLS|2025-09-07T00:30:00.000Z|Chicago_Fire|New_England",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3217150/chicago-fire-vs-new-england",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-09-07T00:30:00.000Z",
+    "home": "Chicago Fire",
+    "away": "New England",
+    "odds": {
+      "1x2": {
+        "1": 1.69,
+        "2": 3.45,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.22,
+        "X2": 1.8
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.4,
+            "hx": 6.7,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.95,
+            "hx": 4.8,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.85,
+            "h2": 1.89
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.2,
+            "h2": 7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.3,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-06T05:54:59.331Z"
+  },
+  {
+    "match_id": "MLS|2025-09-07T00:30:00.000Z|Houston|LA_Galaxy",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3248076/houston-vs-la-galaxy",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-09-07T00:30:00.000Z",
+    "home": "Houston",
+    "away": "LA Galaxy",
+    "odds": {
+      "1x2": {
+        "1": 1.71,
+        "2": 3.55,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.22,
+        "X2": 1.78
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.4,
+            "hx": 4.75,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.85,
+            "hx": 3.7,
+            "h2": 1.86
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.1,
+            "h2": 7.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-06T05:55:11.127Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-09-06T19:30:00.000Z|Estoril_Praia|Santa_Clara",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3253284/estoril-praia-vs-santa-clara",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-09-06T19:30:00.000Z",
+    "home": "Estoril Praia",
+    "away": "Santa Clara",
+    "odds": {
+      "1x2": {
+        "1": 2.6,
+        "2": 2.65,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.4,
+        "X2": 1.4
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14,
+            "hx": 6.2,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.7,
+            "hx": 3.8,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 3.85,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.3,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-06T05:55:50.439Z"
+  }
+]
