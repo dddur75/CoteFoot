@@ -1,0 +1,106 @@
+[
+  {
+    "match_id": "LaLiga_2|2025-09-08T18:30:00.000Z|Eibar|FC_Andorra",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3238365/eibar-vs-fc-andorra",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2025-09-08T18:30:00.000Z",
+    "home": "Eibar",
+    "away": "FC Andorra",
+    "odds": {
+      "1x2": {
+        "1": 1.69,
+        "2": 4.3,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.18,
+        "X2": 1.78
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 4.8
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.4
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.2,
+            "hx": 4.35,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3,
+            "hx": 3.15,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 4.55,
+            "h2": 9.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-08T05:35:30.387Z"
+  }
+]
