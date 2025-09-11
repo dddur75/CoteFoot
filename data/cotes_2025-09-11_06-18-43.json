@@ -1,0 +1,106 @@
+[
+  {
+    "match_id": "D1_Argentine|2025-09-11T23:00:00.000Z|Belgrano|San_Martin_SJ",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3257455/belgrano-vs-san-martin-sj",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 23h00",
+    "kickoff_utc": "2025-09-11T23:00:00.000Z",
+    "home": "Belgrano",
+    "away": "San Martin SJ",
+    "odds": {
+      "1x2": {
+        "1": 1.91,
+        "2": 4.15,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.19,
+        "X2": 1.62
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "1.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "4.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.1,
+            "hx": 5.1,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.9,
+            "hx": 3.3,
+            "h2": 1.67
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 4.65,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 7,
+            "h2": 1.04
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-11T05:56:43.423Z"
+  }
+]
