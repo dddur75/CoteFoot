@@ -1,0 +1,1310 @@
+[
+  {
+    "match_id": "Ligue_2_BKT|2025-09-16T17:00:00.000Z|Boulogne|Bastia",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/france/ligue-2-bkt/3251073/boulogne-vs-bastia",
+    "league": "Ligue 2 BKT",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-09-16T17:00:00.000Z",
+    "home": "Boulogne",
+    "away": "Bastia",
+    "odds": {
+      "1x2": {
+        "1": 3.25,
+        "2": 2.1,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.55,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.36,
+          "under": 2.45
+        },
+        "2.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "3.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 17,
+            "hx": 6.9,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.3,
+            "hx": 4.3,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.57,
+            "hx": 3.6,
+            "h2": 4.25
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.5,
+            "h2": 9.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T05:33:46.590Z"
+  },
+  {
+    "match_id": "EFL_Cup|2025-09-16T18:45:00.000Z|Sheffield_Wed.|Grimsby_Town",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/efl-cup/3257777/sheffield-wed-vs-grimsby-town",
+    "league": "EFL Cup",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-09-16T18:45:00.000Z",
+    "home": "Sheffield Wed.",
+    "away": "Grimsby Town",
+    "odds": {
+      "1x2": {
+        "1": 2.55,
+        "2": 2.35,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.45,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.9,
+            "hx": 4.15,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.45,
+            "hx": 4.1,
+            "h2": 4.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 6,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T05:34:55.515Z"
+  },
+  {
+    "match_id": "EFL_Cup|2025-09-16T19:00:00.000Z|Brentford|Aston_Villa",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/efl-cup/3257774/brentford-vs-aston-villa",
+    "league": "EFL Cup",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-16T19:00:00.000Z",
+    "home": "Brentford",
+    "away": "Aston Villa",
+    "odds": {
+      "1x2": {
+        "1": 2.55,
+        "2": 2.3,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.46,
+        "X2": 1.42
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 6.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.75,
+            "hx": 4.2,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.47,
+            "hx": 4.1,
+            "h2": 4.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 6,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T05:35:10.534Z"
+  },
+  {
+    "match_id": "EFL_Cup|2025-09-16T19:00:00.000Z|Crystal_Palace|Millwall",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/efl-cup/3257778/crystal-palace-vs-millwall",
+    "league": "EFL Cup",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-16T19:00:00.000Z",
+    "home": "Crystal Palace",
+    "away": "Millwall",
+    "odds": {
+      "1x2": {
+        "1": 1.38,
+        "2": 6.1,
+        "X": 4.35
+      },
+      "double_chance": {
+        "12": 1.17,
+        "1X": 1.11,
+        "X2": 2.35
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 13,
+            "hx": 8.1,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.1,
+            "hx": 5.7,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.65,
+            "hx": 4.1,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.55,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.3,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T05:35:21.182Z"
+  },
+  {
+    "match_id": "MLS|2025-09-16T23:30:00.000Z|Inter_Miami|Seattle",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3227950/inter-miami-vs-seattle",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2025-09-16T23:30:00.000Z",
+    "home": "Inter Miami",
+    "away": "Seattle",
+    "odds": {
+      "1x2": {
+        "1": 1.79,
+        "2": 3.15,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.27,
+        "X2": 1.68
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 7.1,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 5.1,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.95,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.9,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 7,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T06:03:49.019Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-16T16:45:00.000Z|PSV_Eindhoven|Saint-Gilloise",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256969/psv-eindhoven-vs-saint-gilloise",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2025-09-16T16:45:00.000Z",
+    "home": "PSV Eindhoven",
+    "away": "Saint-Gilloise",
+    "odds": {
+      "1x2": {
+        "1": 1.88,
+        "2": 3.75,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.24,
+        "X2": 1.74
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2.15
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 4.1
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 7.2,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.8,
+            "hx": 5,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3,
+            "hx": 3.85,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.22,
+            "hx": 5.1,
+            "h2": 7.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.5,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.85,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T06:12:42.692Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-16T16:45:00.000Z|Ath._Bilbao|Arsenal",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256970/ath-bilbao-vs-arsenal",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2025-09-16T16:45:00.000Z",
+    "home": "Ath. Bilbao",
+    "away": "Arsenal",
+    "odds": {
+      "1x2": {
+        "1": 4.65,
+        "2": 1.81,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.83,
+        "X2": 1.18
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.98,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.1,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.9,
+            "hx": 3.45,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.7,
+            "h2": 6.3
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.07,
+            "hx": 7.1,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T06:13:05.578Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-16T19:00:00.000Z|Benfica|FC_Qarabag",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256971/benfica-vs-fc-qarabag",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-16T19:00:00.000Z",
+    "home": "Benfica",
+    "away": "FC Qarabag",
+    "odds": {
+      "1x2": {
+        "1": 1.19,
+        "2": 13,
+        "X": 6.6
+      },
+      "double_chance": {
+        "12": 1.08,
+        "1X": 1.04,
+        "X2": 3.4
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.14,
+          "under": 4.25
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2.2,
+          "under": 1.52
+        },
+        "4.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 7.4,
+            "hx": 6.1,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.05,
+            "hx": 4.45,
+            "h2": 1.43
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.35,
+            "hx": 3.65,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.5,
+            "hx": 3.8,
+            "h2": 4.15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T06:13:25.214Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-16T19:00:00.000Z|Juventus_Turin|Dortmund",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256981/juventus-turin-vs-dortmund",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-16T19:00:00.000Z",
+    "home": "Juventus Turin",
+    "away": "Dortmund",
+    "odds": {
+      "1x2": {
+        "1": 1.94,
+        "2": 3.75,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.24,
+        "X2": 1.7
+      },
+      "btts": {
+        "yes": 1.62,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7.5
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.85
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.11
+        },
+        "5.5": {
+          "over": 8.5,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.6,
+            "hx": 5.1,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.25,
+            "hx": 3.7,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.9,
+            "h2": 7.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.25,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.82,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T06:13:48.882Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-16T19:00:00.000Z|Tottenham|Villarreal",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256980/tottenham-vs-villarreal",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-16T19:00:00.000Z",
+    "home": "Tottenham",
+    "away": "Villarreal",
+    "odds": {
+      "1x2": {
+        "1": 1.85,
+        "2": 3.85,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.23,
+        "X2": 1.77
+      },
+      "btts": {
+        "yes": 1.52,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.57,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 4.1,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 7.2,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.95,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.95,
+            "hx": 3.8,
+            "h2": 1.83
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.22,
+            "hx": 5.1,
+            "h2": 7.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T06:14:07.082Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-16T19:00:00.000Z|Real_Madrid|Marseille",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256990/real-madrid-vs-marseille",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-16T19:00:00.000Z",
+    "home": "Real Madrid",
+    "away": "Marseille",
+    "odds": {
+      "1x2": {
+        "1": 1.36,
+        "2": 7.7,
+        "X": 5.75
+      },
+      "double_chance": {
+        "12": 1.13,
+        "1X": 1.09,
+        "X2": 2.65
+      },
+      "btts": {
+        "yes": 1.62,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.11,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.38,
+          "under": 2.55
+        },
+        "3.5": {
+          "over": 1.98,
+          "under": 1.65
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.9,
+            "hx": 7.4,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.4,
+            "hx": 5.3,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.95,
+            "hx": 4.05,
+            "h2": 1.77
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.82,
+            "hx": 3.85,
+            "h2": 2.95
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.9,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-16T06:14:30.787Z"
+  }
+]
