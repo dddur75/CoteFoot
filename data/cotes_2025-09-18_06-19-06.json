@@ -1,0 +1,1059 @@
+[
+  {
+    "match_id": "D1_Arabie_Saoudite|2025-09-18T15:40:00.000Z|Al_Taawon|Al_Ettifaq",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/arabie-saoudite/d1-arabie-saoudite/3251994/al-taawon-vs-al-ettifaq",
+    "league": "D1 Arabie Saoudite",
+    "kickoff_raw": "À 15h40",
+    "kickoff_utc": "2025-09-18T15:40:00.000Z",
+    "home": "Al Taawon",
+    "away": "Al Ettifaq",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 2.65,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.37,
+        "X2": 1.47
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.4,
+            "hx": 5.7,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.35,
+            "hx": 3.85,
+            "h2": 1.49
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.15,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.2,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:02:17.500Z"
+  },
+  {
+    "match_id": "D1_Arabie_Saoudite|2025-09-18T15:40:00.000Z|Al_Kholood|Damac",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/arabie-saoudite/d1-arabie-saoudite/3251996/al-kholood-vs-damac",
+    "league": "D1 Arabie Saoudite",
+    "kickoff_raw": "À 15h40",
+    "kickoff_utc": "2025-09-18T15:40:00.000Z",
+    "home": "Al Kholood",
+    "away": "Damac",
+    "odds": {
+      "1x2": {
+        "1": 1.86,
+        "2": 3.35,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.26,
+        "X2": 1.65
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.85
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.3,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.3,
+            "hx": 3.65,
+            "h2": 1.71
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.65,
+            "h2": 6.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:02:29.805Z"
+  },
+  {
+    "match_id": "D1_Arabie_Saoudite|2025-09-18T18:00:00.000Z|Neom_SC|Al_Akhdoud",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/arabie-saoudite/d1-arabie-saoudite/3251995/neom-sc-vs-al-akhdoud",
+    "league": "D1 Arabie Saoudite",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-09-18T18:00:00.000Z",
+    "home": "Neom SC",
+    "away": "Al Akhdoud",
+    "odds": {
+      "1x2": {
+        "1": 1.41,
+        "2": 5.6,
+        "X": 4.1
+      },
+      "double_chance": {
+        "12": 1.18,
+        "1X": 1.12,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.6,
+            "hx": 5.8,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.9,
+            "hx": 4.15,
+            "h2": 1.51
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.15,
+            "hx": 3.5,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.9,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:02:40.326Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-18T16:45:00.000Z|FC_Copenhague|Leverkusen",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3257000/fc-copenhague-vs-leverkusen",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2025-09-18T16:45:00.000Z",
+    "home": "FC Copenhague",
+    "away": "Leverkusen",
+    "odds": {
+      "1x2": {
+        "1": 3.1,
+        "2": 2.25,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.54,
+        "X2": 1.32
+      },
+      "btts": {
+        "yes": 1.62,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7.5
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3.2
+        },
+        "2.5": {
+          "over": 1.82,
+          "under": 1.77
+        },
+        "3.5": {
+          "over": 2.9,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8.5,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13.5,
+            "hx": 6.8,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.45,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.56,
+            "hx": 3.85,
+            "h2": 4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.6,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:16:45.125Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-18T16:45:00.000Z|Club_Bruges|Monaco",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256998/club-bruges-vs-monaco",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2025-09-18T16:45:00.000Z",
+    "home": "Club Bruges",
+    "away": "Monaco",
+    "odds": {
+      "1x2": {
+        "1": 2.65,
+        "2": 2.55,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.47,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 4.1
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.6,
+            "hx": 6.3,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.65,
+            "hx": 4.35,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.48,
+            "hx": 4.25,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 6,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.25,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:17:14.795Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-18T19:00:00.000Z|Sporting|Kairat_Almaty",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256994/sporting-vs-kairat-almaty",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-18T19:00:00.000Z",
+    "home": "Sporting",
+    "away": "Kairat Almaty",
+    "odds": {
+      "1x2": {
+        "1": 1.08,
+        "2": 22,
+        "X": 10
+      },
+      "double_chance": {
+        "12": 1.03,
+        "1X": 1.01,
+        "X2": 4.45
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.48
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "3.5": {
+          "over": 1.72,
+          "under": 1.88
+        },
+        "4.5": {
+          "over": 2.55,
+          "under": 1.38
+        },
+        "5.5": {
+          "over": 4.1,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 7.9,
+            "hx": 7.1,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 4.5,
+            "hx": 5.2,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 2.65,
+            "hx": 4.2,
+            "h2": 1.88
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 1.71,
+            "hx": 4,
+            "h2": 3.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.75,
+            "h2": 6.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -4.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:17:42.389Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-18T19:00:00.000Z|Man._City|Naples",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256993/man-city-vs-naples",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-18T19:00:00.000Z",
+    "home": "Man. City",
+    "away": "Naples",
+    "odds": {
+      "1x2": {
+        "1": 1.6,
+        "2": 5,
+        "X": 4
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.16,
+        "X2": 2.05
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.85
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.6
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.98
+        },
+        "3.5": {
+          "over": 2.55,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4.4,
+          "under": 1.13
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.3,
+            "hx": 6.4,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.65,
+            "hx": 4.4,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.45,
+            "hx": 3.55,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.7,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.25,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:18:04.190Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-18T19:00:00.000Z|Ein.Francfort|Galatasaray",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256992/ein-francfort-vs-galatasaray",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-18T19:00:00.000Z",
+    "home": "Ein.Francfort",
+    "away": "Galatasaray",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 2.95,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.35,
+        "X2": 1.58
+      },
+      "btts": {
+        "yes": 1.38,
+        "no": 2.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 2.05,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3.2,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 5.3,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.9,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.9,
+            "hx": 5.6,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.5,
+            "hx": 4.15,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.34,
+            "hx": 4.7,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.7,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:18:28.903Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2025-09-18T19:00:00.000Z|Newcastle|FC_Barcelone",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3256991/newcastle-vs-fc-barcelone",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-09-18T19:00:00.000Z",
+    "home": "Newcastle",
+    "away": "FC Barcelone",
+    "odds": {
+      "1x2": {
+        "1": 2.65,
+        "2": 2.5,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.48,
+        "X2": 1.42
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.14,
+          "under": 4.25
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.25
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.4,
+            "hx": 6.2,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.6,
+            "hx": 4.35,
+            "h2": 1.43
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 4.2,
+            "h2": 4.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.9,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-09-18T06:18:50.590Z"
+  }
+]
