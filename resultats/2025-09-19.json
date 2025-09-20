@@ -1,0 +1,327 @@
+[
+  {
+    "homeTeam": "Tottenham",
+    "awayTeam": "Manchester City",
+    "score": "1-5"
+  },
+  {
+    "homeTeam": "Everton",
+    "awayTeam": "Lionesses",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Middlesbrough",
+    "awayTeam": "West Brom",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Betis",
+    "awayTeam": "Real Sociedad",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "La Coruña",
+    "awayTeam": "Huesca",
+    "score": "4-0"
+  },
+  {
+    "homeTeam": "Stuttgart",
+    "awayTeam": "St. Pauli",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Freiburg",
+    "awayTeam": "Hamburger SV",
+    "score": "6-2"
+  },
+  {
+    "homeTeam": "Arminia",
+    "awayTeam": "Greuther Fürth",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Kaiserslautern",
+    "awayTeam": "Preußen Münster",
+    "score": "4-1"
+  },
+  {
+    "homeTeam": "Saarbrücken",
+    "awayTeam": "Schweinfurt",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Lecce",
+    "awayTeam": "Cagliari",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Frosinone",
+    "awayTeam": "Südtirol",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Palermo",
+    "awayTeam": "Bari",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Lyon",
+    "awayTeam": "Angers",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Ol. Marseille",
+    "awayTeam": "Le Havre",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Nancy",
+    "awayTeam": "Red Star",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Dunkerque",
+    "awayTeam": "Le Mans",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Stade Laval",
+    "awayTeam": "Amiens",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Rodez Aveyron",
+    "awayTeam": "Clermont Foot",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "US Boulogne",
+    "awayTeam": "Pau FC",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Grenoble",
+    "awayTeam": "Annecy",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Gent",
+    "awayTeam": "Dender",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Montana",
+    "awayTeam": "FC Spartak Varna",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Levski Sofia",
+    "awayTeam": "Ludogorets",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Wuhan Three Towns",
+    "awayTeam": "Henan",
+    "score": "2-5"
+  },
+  {
+    "homeTeam": "Yunnan Yukun",
+    "awayTeam": "Dalian Yingbo",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Odense",
+    "awayTeam": "FC Fredericia",
+    "score": "3-2"
+  },
+  {
+    "homeTeam": "Haka",
+    "awayTeam": "AC Oulu",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "KTP",
+    "awayTeam": "FF Jaro",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Ferencváros",
+    "awayTeam": "Diósgyőr",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Mes Rafsanjan",
+    "awayTeam": "Shams Azar",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Aluminium Arak",
+    "awayTeam": "Esteghlal Khuz",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Chadormalu SC",
+    "awayTeam": "Persepolis",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Malavan",
+    "awayTeam": "Gol Gohar",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Fajr Sepasi",
+    "awayTeam": "Zob Ahan",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Foolad",
+    "awayTeam": "Kheybar",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Sparta R'dam",
+    "awayTeam": "Twente",
+    "score": "1-5"
+  },
+  {
+    "homeTeam": "Katowice",
+    "awayTeam": "Cracovia",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Wisła Płock",
+    "awayTeam": "Jagiellonia",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Rio Ave",
+    "awayTeam": "Porto",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Botoșani",
+    "awayTeam": "FCSB",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "Al-Qadsiah",
+    "awayTeam": "Al-Khaleej",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Al-Fayha",
+    "awayTeam": "Al-Shabab",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Al-Ahli",
+    "awayTeam": "Al-Hilal",
+    "score": "3-3"
+  },
+  {
+    "homeTeam": "Napredak Kruševac",
+    "awayTeam": "Radnik Surdulica",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Linköping",
+    "awayTeam": "Piteå",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Göztepe",
+    "awayTeam": "Beşiktaş",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Lierse",
+    "awayTeam": "RWDM",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Lommel",
+    "awayTeam": "Jong Genk",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "ADO Den Haag",
+    "awayTeam": "Almere City",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Roda JC",
+    "awayTeam": "RKC Waalwijk",
+    "score": "1-4"
+  },
+  {
+    "homeTeam": "Willem II",
+    "awayTeam": "Jong Ajax",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "FC Eindhoven",
+    "awayTeam": "Oss",
+    "score": "3-4"
+  },
+  {
+    "homeTeam": "Emmen",
+    "awayTeam": "Dordrecht",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "St Johnstone",
+    "awayTeam": "Dunfermline Ath.",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Västerås",
+    "awayTeam": "Oddevold",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Östersund",
+    "awayTeam": "Umeå FC",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Falkenberg",
+    "awayTeam": "Sundsvall",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Everton",
+    "awayTeam": "Aston Villa",
+    "score": "2-3"
+  },
+  {
+    "homeTeam": "Leicester City",
+    "awayTeam": "Tottenham Hotspur",
+    "score": "3-6"
+  },
+  {
+    "homeTeam": "Fulham",
+    "awayTeam": "West Bromwich Albion",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Southampton",
+    "awayTeam": "Burnley",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "West Ham United",
+    "awayTeam": "Birmingham City",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Brighton",
+    "awayTeam": "Derby County",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "R-W Erfurt",
+    "awayTeam": "Carl Zeiss Jena",
+    "score": "3-1"
+  }
+]
