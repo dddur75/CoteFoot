@@ -1,0 +1,32 @@
+[
+  {
+    "homeTeam": "Juventus it",
+    "awayTeam": "pt SL Benfica",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Arsenal eng",
+    "awayTeam": "fr Lyon",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Paris FC fr",
+    "awayTeam": "be OH Leuven",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Barcelona es",
+    "awayTeam": "de Bayern Munich",
+    "score": "7-1"
+  },
+  {
+    "homeTeam": "Scunthorpe Utd",
+    "awayTeam": "Morecambe",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "FC Utrecht",
+    "awayTeam": "Feyenoord Vrouwen",
+    "score": "1-2"
+  }
+]
