@@ -1,0 +1,542 @@
+[
+  {
+    "match_id": "LaLiga_2|2025-10-10T18:30:00.000Z|Granada_CF|Las_Palmas",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244425/granada-cf-vs-las-palmas",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2025-10-10T18:30:00.000Z",
+    "home": "Granada CF",
+    "away": "Las Palmas",
+    "odds": {
+      "1x2": {
+        "1": 2.45,
+        "2": 2.6,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.36,
+        "X2": 1.38
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 5.4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.1,
+            "hx": 3.65,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 3.7,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 5.5,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-10T05:45:11.328Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-10T17:30:00.000Z|San_Lorenzo|San_Martin_SJ",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265430/san-lorenzo-vs-san-martin-sj",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-10-10T17:30:00.000Z",
+    "home": "San Lorenzo",
+    "away": "San Martin SJ",
+    "odds": {
+      "1x2": {
+        "1": 1.69,
+        "2": 5.1,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.13,
+        "X2": 1.74
+      },
+      "btts": {
+        "yes": 2.5,
+        "no": 1.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 3.75
+        },
+        "1.5": {
+          "over": 1.6,
+          "under": 1.8
+        },
+        "2.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.4,
+            "hx": 4.3,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.3,
+            "hx": 2.95,
+            "h2": 1.81
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 4.6,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-10T05:53:49.331Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-10T19:15:00.000Z|Defensa_Y_Jus.|Argentinos_Jrs",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265439/defensa-y-jus-vs-argentinos-jrs",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 19h15",
+    "kickoff_utc": "2025-10-10T19:15:00.000Z",
+    "home": "Defensa Y Jus.",
+    "away": "Argentinos Jrs",
+    "odds": {
+      "1x2": {
+        "1": 3.3,
+        "2": 1.98,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.54,
+        "X2": 1.25
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.4,
+            "hx": 4.05,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.56,
+            "hx": 3.3,
+            "h2": 3.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 4.85,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-10T05:53:57.429Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-10T19:45:00.000Z|CentralCordoba|Union_Santa_Fe",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265438/centralcordoba-vs-union-santa-fe",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-10-10T19:45:00.000Z",
+    "home": "CentralCordoba",
+    "away": "Union Santa Fe",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.75,
+        "X": 2.7
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.33,
+        "X2": 1.38
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.2,
+            "hx": 3.55,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 3.7,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 5.6,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-10T05:54:06.244Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-10T21:30:00.000Z|Newell_OldBoys|C.A._Tigre",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265440/newell-oldboys-vs-c-a-tigre",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 21h30",
+    "kickoff_utc": "2025-10-10T21:30:00.000Z",
+    "home": "Newell OldBoys",
+    "away": "C.A. Tigre",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.8,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.32,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.33
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.3,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.1,
+            "hx": 3.45,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.3,
+            "hx": 3.7,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 5.6,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-10T05:54:15.048Z"
+  }
+]
