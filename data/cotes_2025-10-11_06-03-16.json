@@ -1,0 +1,1486 @@
+[
+  {
+    "match_id": "LaLiga_2|2025-10-11T14:15:00.000Z|Mirandes|CD_Leganes",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244422/mirandes-vs-cd-leganes",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 14h15",
+    "kickoff_utc": "2025-10-11T14:15:00.000Z",
+    "home": "Mirandes",
+    "away": "CD Leganes",
+    "odds": {
+      "1x2": {
+        "1": 2.8,
+        "2": 2.35,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.4,
+        "X2": 1.32
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13,
+            "hx": 5.6,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6,
+            "hx": 3.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 3.55,
+            "h2": 4.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 5.3,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:42:38.332Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-11T16:30:00.000Z|Almeria|Saragosse",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244426/almeria-vs-saragosse",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-10-11T16:30:00.000Z",
+    "home": "Almeria",
+    "away": "Saragosse",
+    "odds": {
+      "1x2": {
+        "1": 1.55,
+        "2": 4.45,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.15,
+        "X2": 1.9
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 2.9
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.1,
+            "hx": 5.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.8,
+            "hx": 4.15,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.3,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 4.85,
+            "h2": 9.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:42:49.046Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-11T16:30:00.000Z|RealSociedad_B|FC_Andorra",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3260382/realsociedad-b-vs-fc-andorra",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-10-11T16:30:00.000Z",
+    "home": "RealSociedad B",
+    "away": "FC Andorra",
+    "odds": {
+      "1x2": {
+        "1": 2.6,
+        "2": 2.3,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.42,
+        "X2": 1.35
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.65
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 2.9,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.6,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.1,
+            "hx": 3.85,
+            "h2": 1.34
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.42,
+            "hx": 3.7,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.3,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:43:04.028Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-11T19:00:00.000Z|Gimnasia_LP|CA_Talleres",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265435/gimnasia-lp-vs-ca-talleres",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-10-11T19:00:00.000Z",
+    "home": "Gimnasia LP",
+    "away": "CA Talleres",
+    "odds": {
+      "1x2": {
+        "1": 3.25,
+        "2": 2.1,
+        "X": 2.7
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.48,
+        "X2": 1.25
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.3,
+            "hx": 4,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 3.4,
+            "h2": 4.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 5,
+            "h2": 9.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:54:31.721Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-11T21:00:00.000Z|CA_Banfield|Racing_Club",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265437/ca-banfield-vs-racing-club",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 21h00",
+    "kickoff_utc": "2025-10-11T21:00:00.000Z",
+    "home": "CA Banfield",
+    "away": "Racing Club",
+    "odds": {
+      "1x2": {
+        "1": 2.75,
+        "2": 2.3,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.41,
+        "X2": 1.33
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13,
+            "hx": 5.6,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.9,
+            "hx": 3.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 3.5,
+            "h2": 4.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 5.3,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:54:41.721Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-12T01:15:00.000Z|Belgrano|Estudiantes_LP",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265428/belgrano-vs-estudiantes-lp",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 01h15",
+    "kickoff_utc": "2025-10-12T01:15:00.000Z",
+    "home": "Belgrano",
+    "away": "Estudiantes LP",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.7,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.33,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 5.3,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5,
+            "hx": 3.5,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 3.7,
+            "h2": 6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 5.6,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:54:56.546Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-12T01:15:00.000Z|VelezSarsfield|RosarioCentral",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265433/velezsarsfield-vs-rosariocentral",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 01h15",
+    "kickoff_utc": "2025-10-12T01:15:00.000Z",
+    "home": "VelezSarsfield",
+    "away": "RosarioCentral",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.85,
+        "X": 2.65
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.3,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 3.75
+        },
+        "1.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "2.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.3,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.1,
+            "hx": 3.4,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 3.7,
+            "h2": 6.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:55:06.668Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-10-11T22:00:00.000Z|Palmeiras|Juventude_RS",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3261245/palmeiras-vs-juventude-rs",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-10-11T22:00:00.000Z",
+    "home": "Palmeiras",
+    "away": "Juventude RS",
+    "odds": {
+      "1x2": {
+        "1": 1.16,
+        "2": 11.5,
+        "X": 4.95
+      },
+      "double_chance": {
+        "12": 1.09,
+        "1X": 1.03,
+        "X2": 2.95
+      },
+      "btts": {
+        "yes": 2.3,
+        "no": 1.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 8.6,
+            "hx": 6,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.75,
+            "hx": 4.4,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.45,
+            "h2": 1.91
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.59,
+            "hx": 3.3,
+            "h2": 3.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:56:06.036Z"
+  },
+  {
+    "match_id": "MLS|2025-10-11T23:30:00.000Z|Inter_Miami|Atlanta_Utd",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3244213/inter-miami-vs-atlanta-utd",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2025-10-11T23:30:00.000Z",
+    "home": "Inter Miami",
+    "away": "Atlanta Utd",
+    "odds": {
+      "1x2": {
+        "1": 1.3,
+        "2": 5.8,
+        "X": 4.85
+      },
+      "double_chance": {
+        "12": 1.12,
+        "1X": 1.1,
+        "X2": 2.4
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "2.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "3.5": {
+          "over": 1.65,
+          "under": 1.85
+        },
+        "4.5": {
+          "over": 2.45,
+          "under": 1.36
+        },
+        "5.5": {
+          "over": 3.7,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 8.8,
+            "hx": 7.2,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.95,
+            "hx": 5.3,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.85,
+            "hx": 4.2,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.8,
+            "hx": 4,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.6,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:57:50.557Z"
+  },
+  {
+    "match_id": "MLS|2025-10-11T23:30:00.000Z|Orlando_City|Vancouver",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3255581/orlando-city-vs-vancouver",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2025-10-11T23:30:00.000Z",
+    "home": "Orlando City",
+    "away": "Vancouver",
+    "odds": {
+      "1x2": {
+        "1": 1.93,
+        "2": 2.9,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.3,
+        "X2": 1.57
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.6,
+            "hx": 5.3,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.95,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 4.6,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.7,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:58:00.123Z"
+  },
+  {
+    "match_id": "MLS|2025-10-12T01:30:00.000Z|Seattle|Salt_Lake",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3255585/seattle-vs-salt-lake",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 01h30",
+    "kickoff_utc": "2025-10-12T01:30:00.000Z",
+    "home": "Seattle",
+    "away": "Salt Lake",
+    "odds": {
+      "1x2": {
+        "1": 1.63,
+        "2": 3.75,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.2,
+        "X2": 1.8
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.7,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.1,
+            "hx": 4.65,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.65,
+            "h2": 1.93
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.19,
+            "hx": 5.1,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:58:10.121Z"
+  },
+  {
+    "match_id": "MLS|2025-10-12T02:30:00.000Z|LA_Galaxy|Dallas_FC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3255583/la-galaxy-vs-dallas-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2025-10-12T02:30:00.000Z",
+    "home": "LA Galaxy",
+    "away": "Dallas FC",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 2.5,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.38,
+        "X2": 1.48
+      },
+      "btts": {
+        "yes": 1.32,
+        "no": 2.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.36,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 5.7,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.75,
+            "hx": 4.25,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 4.45,
+            "h2": 4.5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 6.2,
+            "h2": 8.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:58:20.739Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-10-11T14:30:00.000Z|Uniao_Leiria|Oliveirense",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3267095/uniao-leiria-vs-oliveirense",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 14h30",
+    "kickoff_utc": "2025-10-11T14:30:00.000Z",
+    "home": "Uniao Leiria",
+    "away": "Oliveirense",
+    "odds": {
+      "1x2": {
+        "1": 1.45,
+        "2": 5,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.19,
+        "1X": 1.13,
+        "X2": 2.05
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.9,
+            "hx": 5.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.15,
+            "hx": 4,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.25,
+            "hx": 3.3,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.1,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-11T05:58:52.047Z"
+  }
+]
