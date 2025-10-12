@@ -1,0 +1,562 @@
+[
+  {
+    "homeTeam": "UAE ae",
+    "awayTeam": "om Oman",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Iraq iq",
+    "awayTeam": "id Indonesia",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Latvia lv",
+    "awayTeam": "ad Andorra",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Norway no",
+    "awayTeam": "il Israel",
+    "score": "5-0"
+  },
+  {
+    "homeTeam": "Hungary hu",
+    "awayTeam": "am Armenia",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Portugal pt",
+    "awayTeam": "ie Rep. of Ireland",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Serbia rs",
+    "awayTeam": "al Albania",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Spain es",
+    "awayTeam": "ge Georgia",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Bulgaria bg",
+    "awayTeam": "tr Türkiye",
+    "score": "1-6"
+  },
+  {
+    "homeTeam": "Estonia ee",
+    "awayTeam": "it Italy",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Northampton",
+    "awayTeam": "Rotherham Utd",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Exeter City",
+    "awayTeam": "Reading",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "AFC Wimbledon",
+    "awayTeam": "Port Vale",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Stockport",
+    "awayTeam": "Blackpool",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Burton Albion",
+    "awayTeam": "Bolton",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Leyton Orient",
+    "awayTeam": "Doncaster",
+    "score": "4-0"
+  },
+  {
+    "homeTeam": "Wigan Athletic",
+    "awayTeam": "Wycombe",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Bristol Rovers",
+    "awayTeam": "MK Dons",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "Grimsby Town",
+    "awayTeam": "Colchester Utd",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Shrewsbury",
+    "awayTeam": "Cambridge Utd",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Tranmere Rovers",
+    "awayTeam": "Barnet",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Crawley Town",
+    "awayTeam": "Walsall",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Gillingham",
+    "awayTeam": "Cheltenham",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Acc'ton Stanley",
+    "awayTeam": "Newport County",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Chesterfield",
+    "awayTeam": "Salford City",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Crewe Alexandra",
+    "awayTeam": "Bromley",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Fleetwood Town",
+    "awayTeam": "Harrogate",
+    "score": "3-2"
+  },
+  {
+    "homeTeam": "Oldham Athletic",
+    "awayTeam": "Barrow",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Farnham Town",
+    "awayTeam": "Sutton United",
+    "score": "3-3"
+  },
+  {
+    "homeTeam": "Hemel Hempst",
+    "awayTeam": "Yeovil Town",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Rochdale",
+    "awayTeam": "York City",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "H&R Borough",
+    "awayTeam": "Eastleigh",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Wealdstone",
+    "awayTeam": "Whitstable",
+    "score": "5-1"
+  },
+  {
+    "homeTeam": "Southport",
+    "awayTeam": "FC Halifax Town",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Tonbridge",
+    "awayTeam": "Chatham Town",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Scunthorpe Utd",
+    "awayTeam": "King's Lynn",
+    "score": "4-2"
+  },
+  {
+    "homeTeam": "Runcorn",
+    "awayTeam": "Buxton",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Tamworth",
+    "awayTeam": "Hyde United",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Morecambe",
+    "awayTeam": "Chester",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Ebbsfleet Utd",
+    "awayTeam": "Solihull Moors",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Spennymoor",
+    "awayTeam": "Billericay",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Sth Shields",
+    "awayTeam": "Spalding",
+    "score": "4-0"
+  },
+  {
+    "homeTeam": "Braintree Town",
+    "awayTeam": "Farnborough",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Maldon&Tiptree",
+    "awayTeam": "Flackwell H",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Slough",
+    "awayTeam": "Enfield",
+    "score": "3-2"
+  },
+  {
+    "homeTeam": "Macclesfield FC",
+    "awayTeam": "Stamford",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Gainsborough",
+    "awayTeam": "Hartlepool Utd",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Darlington",
+    "awayTeam": "Telford United",
+    "score": "0-6"
+  },
+  {
+    "homeTeam": "Woking",
+    "awayTeam": "Brackley Town",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Totton",
+    "awayTeam": "Truro City",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Altrincham",
+    "awayTeam": "Harborough",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Chelmsford",
+    "awayTeam": "Chippenham",
+    "score": "4-3"
+  },
+  {
+    "homeTeam": "Aveley",
+    "awayTeam": "Gateshead",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Eastbourne Bor",
+    "awayTeam": "Boreham Wood",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Dorking Wand.",
+    "awayTeam": "Aldershot Town",
+    "score": "2-3"
+  },
+  {
+    "homeTeam": "Weston",
+    "awayTeam": "Needham",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Banbury",
+    "awayTeam": "St Albans City",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Southend United",
+    "awayTeam": "Folkestone",
+    "score": "4-1"
+  },
+  {
+    "homeTeam": "Carlisle United",
+    "awayTeam": "Boston United",
+    "score": "5-3"
+  },
+  {
+    "homeTeam": "Granada",
+    "awayTeam": "Real Sociedad",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Levante Badalona",
+    "awayTeam": "Madrid CFF",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Espanyol",
+    "awayTeam": "Alhama",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Dep La Coruña",
+    "awayTeam": "Logroño",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "CD Mirandés",
+    "awayTeam": "Leganés",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Almería",
+    "awayTeam": "Zaragoza",
+    "score": "4-2"
+  },
+  {
+    "homeTeam": "Real Sociedad B",
+    "awayTeam": "FC Andorra",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Wolfsburg",
+    "awayTeam": "Bayern Munich",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Werder Bremen",
+    "awayTeam": "Hamburger SV",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Lazio",
+    "awayTeam": "Genoa",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Juventus",
+    "awayTeam": "FC Como Women",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Fiorentina",
+    "awayTeam": "Internazionale",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "RB Salzburg",
+    "awayTeam": "Neulengbach",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "St. Pölten",
+    "awayTeam": "Südburgenland",
+    "score": "6-0"
+  },
+  {
+    "homeTeam": "KVC Westerlo",
+    "awayTeam": "DVL Zonhoven",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Zulte Waregem",
+    "awayTeam": "Anderlecht",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "KAA La Gantoise",
+    "awayTeam": "Standard Liège",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "OH Leuven",
+    "awayTeam": "Club Brugge",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Odense Q",
+    "awayTeam": "HB Køge",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "Midtjylland",
+    "awayTeam": "Nordsjælland",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Hjørring",
+    "awayTeam": "Brøndby",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Ōmiya Ardija",
+    "awayTeam": "Beleza",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Urawa Reds",
+    "awayTeam": "Nojima Stella",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Lyn",
+    "awayTeam": "Kolbotn",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Rosengård",
+    "awayTeam": "Djurgården",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Brommapojkarna",
+    "awayTeam": "Vittsjö",
+    "score": "2-3"
+  },
+  {
+    "homeTeam": "BK Häcken",
+    "awayTeam": "Hammarby",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Malmö",
+    "awayTeam": "Linköping",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Kristianstad",
+    "awayTeam": "IFK Norrköping DFK",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "AIK Fotboll Dam",
+    "awayTeam": "Alingsås FC United",
+    "score": "6-3"
+  },
+  {
+    "homeTeam": "Emmen",
+    "awayTeam": "FC Eindhoven",
+    "score": "6-0"
+  },
+  {
+    "homeTeam": "Cambuur",
+    "awayTeam": "De Graafschap",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Raith Rovers",
+    "awayTeam": "Ayr United",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "St Johnstone",
+    "awayTeam": "Ross County",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Arbroath FC",
+    "awayTeam": "Queen's Park FC",
+    "score": "4-1"
+  },
+  {
+    "homeTeam": "Morton",
+    "awayTeam": "Partick Thistle",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Meppen",
+    "awayTeam": "Preußen Münster",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Chemnitzer",
+    "awayTeam": "Carl Zeiss Jena",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Arminia",
+    "awayTeam": "Osnabrück",
+    "score": "4-0"
+  },
+  {
+    "homeTeam": "Jahn Regensburg",
+    "awayTeam": "Nürnberg",
+    "score": "5-1"
+  },
+  {
+    "homeTeam": "Ulm",
+    "awayTeam": "Stuttgart",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "Hallescher",
+    "awayTeam": "Wolfsburg",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Union Berlin",
+    "awayTeam": "Hansa Rostock",
+    "score": "5-1"
+  },
+  {
+    "homeTeam": "Preußen Münster",
+    "awayTeam": "Rot-Weiss Essen",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Greuther Fürth",
+    "awayTeam": "Augsburg",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Werder Bremen",
+    "awayTeam": "St Pauli",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Ingolstadt",
+    "awayTeam": "Sandhausen",
+    "score": "2-5"
+  },
+  {
+    "homeTeam": "BTSV",
+    "awayTeam": "Paderborn 07",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Köln",
+    "awayTeam": "Kickers Offenbach",
+    "score": "7-0"
+  },
+  {
+    "homeTeam": "Magdeburg",
+    "awayTeam": "Hamburger SV",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Stuttgarter Kickers",
+    "awayTeam": "Unterhaching",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "1860 Munich",
+    "awayTeam": "Heidenheim",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "Wehen Wiesbaden",
+    "awayTeam": "Karlsruher",
+    "score": "0-5"
+  }
+]
