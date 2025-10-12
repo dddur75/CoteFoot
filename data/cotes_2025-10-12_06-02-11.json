@@ -1,0 +1,1295 @@
+[
+  {
+    "match_id": "MLS|2025-10-12T23:00:00.000Z|Austin_FC|Los_Angeles_FC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/etats-unis/mls/3244431/austin-fc-vs-los-angeles-fc",
+    "league": "MLS",
+    "kickoff_raw": "À 23h00",
+    "kickoff_utc": "2025-10-12T23:00:00.000Z",
+    "home": "Austin FC",
+    "away": "Los Angeles FC",
+    "odds": {
+      "1x2": {
+        "1": 2.55,
+        "2": 2.2,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.45,
+        "X2": 1.36
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.2,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5,
+            "hx": 4.2,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 4,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.7,
+            "h2": 8.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:34:11.290Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-12T12:00:00.000Z|Albacete|Ceuta",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244418/albacete-vs-ceuta",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 12h00",
+    "kickoff_utc": "2025-10-12T12:00:00.000Z",
+    "home": "Albacete",
+    "away": "Ceuta",
+    "odds": {
+      "1x2": {
+        "1": 1.87,
+        "2": 3.25,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.25,
+        "X2": 1.61
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 2.9
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.5,
+            "hx": 4.75,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.25,
+            "hx": 3.5,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.3,
+            "h2": 6.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:42:26.409Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-12T14:15:00.000Z|Eibar|Castellon",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244427/eibar-vs-castellon",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 14h15",
+    "kickoff_utc": "2025-10-12T14:15:00.000Z",
+    "home": "Eibar",
+    "away": "Castellon",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 2.75,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.33,
+        "X2": 1.45
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.65
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.2,
+            "hx": 3.65,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.32,
+            "hx": 3.95,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 5.7,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.33,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:42:37.520Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-12T14:15:00.000Z|Gijon|Santander",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244423/gijon-vs-santander",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 14h15",
+    "kickoff_utc": "2025-10-12T14:15:00.000Z",
+    "home": "Gijon",
+    "away": "Santander",
+    "odds": {
+      "1x2": {
+        "1": 1.94,
+        "2": 3.15,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.26,
+        "X2": 1.56
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.3,
+            "hx": 4.9,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.3,
+            "hx": 3.75,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.45,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6.1,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:42:43.986Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-12T16:30:00.000Z|Cadix|Huesca",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244421/cadix-vs-huesca",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-10-12T16:30:00.000Z",
+    "home": "Cadix",
+    "away": "Huesca",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.35,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.24,
+        "X2": 1.51
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.2,
+            "hx": 4.95,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.15,
+            "hx": 3.3,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.22,
+            "hx": 4.05,
+            "h2": 7.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.03,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:42:54.982Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-12T16:30:00.000Z|Burgos_CF|Valladolid",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244419/burgos-cf-vs-valladolid",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-10-12T16:30:00.000Z",
+    "home": "Burgos CF",
+    "away": "Valladolid",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.75,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.33,
+        "X2": 1.4
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.3,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.1,
+            "hx": 3.5,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 3.7,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 5.6,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:43:06.185Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-12T17:30:00.000Z|CA_Aldosivi|CA_Huracan",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265426/ca-aldosivi-vs-ca-huracan",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-10-12T17:30:00.000Z",
+    "home": "CA Aldosivi",
+    "away": "CA Huracan",
+    "odds": {
+      "1x2": {
+        "1": 3.4,
+        "2": 2.05,
+        "X": 2.7
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.5,
+        "X2": 1.24
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 3.75
+        },
+        "1.5": {
+          "over": 1.6,
+          "under": 1.8
+        },
+        "2.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.5,
+            "hx": 3.9,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.51,
+            "hx": 3.15,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 4.95,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:54:57.145Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-12T19:45:00.000Z|Ind._Rivadavia|Godoy_Cruz",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265436/ind-rivadavia-vs-godoy-cruz",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-10-12T19:45:00.000Z",
+    "home": "Ind. Rivadavia",
+    "away": "Godoy Cruz",
+    "odds": {
+      "1x2": {
+        "1": 1.97,
+        "2": 3.5,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.23,
+        "X2": 1.55
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "2.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.2,
+            "hx": 4.8,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.05,
+            "hx": 3.2,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.05,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.03,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:55:07.151Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-12T19:45:00.000Z|Instituto_Atl.|Tucuman",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265431/instituto-atl-vs-tucuman",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-10-12T19:45:00.000Z",
+    "home": "Instituto Atl.",
+    "away": "Tucuman",
+    "odds": {
+      "1x2": {
+        "1": 1.94,
+        "2": 3.45,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.23,
+        "X2": 1.56
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.2,
+            "hx": 4.8,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.75,
+            "hx": 3.3,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.15,
+            "h2": 7.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.03,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:55:18.828Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-12T22:15:00.000Z|River_Plate|Sarmiento",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265434/river-plate-vs-sarmiento",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h15",
+    "kickoff_utc": "2025-10-12T22:15:00.000Z",
+    "home": "River Plate",
+    "away": "Sarmiento",
+    "odds": {
+      "1x2": {
+        "1": 1.34,
+        "2": 6.9,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.17,
+        "1X": 1.08,
+        "X2": 2.25
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.65
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.6,
+            "hx": 5.2,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.85,
+            "hx": 3.7,
+            "h2": 1.49
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.1,
+            "hx": 3.1,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.05,
+            "hx": 5.4,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.33,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:55:26.233Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-10-13T00:15:00.000Z|Independiente|CA_Lanus",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265429/independiente-vs-ca-lanus",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h15",
+    "kickoff_utc": "2025-10-13T00:15:00.000Z",
+    "home": "Independiente",
+    "away": "CA Lanus",
+    "odds": {
+      "1x2": {
+        "1": 1.94,
+        "2": 3.5,
+        "X": 2.7
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.22,
+        "X2": 1.55
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 3.75
+        },
+        "1.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "2.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.3,
+            "hx": 4.8,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 3.15,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.05,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.03,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T05:55:36.736Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-12T19:00:00.000Z|Malaga|La_Corogne",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244428/malaga-vs-la-corogne",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-10-12T19:00:00.000Z",
+    "home": "Malaga",
+    "away": "La Corogne",
+    "odds": {
+      "1x2": {
+        "1": 3.05,
+        "2": 2.1,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.48,
+        "X2": 1.28
+      },
+      "btts": {
+        "yes": 1.75,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.3,
+            "hx": 4.05,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 3.55,
+            "h2": 4.05
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-12T06:01:51.772Z"
+  }
+]
