@@ -1,0 +1,218 @@
+[
+  {
+    "match_id": "D1_Argentine|2025-10-13T21:30:00.000Z|CA_Platense|Dep._Riestra",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3265432/ca-platense-vs-dep-riestra",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 21h30",
+    "kickoff_utc": "2025-10-13T21:30:00.000Z",
+    "home": "CA Platense",
+    "away": "Dep. Riestra",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.55,
+        "X": 2.6
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.22,
+        "X2": 1.5
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 3.75
+        },
+        "1.5": {
+          "over": 1.55,
+          "under": 1.9
+        },
+        "2.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 4.95,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.4,
+            "hx": 3.2,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4,
+            "h2": 8.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.02,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-13T05:36:11.807Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-10-13T18:30:00.000Z|Cordoba|CD_Leonesa",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3244424/cordoba-vs-cd-leonesa",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2025-10-13T18:30:00.000Z",
+    "home": "Cordoba",
+    "away": "CD Leonesa",
+    "odds": {
+      "1x2": {
+        "1": 1.56,
+        "2": 4.45,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.15,
+        "X2": 1.89
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 2.9
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.1,
+            "hx": 5.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.8,
+            "hx": 4.2,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.3,
+            "h2": 1.99
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 4.9,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-10-13T05:45:19.388Z"
+  }
+]
