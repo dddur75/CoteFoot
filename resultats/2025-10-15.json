@@ -1,0 +1,27 @@
+[
+  {
+    "homeTeam": "Vålerenga no",
+    "awayTeam": "de Wolfsburg",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Lyon fr",
+    "awayTeam": "at St. Pölten",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Chelsea eng",
+    "awayTeam": "fr Paris FC",
+    "score": "4-0"
+  },
+  {
+    "homeTeam": "AS Roma it",
+    "awayTeam": "es Barcelona",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "OH Leuven be",
+    "awayTeam": "nl Twente",
+    "score": "2-1"
+  }
+]
