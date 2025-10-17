@@ -1,0 +1,42 @@
+[
+  {
+    "homeTeam": "Atlético Madrid es",
+    "awayTeam": "eng Manchester Utd",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "SL Benfica pt",
+    "awayTeam": "eng Arsenal",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Paris S-G fr",
+    "awayTeam": "es Real Madrid",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Bayern Munich de",
+    "awayTeam": "it Juventus",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Huddersfield",
+    "awayTeam": "Bolton",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Köln",
+    "awayTeam": "Leverkusen",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Ilves",
+    "awayTeam": "KuPS",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "FC Csikszereda Miercurea Ciuc",
+    "awayTeam": "CFR Cluj",
+    "score": "2-2"
+  }
+]
