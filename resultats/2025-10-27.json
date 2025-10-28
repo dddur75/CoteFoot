@@ -1,0 +1,92 @@
+[
+  {
+    "homeTeam": "Port Vale",
+    "awayTeam": "Stockport",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Betis",
+    "awayTeam": "Atlético Madrid",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Macarthur FC",
+    "awayTeam": "Adelaide",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "CSKA 1948",
+    "awayTeam": "Ludogorets",
+    "score": "5-4"
+  },
+  {
+    "homeTeam": "Rijeka",
+    "awayTeam": "Osijek",
+    "score": "4-2"
+  },
+  {
+    "homeTeam": "HNK Vukovar '91",
+    "awayTeam": "Dinamo Zagreb",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Odense",
+    "awayTeam": "Brøndby",
+    "score": "1-4"
+  },
+  {
+    "homeTeam": "SJK",
+    "awayTeam": "KuPS",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Radomiak Radom",
+    "awayTeam": "Wisła Płock",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Moreirense",
+    "awayTeam": "Porto",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Botoșani",
+    "awayTeam": "Hermannstadt",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Rapid București",
+    "awayTeam": "Unirea Slobozia",
+    "score": "4-1"
+  },
+  {
+    "homeTeam": "Akhmat Grozny",
+    "awayTeam": "Sochi",
+    "score": "2-4"
+  },
+  {
+    "homeTeam": "Brommapojkarna",
+    "awayTeam": "GAIS",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Malmö",
+    "awayTeam": "Hammarby",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Samsunspor",
+    "awayTeam": "Rizespor",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Gaziantep FK",
+    "awayTeam": "Fenerbahçe",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "Crystal Palace",
+    "awayTeam": "Newcastle United",
+    "score": "0-2"
+  }
+]
