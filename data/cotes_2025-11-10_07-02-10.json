@@ -1,0 +1,542 @@
+[
+  {
+    "match_id": "D1_Argentine|2025-11-10T20:00:00.000Z|Gimnasia_LP|VelezSarsfield",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3276127/gimnasia-lp-vs-velezsarsfield",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-11-10T20:00:00.000Z",
+    "home": "Gimnasia LP",
+    "away": "VelezSarsfield",
+    "odds": {
+      "1x2": {
+        "1": 3.25,
+        "2": 2.1,
+        "X": 2.65
+      },
+      "double_chance": {
+        "12": 1.36,
+        "1X": 1.5,
+        "X2": 1.26
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.6,
+            "hx": 3.95,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 3.35,
+            "h2": 4.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-10T06:34:21.364Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-10T22:00:00.000Z|Dep._Riestra|Independiente",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3276129/dep-riestra-vs-independiente",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-11-10T22:00:00.000Z",
+    "home": "Dep. Riestra",
+    "away": "Independiente",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 2.35,
+        "X": 2.4
+      },
+      "double_chance": {
+        "12": 1.42,
+        "1X": 1.4,
+        "X2": 1.27
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.12,
+          "under": 3.5
+        },
+        "1.5": {
+          "over": 1.6,
+          "under": 1.8
+        },
+        "2.5": {
+          "over": 2.75,
+          "under": 1.22
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.6,
+            "hx": 3.8,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 3.4,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 5.3,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-10T06:34:32.286Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-11T00:15:00.000Z|Argentinos_Jrs|Belgrano",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3276123/argentinos-jrs-vs-belgrano",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h15",
+    "kickoff_utc": "2025-11-11T00:15:00.000Z",
+    "home": "Argentinos Jrs",
+    "away": "Belgrano",
+    "odds": {
+      "1x2": {
+        "1": 1.53,
+        "2": 4.95,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.14,
+        "X2": 1.93
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 5.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.1,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.05,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 4.8,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-10T06:34:43.135Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-11T00:15:00.000Z|Ind._Rivadavia|CentralCordoba",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3276126/ind-rivadavia-vs-centralcordoba",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h15",
+    "kickoff_utc": "2025-11-11T00:15:00.000Z",
+    "home": "Ind. Rivadavia",
+    "away": "CentralCordoba",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.85,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.32,
+        "X2": 1.43
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 5.2,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.9,
+            "hx": 3.45,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 3.75,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 5.6,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-10T06:34:53.697Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-10T19:30:00.000Z|Burgos_CF|Castellon",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3253500/burgos-cf-vs-castellon",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-11-10T19:30:00.000Z",
+    "home": "Burgos CF",
+    "away": "Castellon",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.7,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.34,
+        "X2": 1.43
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.6,
+            "hx": 5.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.55,
+            "hx": 3.65,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.32,
+            "hx": 3.9,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 5.6,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.33,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-10T06:42:15.046Z"
+  }
+]
