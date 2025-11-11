@@ -1,0 +1,27 @@
+[
+  {
+    "homeTeam": "Cheltenham",
+    "awayTeam": "Notts County",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Burgos",
+    "awayTeam": "Castellón",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Freiburg",
+    "awayTeam": "Leverkusen",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Linköping",
+    "awayTeam": "Kristianstad",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Blackburn Rovers",
+    "awayTeam": "Derby County",
+    "score": "1-4"
+  }
+]
