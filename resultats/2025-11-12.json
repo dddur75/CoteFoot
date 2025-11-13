@@ -1,0 +1,27 @@
+[
+  {
+    "homeTeam": "Bayern Munich de",
+    "awayTeam": "eng Arsenal",
+    "score": "3-2"
+  },
+  {
+    "homeTeam": "Barcelona es",
+    "awayTeam": "be OH Leuven",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "SL Benfica pt",
+    "awayTeam": "nl Twente",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Manchester Utd eng",
+    "awayTeam": "fr Paris S-G",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Atlético Madrid es",
+    "awayTeam": "it Juventus",
+    "score": "1-2"
+  }
+]
