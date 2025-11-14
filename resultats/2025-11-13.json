@@ -1,0 +1,72 @@
+[
+  {
+    "homeTeam": "Thailand th",
+    "awayTeam": "sg Singapore",
+    "score": "3-2"
+  },
+  {
+    "homeTeam": "Bangladesh bd",
+    "awayTeam": "np Nepal",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Hong Kong hk",
+    "awayTeam": "kh Cambodia",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Norway no",
+    "awayTeam": "ee Estonia",
+    "score": "4-1"
+  },
+  {
+    "homeTeam": "England eng",
+    "awayTeam": "rs Serbia",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Rep. of Ireland ie",
+    "awayTeam": "pt Portugal",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "France fr",
+    "awayTeam": "ua Ukraine",
+    "score": "4-0"
+  },
+  {
+    "homeTeam": "Andorra ad",
+    "awayTeam": "al Albania",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Armenia am",
+    "awayTeam": "hu Hungary",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Azerbaijan az",
+    "awayTeam": "is Iceland",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Moldova md",
+    "awayTeam": "it Italy",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Nigeria ng",
+    "awayTeam": "ga Gabon",
+    "score": "4-1"
+  },
+  {
+    "homeTeam": "Cameroon cm",
+    "awayTeam": "cd Congo DR",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "UAE ae",
+    "awayTeam": "iq Iraq",
+    "score": "1-1"
+  }
+]
