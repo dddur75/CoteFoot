@@ -1,0 +1,898 @@
+[
+  {
+    "match_id": "D1_Argentine|2025-11-15T20:00:00.000Z|Godoy_Cruz|Dep._Riestra",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3280073/godoy-cruz-vs-dep-riestra",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-11-15T20:00:00.000Z",
+    "home": "Godoy Cruz",
+    "away": "Dep. Riestra",
+    "odds": {
+      "1x2": {
+        "1": 1.71,
+        "2": 5,
+        "X": 2.65
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.14,
+        "X2": 1.73
+      },
+      "btts": {
+        "yes": 2.35,
+        "no": 1.33
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.12,
+          "under": 3.5
+        },
+        "1.5": {
+          "over": 1.55,
+          "under": 1.9
+        },
+        "2.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.6,
+            "hx": 4.4,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.35,
+            "hx": 3,
+            "h2": 1.76
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 4.6,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:34:15.182Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-15T22:15:00.000Z|San_Lorenzo|Sarmiento",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3280016/san-lorenzo-vs-sarmiento",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h15",
+    "kickoff_utc": "2025-11-15T22:15:00.000Z",
+    "home": "San Lorenzo",
+    "away": "Sarmiento",
+    "odds": {
+      "1x2": {
+        "1": 1.48,
+        "2": 5.9,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.11,
+        "X2": 2
+      },
+      "btts": {
+        "yes": 2.3,
+        "no": 1.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 5.8,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.4,
+            "hx": 3.95,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.6,
+            "hx": 2.95,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.08,
+            "hx": 4.95,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:34:25.082Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-16T00:30:00.000Z|Independiente|RosarioCentral",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3280198/independiente-vs-rosariocentral",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-11-16T00:30:00.000Z",
+    "home": "Independiente",
+    "away": "RosarioCentral",
+    "odds": {
+      "1x2": {
+        "1": 1.75,
+        "2": 4,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.19,
+        "X2": 1.7
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 4.5,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.35,
+            "hx": 3.15,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.16,
+            "hx": 4.35,
+            "h2": 9.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:34:34.428Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-15T15:00:00.000Z|Albacete|FC_Andorra",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3255179/albacete-vs-fc-andorra",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 15h00",
+    "kickoff_utc": "2025-11-15T15:00:00.000Z",
+    "home": "Albacete",
+    "away": "FC Andorra",
+    "odds": {
+      "1x2": {
+        "1": 1.87,
+        "2": 3.05,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.28,
+        "X2": 1.6
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.7,
+            "hx": 4.8,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.55,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.25,
+            "h2": 6.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:40:07.810Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-15T15:00:00.000Z|Castellon|RealSociedad_B",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3260387/castellon-vs-realsociedad-b",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 15h00",
+    "kickoff_utc": "2025-11-15T15:00:00.000Z",
+    "home": "Castellon",
+    "away": "RealSociedad B",
+    "odds": {
+      "1x2": {
+        "1": 1.38,
+        "2": 5.2,
+        "X": 3.95
+      },
+      "double_chance": {
+        "12": 1.18,
+        "1X": 1.12,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7,
+            "hx": 5.3,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.75,
+            "hx": 3.95,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.1,
+            "hx": 3.4,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.09,
+            "hx": 5.3,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:40:18.687Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-15T20:00:00.000Z|Santander|Granada_CF",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3255186/santander-vs-granada-cf",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-11-15T20:00:00.000Z",
+    "home": "Santander",
+    "away": "Granada CF",
+    "odds": {
+      "1x2": {
+        "1": 1.72,
+        "2": 3.4,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.24,
+        "X2": 1.72
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.2,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.6,
+            "hx": 4.6,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.9,
+            "hx": 3.55,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.55,
+            "h2": 6.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 2.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:40:29.087Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-15T21:30:00.000Z|Recife|Flamengo",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3274571/recife-vs-flamengo",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 21h30",
+    "kickoff_utc": "2025-11-15T21:30:00.000Z",
+    "home": "Recife",
+    "away": "Flamengo",
+    "odds": {
+      "1x2": {
+        "1": 8.4,
+        "2": 1.23,
+        "X": 4.45
+      },
+      "double_chance": {
+        "12": 1.13,
+        "1X": 2.7,
+        "X2": 1.06
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 2.9
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.25,
+            "h2": 1.77
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.7,
+            "hx": 3.55,
+            "h2": 3.05
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.75,
+            "h2": 5.7
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.4,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:51:04.282Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-16T00:00:00.000Z|Santos|Palmeiras",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273649/santos-vs-palmeiras",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h00",
+    "kickoff_utc": "2025-11-16T00:00:00.000Z",
+    "home": "Santos",
+    "away": "Palmeiras",
+    "odds": {
+      "1x2": {
+        "1": 3,
+        "2": 1.97,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.55,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 5.9,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6,
+            "hx": 4.15,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.55,
+            "hx": 3.55,
+            "h2": 3.65
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 4.9,
+            "h2": 7.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-15T06:51:10.774Z"
+  }
+]
