@@ -1,0 +1,1306 @@
+[
+  {
+    "match_id": "LaLiga_2|2025-11-16T13:00:00.000Z|Ceuta|CD_Leganes",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3255178/ceuta-vs-cd-leganes",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 13h00",
+    "kickoff_utc": "2025-11-16T13:00:00.000Z",
+    "home": "Ceuta",
+    "away": "CD Leganes",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 2.95,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.3,
+        "X2": 1.47
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.33,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.3,
+            "hx": 5.1,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.35,
+            "hx": 3.55,
+            "h2": 1.46
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 3.95,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 5.8,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:39:04.246Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-16T15:15:00.000Z|Gijon|Eibar",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3255185/gijon-vs-eibar",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 15h15",
+    "kickoff_utc": "2025-11-16T15:15:00.000Z",
+    "home": "Gijon",
+    "away": "Eibar",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.15,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.28,
+        "X2": 1.51
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.33,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 3.5,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.05,
+            "h2": 6.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:39:15.620Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-16T15:15:00.000Z|Almeria|Cadix",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3255182/almeria-vs-cadix",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 15h15",
+    "kickoff_utc": "2025-11-16T15:15:00.000Z",
+    "home": "Almeria",
+    "away": "Cadix",
+    "odds": {
+      "1x2": {
+        "1": 1.48,
+        "2": 4.75,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.14,
+        "X2": 2
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 2.9
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.5,
+            "hx": 5.7,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.45,
+            "hx": 4.05,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.4,
+            "hx": 3.3,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:39:26.863Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-16T17:30:00.000Z|Cordoba|La_Corogne",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3255180/cordoba-vs-la-corogne",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-11-16T17:30:00.000Z",
+    "home": "Cordoba",
+    "away": "La Corogne",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 2.75,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.34,
+        "X2": 1.49
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.7,
+            "hx": 5.1,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.85,
+            "hx": 3.75,
+            "h2": 1.49
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 4.1,
+            "h2": 5.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 5.7,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:39:41.915Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-16T20:00:00.000Z|Instituto_Atl.|CA_Talleres",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3280017/instituto-atl-vs-ca-talleres",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-11-16T20:00:00.000Z",
+    "home": "Instituto Atl.",
+    "away": "CA Talleres",
+    "odds": {
+      "1x2": {
+        "1": 2.95,
+        "2": 2.2,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.45,
+        "X2": 1.31
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.33
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.5,
+            "hx": 3.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.43,
+            "hx": 3.4,
+            "h2": 4.75
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 5.2,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:50:17.581Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-16T20:00:00.000Z|VelezSarsfield|River_Plate",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3280019/velezsarsfield-vs-river-plate",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-11-16T20:00:00.000Z",
+    "home": "VelezSarsfield",
+    "away": "River Plate",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 2,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.53,
+        "X2": 1.27
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.3,
+            "hx": 3.9,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.52,
+            "hx": 3.3,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 4.95,
+            "h2": 9.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:50:27.023Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-16T23:15:00.000Z|Boca_Juniors|C.A._Tigre",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3277748/boca-juniors-vs-c-a-tigre",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 23h15",
+    "kickoff_utc": "2025-11-16T23:15:00.000Z",
+    "home": "Boca Juniors",
+    "away": "C.A. Tigre",
+    "odds": {
+      "1x2": {
+        "1": 1.58,
+        "2": 5.1,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.13,
+        "X2": 1.86
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.9,
+            "hx": 4.15,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.85,
+            "hx": 3.05,
+            "h2": 1.92
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 4.8,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:50:37.119Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-16T23:15:00.000Z|Estudiantes_LP|Argentinos_Jrs",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3277747/estudiantes-lp-vs-argentinos-jrs",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 23h15",
+    "kickoff_utc": "2025-11-16T23:15:00.000Z",
+    "home": "Estudiantes LP",
+    "away": "Argentinos Jrs",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.8,
+        "X": 2.7
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.33,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.33
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.3,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.1,
+            "hx": 3.5,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.3,
+            "hx": 3.7,
+            "h2": 6.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 5.6,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:50:46.216Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-16T23:15:00.000Z|Newell_OldBoys|Racing_Club",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3277744/newell-oldboys-vs-racing-club",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 23h15",
+    "kickoff_utc": "2025-11-16T23:15:00.000Z",
+    "home": "Newell OldBoys",
+    "away": "Racing Club",
+    "odds": {
+      "1x2": {
+        "1": 3.3,
+        "2": 1.93,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.58,
+        "X2": 1.25
+      },
+      "btts": {
+        "yes": 1.75,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.1,
+            "hx": 4.15,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.58,
+            "hx": 3.4,
+            "h2": 3.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 4.8,
+            "h2": 7.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:50:56.727Z"
+  },
+  {
+    "match_id": "D1_Argentine|2025-11-16T23:15:00.000Z|CentralCordoba|CA_Banfield",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3277742/centralcordoba-vs-ca-banfield",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 23h15",
+    "kickoff_utc": "2025-11-16T23:15:00.000Z",
+    "home": "CentralCordoba",
+    "away": "CA Banfield",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.95,
+        "X": 2.6
+      },
+      "double_chance": {
+        "12": 1.38,
+        "1X": 1.3,
+        "X2": 1.42
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.33
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 5.3,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5,
+            "hx": 3.5,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 3.85,
+            "h2": 6.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:51:06.832Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-16T22:00:00.000Z|Bragantino_SP|Atletico_MG",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3278491/bragantino-sp-vs-atletico-mg",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-11-16T22:00:00.000Z",
+    "home": "Bragantino SP",
+    "away": "Atletico MG",
+    "odds": {
+      "1x2": {
+        "1": 1.98,
+        "2": 3.25,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.26,
+        "X2": 1.55
+      },
+      "btts": {
+        "yes": 1.75,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.1,
+            "hx": 4.9,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.8,
+            "hx": 3.45,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.15,
+            "h2": 6.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:52:06.576Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-11-16T11:00:00.000Z|FC_Felgueiras|SC_Farense",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3279905/fc-felgueiras-vs-sc-farense",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 11h00",
+    "kickoff_utc": "2025-11-16T11:00:00.000Z",
+    "home": "FC Felgueiras",
+    "away": "SC Farense",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.55,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.37,
+        "X2": 1.43
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.8,
+            "hx": 5.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.6,
+            "hx": 3.65,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 3.8,
+            "h2": 5.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 5.5,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-16T06:54:29.863Z"
+  }
+]
