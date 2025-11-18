@@ -1,0 +1,118 @@
+[
+  {
+    "match_id": "D1_Brésil|2025-11-18T23:30:00.000Z|Botafogo|Recife",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3278625/botafogo-vs-recife",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2025-11-18T23:30:00.000Z",
+    "home": "Botafogo",
+    "away": "Recife",
+    "odds": {
+      "1x2": {
+        "1": 1.18,
+        "2": 9.1,
+        "X": 4.95
+      },
+      "double_chance": {
+        "12": 1.11,
+        "1X": 1.05,
+        "X2": 2.9
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.25,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 8.2,
+            "hx": 6.1,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.65,
+            "hx": 4.5,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.55,
+            "h2": 1.87
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.62,
+            "hx": 3.45,
+            "h2": 3.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.75,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-18T06:54:45.581Z"
+  }
+]
