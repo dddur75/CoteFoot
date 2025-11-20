@@ -1,0 +1,37 @@
+[
+  {
+    "homeTeam": "Wolfsburg de",
+    "awayTeam": "eng Manchester Utd",
+    "score": "5-2"
+  },
+  {
+    "homeTeam": "Juventus it",
+    "awayTeam": "fr Lyon",
+    "score": "3-3"
+  },
+  {
+    "homeTeam": "Arsenal eng",
+    "awayTeam": "es Real Madrid",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Vålerenga no",
+    "awayTeam": "at St. Pölten",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Paris FC fr",
+    "awayTeam": "pt SL Benfica",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Strasbourg",
+    "awayTeam": "Saint-Étienne",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Åsane Fotball Damer",
+    "awayTeam": "Røa",
+    "score": "0-1"
+  }
+]
