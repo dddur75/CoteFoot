@@ -1,0 +1,644 @@
+[
+  {
+    "match_id": "D1_Brésil|2025-11-20T19:00:00.000Z|Juventude_RS|Cruzeiro",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273628/juventude-rs-vs-cruzeiro",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-11-20T19:00:00.000Z",
+    "home": "Juventude RS",
+    "away": "Cruzeiro",
+    "odds": {
+      "1x2": {
+        "1": 3.5,
+        "2": 1.79,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.66,
+        "X2": 1.23
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.65
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 2.9,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.3,
+            "hx": 4.35,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.68,
+            "hx": 3.35,
+            "h2": 3.25
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.6,
+            "h2": 6.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-20T06:34:41.311Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-20T21:00:00.000Z|Bahia_Salvador|Fortaleza_CE",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273625/bahia-salvador-vs-fortaleza-ce",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 21h00",
+    "kickoff_utc": "2025-11-20T21:00:00.000Z",
+    "home": "Bahia Salvador",
+    "away": "Fortaleza CE",
+    "odds": {
+      "1x2": {
+        "1": 1.38,
+        "2": 5.4,
+        "X": 4.05
+      },
+      "double_chance": {
+        "12": 1.17,
+        "1X": 1.12,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.33
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.1,
+            "hx": 5.3,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.75,
+            "hx": 3.9,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.1,
+            "hx": 3.3,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.09,
+            "hx": 5.3,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-20T06:34:51.282Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-20T22:30:00.000Z|Corinthians|Sao_Paulo",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273621/corinthians-vs-sao-paulo",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h30",
+    "kickoff_utc": "2025-11-20T22:30:00.000Z",
+    "home": "Corinthians",
+    "away": "Sao Paulo",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 3.1,
+        "X": 2.75
+      },
+      "double_chance": {
+        "12": 1.35,
+        "1X": 1.28,
+        "X2": 1.48
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.7,
+            "hx": 5.1,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.35,
+            "hx": 3.45,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 3.95,
+            "h2": 6.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-20T06:35:00.733Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-21T00:30:00.000Z|Ceara_CE|Internacional",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273627/ceara-ce-vs-internacional",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-11-21T00:30:00.000Z",
+    "home": "Ceara CE",
+    "away": "Internacional",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.15,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.28,
+        "X2": 1.52
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.9,
+            "hx": 4.95,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 3.35,
+            "h2": 1.24
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-20T06:35:10.541Z"
+  },
+  {
+    "match_id": "D1_Mexique|2025-11-21T01:00:00.000Z|CF_Pachuca|UNAM_Pumas",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/mexique/d1-mexique/3280324/cf-pachuca-vs-unam-pumas",
+    "league": "D1 Mexique",
+    "kickoff_raw": "Demain à 01h00",
+    "kickoff_utc": "2025-11-21T01:00:00.000Z",
+    "home": "CF Pachuca",
+    "away": "UNAM Pumas",
+    "odds": {
+      "1x2": {
+        "1": 1.83,
+        "2": 3.15,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.27,
+        "X2": 1.63
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.33
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.3,
+            "hx": 4.75,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.25,
+            "hx": 3.55,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.35,
+            "h2": 6.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-20T07:02:20.147Z"
+  },
+  {
+    "match_id": "D1_Mexique|2025-11-21T03:00:00.000Z|Club_Tijuana|FC_Juarez",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/mexique/d1-mexique/3280323/club-tijuana-vs-fc-juarez",
+    "league": "D1 Mexique",
+    "kickoff_raw": "Demain à 03h00",
+    "kickoff_utc": "2025-11-21T03:00:00.000Z",
+    "home": "Club Tijuana",
+    "away": "FC Juarez",
+    "odds": {
+      "1x2": {
+        "1": 1.94,
+        "2": 2.95,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.3,
+        "X2": 1.56
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.33
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.8,
+            "hx": 4.95,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.45,
+            "hx": 3.7,
+            "h2": 1.56
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 4.25,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 5.9,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-20T07:02:35.484Z"
+  }
+]
