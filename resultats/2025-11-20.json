@@ -1,0 +1,37 @@
+[
+  {
+    "homeTeam": "Twente nl",
+    "awayTeam": "es Atlético Madrid",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "Chelsea eng",
+    "awayTeam": "es Barcelona",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "OH Leuven be",
+    "awayTeam": "it AS Roma",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Paris S-G fr",
+    "awayTeam": "de Bayern Munich",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "P'borough Utd",
+    "awayTeam": "Stockport",
+    "score": "3-0"
+  },
+  {
+    "homeTeam": "Norrby",
+    "awayTeam": "Utsikten",
+    "score": "3-2"
+  },
+  {
+    "homeTeam": "Hammarby TFF",
+    "awayTeam": "Örebro",
+    "score": "1-0"
+  }
+]
