@@ -1,0 +1,1948 @@
+[
+  {
+    "match_id": "Ligue_1_McDonalds|2025-11-28T19:45:00.000Z|Metz|Rennes",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/france/ligue-1-mcdonalds/3273245/metz-vs-rennes",
+    "league": "Ligue 1 McDonalds",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-11-28T19:45:00.000Z",
+    "home": "Metz",
+    "away": "Rennes",
+    "odds": {
+      "1x2": {
+        "1": 3.75,
+        "2": 1.93,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.66,
+        "X2": 1.24
+      },
+      "btts": {
+        "yes": 1.52,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14.5,
+            "hx": 7.1,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.9,
+            "hx": 4.85,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.75,
+            "hx": 3.75,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.95,
+            "h2": 6.1
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.07,
+            "hx": 7.1,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:34:57.034Z"
+  },
+  {
+    "match_id": "Bundesliga_1|2025-11-28T19:30:00.000Z|M'Gladbach|RB_Leipzig",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-1/3272226/m-gladbach-vs-rb-leipzig",
+    "league": "Bundesliga 1",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-11-28T19:30:00.000Z",
+    "home": "M'Gladbach",
+    "away": "RB Leipzig",
+    "odds": {
+      "1x2": {
+        "1": 2.9,
+        "2": 2.15,
+        "X": 3.85
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.58,
+        "X2": 1.3
+      },
+      "btts": {
+        "yes": 1.38,
+        "no": 2.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.4
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.7,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.4,
+            "hx": 4.7,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.65,
+            "hx": 4.05,
+            "h2": 3.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.23,
+            "hx": 5.3,
+            "h2": 6.3
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.4,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:37:07.353Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-28T22:00:00.000Z|Juventude_RS|Bahia_Salvador",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273648/juventude-rs-vs-bahia-salvador",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-11-28T22:00:00.000Z",
+    "home": "Juventude RS",
+    "away": "Bahia Salvador",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 1.98,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.59,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 15,
+            "hx": 7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.7,
+            "hx": 4.55,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.62,
+            "hx": 3.75,
+            "h2": 3.75
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.19,
+            "hx": 5.4,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:39:11.059Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-28T22:30:00.000Z|Vasco_De_Gama|Internacional",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273640/vasco-de-gama-vs-internacional",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h30",
+    "kickoff_utc": "2025-11-28T22:30:00.000Z",
+    "home": "Vasco De Gama",
+    "away": "Internacional",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.31,
+        "X2": 1.54
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.6,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4,
+            "hx": 3.8,
+            "h2": 1.56
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.3,
+            "hx": 4.45,
+            "h2": 6.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.9,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:39:21.127Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-11-29T00:30:00.000Z|Santos|Recife",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3273642/santos-vs-recife",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-11-29T00:30:00.000Z",
+    "home": "Santos",
+    "away": "Recife",
+    "odds": {
+      "1x2": {
+        "1": 1.24,
+        "2": 8,
+        "X": 4.8
+      },
+      "double_chance": {
+        "12": 1.13,
+        "1X": 1.07,
+        "X2": 2.8
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 10,
+            "hx": 7.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.3,
+            "hx": 5.1,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.9,
+            "hx": 3.9,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.76,
+            "hx": 3.7,
+            "h2": 3.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:39:28.108Z"
+  },
+  {
+    "match_id": "Championship|2025-11-28T20:00:00.000Z|Oxford|Ipswich",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/championship/3281184/oxford-vs-ipswich",
+    "league": "Championship",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-11-28T20:00:00.000Z",
+    "home": "Oxford",
+    "away": "Ipswich",
+    "odds": {
+      "1x2": {
+        "1": 4.95,
+        "2": 1.48,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 2.05,
+        "X2": 1.14
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5.25
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.25,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.3,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.15,
+            "hx": 3.3,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.15,
+            "h2": 4.65
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.9,
+            "h2": 9.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.9,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:44:04.001Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-11-28T19:30:00.000Z|Gijon|FC_Andorra",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3258861/gijon-vs-fc-andorra",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-11-28T19:30:00.000Z",
+    "home": "Gijon",
+    "away": "FC Andorra",
+    "odds": {
+      "1x2": {
+        "1": 1.88,
+        "2": 3.4,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.24,
+        "X2": 1.58
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.65
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 2.9,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 4.75,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.5,
+            "hx": 3.45,
+            "h2": 1.61
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.25,
+            "h2": 7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:48:52.537Z"
+  },
+  {
+    "match_id": "LaLiga|2025-11-28T20:00:00.000Z|Getafe|Elche",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3261566/getafe-vs-elche",
+    "league": "LaLiga",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-11-28T20:00:00.000Z",
+    "home": "Getafe",
+    "away": "Elche",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.75,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.21,
+        "X2": 1.56
+      },
+      "btts": {
+        "yes": 2.15,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.5,
+          "under": 2.15
+        },
+        "2.5": {
+          "over": 2.5,
+          "under": 1.36
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.7,
+            "hx": 5.2,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 3.35,
+            "h2": 1.61
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.45,
+            "h2": 9.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.04,
+            "h2": 7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:49:04.935Z"
+  },
+  {
+    "match_id": "Bundesliga_2|2025-11-28T17:30:00.000Z|Hanovre|Karlsruhe",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-2/3272227/hanovre-vs-karlsruhe",
+    "league": "Bundesliga 2",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-11-28T17:30:00.000Z",
+    "home": "Hanovre",
+    "away": "Karlsruhe",
+    "odds": {
+      "1x2": {
+        "1": 1.41,
+        "2": 5,
+        "X": 4.15
+      },
+      "double_chance": {
+        "12": 1.18,
+        "1X": 1.14,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 3.9
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 1.9,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 2.9,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 4.4,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.6,
+            "hx": 5.6,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.6,
+            "hx": 4.15,
+            "h2": 1.51
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.1,
+            "hx": 3.65,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.7,
+            "h2": 9.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:53:09.719Z"
+  },
+  {
+    "match_id": "Bundesliga_2|2025-11-28T17:30:00.000Z|Schalke_04|Paderborn",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-2/3272502/schalke-04-vs-paderborn",
+    "league": "Bundesliga 2",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-11-28T17:30:00.000Z",
+    "home": "Schalke 04",
+    "away": "Paderborn",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.65,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.37,
+        "X2": 1.44
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.9
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 4.4,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.7,
+            "hx": 5.6,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.6,
+            "hx": 3.9,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.05,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 5.9,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.9,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.33,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:53:21.344Z"
+  },
+  {
+    "match_id": "Serie_B|2025-11-28T19:30:00.000Z|Cesena|Modène",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-b/3274921/cesena-vs-modene",
+    "league": "Serie B",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-11-28T19:30:00.000Z",
+    "home": "Cesena",
+    "away": "Modène",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 2.05,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.51,
+        "X2": 1.27
+      },
+      "btts": {
+        "yes": 1.75,
+        "no": 1.58
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.33,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.2,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14.5,
+            "hx": 5.9,
+            "h2": 1.04
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.8,
+            "hx": 4.05,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.5,
+            "hx": 3.45,
+            "h2": 4.05
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5,
+            "h2": 8.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.02,
+            "hx": 6.5,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.15,
+            "h2": 1.04
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.2
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:55:50.611Z"
+  },
+  {
+    "match_id": "Serie_A|2025-11-28T19:45:00.000Z|Como_1907|Sassuolo",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-a/3274922/como-1907-vs-sassuolo",
+    "league": "Serie A",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-11-28T19:45:00.000Z",
+    "home": "Como 1907",
+    "away": "Sassuolo",
+    "odds": {
+      "1x2": {
+        "1": 1.59,
+        "2": 5,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.14,
+        "X2": 1.89
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.85
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.2,
+            "hx": 4.4,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.65,
+            "hx": 3.4,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.4,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T06:56:06.012Z"
+  },
+  {
+    "match_id": "CAF_Champions_League|2025-11-28T16:00:00.000Z|Rivers_United|RS_Berkane",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/afrique/caf-champions-league/3282848/rivers-united-vs-rs-berkane",
+    "league": "CAF Champions League",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2025-11-28T16:00:00.000Z",
+    "home": "Rivers United",
+    "away": "RS Berkane",
+    "odds": {
+      "1x2": {
+        "1": 3.6,
+        "2": 1.85,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.64,
+        "X2": 1.22
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.52
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.33,
+          "under": 2.2
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 3.2,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 17,
+            "hx": 6,
+            "h2": 1.03
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.1,
+            "hx": 4.25,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.65,
+            "hx": 3.25,
+            "h2": 3.5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.18,
+            "hx": 4.65,
+            "h2": 7.5
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.03,
+            "hx": 6.3,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.58,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T07:01:10.914Z"
+  },
+  {
+    "match_id": "D1_Belgique|2025-11-28T19:45:00.000Z|KV_Mechelen|Standard_Liège",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/d1-belgique/3272297/kv-mechelen-vs-standard-liege",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-11-28T19:45:00.000Z",
+    "home": "KV Mechelen",
+    "away": "Standard Liège",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 2.95,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.3,
+        "X2": 1.52
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.4,
+            "hx": 5,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.7,
+            "hx": 3.7,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.28,
+            "hx": 4.2,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 5.9,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T07:02:08.656Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2025-11-28T19:00:00.000Z|Zwolle|Heerenveen",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/pays-bas/d1-pays-bas/3272280/zwolle-vs-heerenveen",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-11-28T19:00:00.000Z",
+    "home": "Zwolle",
+    "away": "Heerenveen",
+    "odds": {
+      "1x2": {
+        "1": 3.85,
+        "2": 1.6,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": 1.2,
+        "1X": 1.81,
+        "X2": 1.19
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.1,
+            "hx": 4.85,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.89,
+            "hx": 3.6,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.33,
+            "hx": 4.4,
+            "h2": 4.55
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.9,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.33,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T07:07:34.401Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-11-28T20:15:00.000Z|Guimaraes|AVS_Futebol",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3279644/guimaraes-vs-avs-futebol",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 20h15",
+    "kickoff_utc": "2025-11-28T20:15:00.000Z",
+    "home": "Guimaraes",
+    "away": "AVS Futebol",
+    "odds": {
+      "1x2": {
+        "1": 1.58,
+        "2": 4.95,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.15,
+        "X2": 1.96
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.45,
+            "h2": 1.34
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.75,
+            "hx": 3.3,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.4,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T07:09:06.208Z"
+  },
+  {
+    "match_id": "D1_Turquie|2025-11-28T17:00:00.000Z|Kocaelispor|Genclerbirligi",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/turquie/d1-turquie/3258838/kocaelispor-vs-genclerbirligi",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-11-28T17:00:00.000Z",
+    "home": "Kocaelispor",
+    "away": "Genclerbirligi",
+    "odds": {
+      "1x2": {
+        "1": 1.73,
+        "2": 3.85,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.2,
+        "X2": 1.69
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.5,
+            "hx": 4.5,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.15,
+            "hx": 3.25,
+            "h2": 1.73
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 4.4,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-11-28T07:11:55.148Z"
+  }
+]
