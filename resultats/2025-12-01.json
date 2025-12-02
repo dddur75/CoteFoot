@@ -1,0 +1,82 @@
+[
+  {
+    "homeTeam": "Birmingham City",
+    "awayTeam": "Watford",
+    "score": "2-1"
+  },
+  {
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Valencia",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Bologna",
+    "awayTeam": "Cremonese",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Gorica",
+    "awayTeam": "Dinamo Zagreb",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Brøndby",
+    "awayTeam": "FC Fredericia",
+    "score": "1-3"
+  },
+  {
+    "homeTeam": "Motor Lublin",
+    "awayTeam": "Legia Warsaw",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Arouca",
+    "awayTeam": "Braga",
+    "score": "0-4"
+  },
+  {
+    "homeTeam": "Petrolul Ploiești",
+    "awayTeam": "FC Metaloglobus București",
+    "score": "4-1"
+  },
+  {
+    "homeTeam": "Universitatea Cluj",
+    "awayTeam": "CS U Craiova",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Sochi",
+    "awayTeam": "D'mo Makhachkala",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Fenerbahçe",
+    "awayTeam": "Galatasaray",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Samsunspor",
+    "awayTeam": "Alanyaspor",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Dynamo Kyiv",
+    "awayTeam": "SK Poltava",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Shakhtar",
+    "awayTeam": "Kryvbas",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Jong Ajax",
+    "awayTeam": "Vitesse",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Jong PSV",
+    "awayTeam": "RKC Waalwijk",
+    "score": "3-1"
+  }
+]
