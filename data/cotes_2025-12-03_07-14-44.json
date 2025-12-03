@@ -1,0 +1,3740 @@
+[
+  {
+    "match_id": "Premier_League|2025-12-03T19:30:00.000Z|Brighton_Hove|Aston_Villa",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3283657/brighton-hove-vs-aston-villa",
+    "league": "Premier League",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Brighton Hove",
+    "away": "Aston Villa",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.4,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.28,
+        "X2": 1.63
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7.5
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.72,
+          "under": 1.88
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.11
+        },
+        "5.5": {
+          "over": 8.5,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 14,
+            "hx": 7.7,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 5.3,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.5,
+            "hx": 3.8,
+            "h2": 1.67
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.7,
+            "h2": 6.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.2,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:38:09.958Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-03T19:30:00.000Z|Burnley|Crystal_Palace",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3283656/burnley-vs-crystal-palace",
+    "league": "Premier League",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Burnley",
+    "away": "Crystal Palace",
+    "odds": {
+      "1x2": {
+        "1": 4.7,
+        "2": 1.71,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.9,
+        "X2": 1.17
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.98,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 11,
+            "hx": 5.2,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.99,
+            "hx": 3.35,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.32,
+            "hx": 4.55,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.9,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:38:23.568Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-03T19:30:00.000Z|Wolverhampton|Nottingham_F.",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3283662/wolverhampton-vs-nottingham-f",
+    "league": "Premier League",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Wolverhampton",
+    "away": "Nottingham F.",
+    "odds": {
+      "1x2": {
+        "1": 3.05,
+        "2": 2.3,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.54,
+        "X2": 1.31
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 15,
+            "hx": 6.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.35,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.56,
+            "hx": 3.7,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.6,
+            "h2": 9.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5.25,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:38:36.034Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-03T19:30:00.000Z|Arsenal|Brentford",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3283663/arsenal-vs-brentford",
+    "league": "Premier League",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Arsenal",
+    "away": "Brentford",
+    "odds": {
+      "1x2": {
+        "1": 1.42,
+        "2": 7.6,
+        "X": 4.95
+      },
+      "double_chance": {
+        "12": 1.14,
+        "1X": 1.08,
+        "X2": 2.65
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.6
+        },
+        "2.5": {
+          "over": 1.68,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.37
+        },
+        "4.5": {
+          "over": 4.4,
+          "under": 1.13
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 12,
+            "hx": 7.7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.4,
+            "hx": 5.3,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.3,
+            "hx": 3.85,
+            "h2": 1.71
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.88,
+            "hx": 3.5,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6.8,
+            "h2": 18
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 5.25,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:38:50.472Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-03T20:15:00.000Z|Leeds_Utd|Chelsea",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3283658/leeds-utd-vs-chelsea",
+    "league": "Premier League",
+    "kickoff_raw": "À 20h15",
+    "kickoff_utc": "2025-12-03T20:15:00.000Z",
+    "home": "Leeds Utd",
+    "away": "Chelsea",
+    "odds": {
+      "1x2": {
+        "1": 3.95,
+        "2": 1.81,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.81,
+        "X2": 1.22
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.2,
+            "hx": 5,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.87,
+            "hx": 3.6,
+            "h2": 2.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.8,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.1,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:39:04.510Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-03T20:15:00.000Z|Liverpool|Sunderland",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3283661/liverpool-vs-sunderland",
+    "league": "Premier League",
+    "kickoff_raw": "À 20h15",
+    "kickoff_utc": "2025-12-03T20:15:00.000Z",
+    "home": "Liverpool",
+    "away": "Sunderland",
+    "odds": {
+      "1x2": {
+        "1": 1.32,
+        "2": 8,
+        "X": 5.3
+      },
+      "double_chance": {
+        "12": 1.13,
+        "1X": 1.08,
+        "X2": 2.7
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 4.1
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.25
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 10.5,
+            "hx": 7.4,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.7,
+            "hx": 5.2,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.9,
+            "h2": 1.77
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.81,
+            "hx": 3.65,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.9,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.85,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:39:17.948Z"
+  },
+  {
+    "match_id": "LaLiga|2025-12-03T18:00:00.000Z|Ath._Bilbao|Real_Madrid",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3272839/ath-bilbao-vs-real-madrid",
+    "league": "LaLiga",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-12-03T18:00:00.000Z",
+    "home": "Ath. Bilbao",
+    "away": "Real Madrid",
+    "odds": {
+      "1x2": {
+        "1": 4.4,
+        "2": 1.72,
+        "X": 4.2
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.87,
+        "X2": 1.22
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.45,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 4.1,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.1,
+            "hx": 5.1,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.95,
+            "hx": 3.65,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.33,
+            "hx": 4.7,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.9,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:43:16.323Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2025-12-03T17:00:00.000Z|Bochum|Stuttgart",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/cpe-allemagne/3278120/bochum-vs-stuttgart",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-03T17:00:00.000Z",
+    "home": "Bochum",
+    "away": "Stuttgart",
+    "odds": {
+      "1x2": {
+        "1": 5.9,
+        "2": 1.45,
+        "X": 4.75
+      },
+      "double_chance": {
+        "12": 1.16,
+        "1X": 2.35,
+        "X2": 1.12
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.13,
+          "under": 4.4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2.1,
+          "under": 1.57
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 12,
+            "hx": 6.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.55,
+            "hx": 3.7,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.59,
+            "hx": 4.2,
+            "h2": 3.55
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.7,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.06,
+            "hx": 8,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 2
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:47:40.629Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2025-12-03T17:00:00.000Z|Fribourg|SV_Darmstadt",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/cpe-allemagne/3278123/fribourg-vs-sv-darmstadt",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-03T17:00:00.000Z",
+    "home": "Fribourg",
+    "away": "SV Darmstadt",
+    "odds": {
+      "1x2": {
+        "1": 1.55,
+        "2": 5.4,
+        "X": 4.15
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.15,
+        "X2": 2.1
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7.5
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.72,
+          "under": 1.88
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.11
+        },
+        "5.5": {
+          "over": 8.5,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.4,
+            "hx": 6.3,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.65,
+            "hx": 4.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.45,
+            "hx": 3.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.7,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.25,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:47:51.029Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2025-12-03T19:45:00.000Z|Hambourg|Holstein_Kiel",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/cpe-allemagne/3278121/hambourg-vs-holstein-kiel",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-12-03T19:45:00.000Z",
+    "home": "Hambourg",
+    "away": "Holstein Kiel",
+    "odds": {
+      "1x2": {
+        "1": 1.68,
+        "2": 4.3,
+        "X": 3.95
+      },
+      "double_chance": {
+        "12": 1.2,
+        "1X": 1.18,
+        "X2": 1.86
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4.25,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.6,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.1,
+            "hx": 4.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.65,
+            "hx": 3.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.2,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:48:01.775Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2025-12-03T19:45:00.000Z|Union_Berlin|Bayern_Munich",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/cpe-allemagne/3278119/union-berlin-vs-bayern-munich",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-12-03T19:45:00.000Z",
+    "home": "Union Berlin",
+    "away": "Bayern Munich",
+    "odds": {
+      "1x2": {
+        "1": 9.6,
+        "2": 1.25,
+        "X": 6
+      },
+      "double_chance": {
+        "12": 1.1,
+        "1X": 3.05,
+        "X2": 1.06
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.13,
+          "under": 4.4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 3.6,
+            "hx": 3.75,
+            "h2": 1.66
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.95,
+            "hx": 3.85,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.36,
+            "hx": 4.85,
+            "h2": 4.8
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.9,
+            "h2": 9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:48:12.428Z"
+  },
+  {
+    "match_id": "Coupe_d'Italie|2025-12-03T14:00:00.000Z|Atalanta|Genoa",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/coupe-d-italie/3271751/atalanta-vs-genoa",
+    "league": "Coupe d'Italie",
+    "kickoff_raw": "À 14h00",
+    "kickoff_utc": "2025-12-03T14:00:00.000Z",
+    "home": "Atalanta",
+    "away": "Genoa",
+    "odds": {
+      "1x2": {
+        "1": 1.49,
+        "2": 6.6,
+        "X": 4.2
+      },
+      "double_chance": {
+        "12": 1.2,
+        "1X": 1.11,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.62
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7.5
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3.2
+        },
+        "2.5": {
+          "over": 1.82,
+          "under": 1.77
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 5.3,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8.5,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.9,
+            "hx": 6.1,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.35,
+            "hx": 4.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.3,
+            "hx": 3.4,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:51:50.624Z"
+  },
+  {
+    "match_id": "Coupe_d'Italie|2025-12-03T17:00:00.000Z|Naples|Cagliari",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/coupe-d-italie/3271753/naples-vs-cagliari",
+    "league": "Coupe d'Italie",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-03T17:00:00.000Z",
+    "home": "Naples",
+    "away": "Cagliari",
+    "odds": {
+      "1x2": {
+        "1": 1.48,
+        "2": 6.7,
+        "X": 4.1
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.11,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.98,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.6,
+            "hx": 6.1,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.6,
+            "hx": 4.1,
+            "h2": 1.46
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.35,
+            "hx": 3.25,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:52:01.646Z"
+  },
+  {
+    "match_id": "Coupe_d'Italie|2025-12-03T20:00:00.000Z|Inter_Milan|Venezia_FC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/coupe-d-italie/3271754/inter-milan-vs-venezia-fc",
+    "league": "Coupe d'Italie",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-03T20:00:00.000Z",
+    "home": "Inter Milan",
+    "away": "Venezia FC",
+    "odds": {
+      "1x2": {
+        "1": 1.12,
+        "2": 17,
+        "X": 8.3
+      },
+      "double_chance": {
+        "12": 1.05,
+        "1X": 1.02,
+        "X2": 4
+      },
+      "btts": {
+        "yes": 2.35,
+        "no": 1.42
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 2.1,
+          "under": 1.57
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 11,
+            "hx": 8.1,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 6.3,
+            "hx": 5.8,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 3.45,
+            "hx": 4.3,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.7,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4,
+            "h2": 5.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:52:12.157Z"
+  },
+  {
+    "match_id": "Cpe_Belgique|2025-12-03T19:30:00.000Z|Louvain|Club_Bruges",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/cpe-belgique/3284106/louvain-vs-club-bruges",
+    "league": "Cpe Belgique",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Louvain",
+    "away": "Club Bruges",
+    "odds": {
+      "1x2": {
+        "1": 4.35,
+        "2": 1.55,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.2,
+        "1X": 1.9,
+        "X2": 1.16
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.5,
+            "hx": 5,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2,
+            "hx": 3.5,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.36,
+            "hx": 4.25,
+            "h2": 4.4
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.7,
+            "h2": 8.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:59:41.031Z"
+  },
+  {
+    "match_id": "Cpe_Belgique|2025-12-03T19:30:00.000Z|Royal_Antwerp|St_Trond",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/cpe-belgique/3284107/royal-antwerp-vs-st-trond",
+    "league": "Cpe Belgique",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Royal Antwerp",
+    "away": "St Trond",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.6,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.36,
+        "X2": 1.44
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 2.9
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.3,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.25,
+            "hx": 3.75,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 3.9,
+            "h2": 4.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 5.5,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T06:59:49.645Z"
+  },
+  {
+    "match_id": "Cpe_Belgique|2025-12-03T19:30:00.000Z|Cercle_Bruges|La_Gantoise",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/cpe-belgique/3284108/cercle-bruges-vs-la-gantoise",
+    "league": "Cpe Belgique",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Cercle Bruges",
+    "away": "La Gantoise",
+    "odds": {
+      "1x2": {
+        "1": 1.96,
+        "2": 2.9,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.3,
+        "X2": 1.55
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.5,
+            "hx": 4.95,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.75,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.28,
+            "hx": 4.3,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 5.9,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:00:02.928Z"
+  },
+  {
+    "match_id": "Cpe_Belgique|2025-12-03T19:30:00.000Z|Saint-Gilloise|Zulte_Waregem",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/cpe-belgique/3284109/saint-gilloise-vs-zulte-waregem",
+    "league": "Cpe Belgique",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-03T19:30:00.000Z",
+    "home": "Saint-Gilloise",
+    "away": "Zulte Waregem",
+    "odds": {
+      "1x2": {
+        "1": 1.25,
+        "2": 7.2,
+        "X": 4.7
+      },
+      "double_chance": {
+        "12": 1.12,
+        "1X": 1.07,
+        "X2": 2.55
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.1,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 8.6,
+            "hx": 6.3,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.95,
+            "hx": 4.75,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.8,
+            "hx": 3.75,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.73,
+            "hx": 3.55,
+            "h2": 2.95
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:00:12.116Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-12-03T22:00:00.000Z|Fortaleza_CE|Corinthians",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3284392/fortaleza-ce-vs-corinthians",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-12-03T22:00:00.000Z",
+    "home": "Fortaleza CE",
+    "away": "Corinthians",
+    "odds": {
+      "1x2": {
+        "1": 1.62,
+        "2": 4.6,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.16,
+        "X2": 1.89
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.55,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.9,
+            "hx": 3.3,
+            "h2": 1.98
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.3,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:01:49.133Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-12-03T22:00:00.000Z|Bragantino_SP|Vitoria_BA",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3282562/bragantino-sp-vs-vitoria-ba",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2025-12-03T22:00:00.000Z",
+    "home": "Bragantino SP",
+    "away": "Vitoria BA",
+    "odds": {
+      "1x2": {
+        "1": 1.8,
+        "2": 3.7,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.22,
+        "X2": 1.72
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 14.5,
+            "hx": 7.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.1,
+            "hx": 4.95,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.35,
+            "hx": 3.5,
+            "h2": 1.77
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.85,
+            "h2": 8.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:02:03.228Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-12-03T22:30:00.000Z|Juventude_RS|Santos",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3284393/juventude-rs-vs-santos",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h30",
+    "kickoff_utc": "2025-12-03T22:30:00.000Z",
+    "home": "Juventude RS",
+    "away": "Santos",
+    "odds": {
+      "1x2": {
+        "1": 4.35,
+        "2": 1.63,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.89,
+        "X2": 1.18
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.3,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.97,
+            "hx": 3.5,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.33,
+            "hx": 4.6,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.9,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:02:14.448Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-12-03T23:00:00.000Z|Bahia_Salvador|Recife",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3284391/bahia-salvador-vs-recife",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 23h00",
+    "kickoff_utc": "2025-12-03T23:00:00.000Z",
+    "home": "Bahia Salvador",
+    "away": "Recife",
+    "odds": {
+      "1x2": {
+        "1": 1.16,
+        "2": 10.5,
+        "X": 5.6
+      },
+      "double_chance": {
+        "12": 1.09,
+        "1X": 1.04,
+        "X2": 3.3
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 7.6,
+            "hx": 6.4,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.15,
+            "hx": 4.65,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.35,
+            "hx": 3.8,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.54,
+            "hx": 3.95,
+            "h2": 4.05
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:02:28.533Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-12-03T23:00:00.000Z|Sao_Paulo|Internacional",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3284388/sao-paulo-vs-internacional",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 23h00",
+    "kickoff_utc": "2025-12-03T23:00:00.000Z",
+    "home": "Sao Paulo",
+    "away": "Internacional",
+    "odds": {
+      "1x2": {
+        "1": 2.45,
+        "2": 2.6,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.39,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.2,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.3,
+            "hx": 3.95,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.39,
+            "hx": 4,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.3,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:02:38.870Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-12-04T00:30:00.000Z|Flamengo|Ceara_CE",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3284202/flamengo-vs-ceara-ce",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-12-04T00:30:00.000Z",
+    "home": "Flamengo",
+    "away": "Ceara CE",
+    "odds": {
+      "1x2": {
+        "1": 1.19,
+        "2": 9.9,
+        "X": 5
+      },
+      "double_chance": {
+        "12": 1.11,
+        "1X": 1.05,
+        "X2": 3.05
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.6,
+            "hx": 7,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5,
+            "hx": 4.85,
+            "h2": 1.34
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.75,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.66,
+            "hx": 3.65,
+            "h2": 3.65
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:02:48.378Z"
+  },
+  {
+    "match_id": "D1_Brésil|2025-12-04T00:30:00.000Z|Atletico_MG|Palmeiras",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3282647/atletico-mg-vs-palmeiras",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2025-12-04T00:30:00.000Z",
+    "home": "Atletico MG",
+    "away": "Palmeiras",
+    "odds": {
+      "1x2": {
+        "1": 2.9,
+        "2": 2.25,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.48,
+        "X2": 1.32
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 15,
+            "hx": 6.8,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.5,
+            "hx": 4.25,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 3.8,
+            "h2": 4.65
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.8,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:02:58.218Z"
+  },
+  {
+    "match_id": "D1_Ecosse|2025-12-03T19:45:00.000Z|Aberdeen|St_Mirren",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/ecosse/d1-ecosse/3284671/aberdeen-vs-st-mirren",
+    "league": "D1 Ecosse",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-12-03T19:45:00.000Z",
+    "home": "Aberdeen",
+    "away": "St Mirren",
+    "odds": {
+      "1x2": {
+        "1": 1.98,
+        "2": 3.1,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.27,
+        "X2": 1.55
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 2.9
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 6.75,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.3,
+            "hx": 4.9,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.6,
+            "hx": 3.55,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.15,
+            "h2": 6.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 5.9,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.2,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 4.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:03:38.170Z"
+  },
+  {
+    "match_id": "D1_Ecosse|2025-12-03T19:45:00.000Z|Celtic|Dundee_FC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/ecosse/d1-ecosse/3284672/celtic-vs-dundee-fc",
+    "league": "D1 Ecosse",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-12-03T19:45:00.000Z",
+    "home": "Celtic",
+    "away": "Dundee FC",
+    "odds": {
+      "1x2": {
+        "1": 1.08,
+        "2": 14,
+        "X": 7.1
+      },
+      "double_chance": {
+        "12": 1.04,
+        "1X": 1.02,
+        "X2": 3.6
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.07,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 2.6
+        },
+        "3.5": {
+          "over": 1.72,
+          "under": 1.72
+        },
+        "4.5": {
+          "over": 2.5,
+          "under": 1.32
+        },
+        "5.5": {
+          "over": 3.7,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 7.9,
+            "hx": 6.6,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 4.8,
+            "hx": 5.1,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 2.85,
+            "hx": 4.05,
+            "h2": 1.66
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 1.82,
+            "hx": 3.7,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.3,
+            "hx": 4.15,
+            "h2": 5.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:03:47.069Z"
+  },
+  {
+    "match_id": "D1_Ecosse|2025-12-03T19:45:00.000Z|Hearts|Kilmarnock",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/ecosse/d1-ecosse/3284673/hearts-vs-kilmarnock",
+    "league": "D1 Ecosse",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-12-03T19:45:00.000Z",
+    "home": "Hearts",
+    "away": "Kilmarnock",
+    "odds": {
+      "1x2": {
+        "1": 1.3,
+        "2": 7.2,
+        "X": 4.3
+      },
+      "double_chance": {
+        "12": 1.15,
+        "1X": 1.08,
+        "X2": 2.4
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 6.25
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.2
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.95,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.25,
+            "hx": 3.7,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.89,
+            "hx": 3.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.05,
+            "hx": 5.6,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.55
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:04:00.565Z"
+  },
+  {
+    "match_id": "D1_Ecosse|2025-12-03T19:45:00.000Z|Falkirk|Motherwell",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/ecosse/d1-ecosse/3284670/falkirk-vs-motherwell",
+    "league": "D1 Ecosse",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-12-03T19:45:00.000Z",
+    "home": "Falkirk",
+    "away": "Motherwell",
+    "odds": {
+      "1x2": {
+        "1": 2.5,
+        "2": 2.35,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.41,
+        "X2": 1.39
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.55,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.1,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 6.25,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.2,
+            "hx": 5.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.55,
+            "hx": 3.9,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 3.85,
+            "h2": 4.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.4,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:04:09.444Z"
+  },
+  {
+    "match_id": "D1_Ecosse|2025-12-03T19:45:00.000Z|Dundee_Utd|Rangers",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/ecosse/d1-ecosse/3280670/dundee-utd-vs-rangers",
+    "league": "D1 Ecosse",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2025-12-03T19:45:00.000Z",
+    "home": "Dundee Utd",
+    "away": "Rangers",
+    "odds": {
+      "1x2": {
+        "1": 3.55,
+        "2": 1.78,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.68,
+        "X2": 1.22
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 6.25
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.2
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 6.25,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.9,
+            "hx": 4.5,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.73,
+            "hx": 3.5,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.55,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.2,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 4.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:04:18.425Z"
+  },
+  {
+    "match_id": "D1_Mexique|2025-12-04T01:00:00.000Z|Cruz_Azul|Tigres_UANL",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/mexique/d1-mexique/3285329/cruz-azul-vs-tigres-uanl",
+    "league": "D1 Mexique",
+    "kickoff_raw": "Demain à 01h00",
+    "kickoff_utc": "2025-12-04T01:00:00.000Z",
+    "home": "Cruz Azul",
+    "away": "Tigres UANL",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.75,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.33,
+        "X2": 1.44
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 2.9,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 6.75,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.2,
+            "hx": 3.7,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.32,
+            "hx": 3.95,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 5.7,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:07:06.424Z"
+  },
+  {
+    "match_id": "D1_Mexique|2025-12-04T03:10:00.000Z|Monterrey|Dep._Toluca",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/mexique/d1-mexique/3285330/monterrey-vs-dep-toluca",
+    "league": "D1 Mexique",
+    "kickoff_raw": "Demain à 03h10",
+    "kickoff_utc": "2025-12-04T03:10:00.000Z",
+    "home": "Monterrey",
+    "away": "Dep. Toluca",
+    "odds": {
+      "1x2": {
+        "1": 2.5,
+        "2": 2.2,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.44,
+        "X2": 1.37
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 5.25,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.8,
+            "hx": 5.6,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.5,
+            "hx": 4.05,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.45,
+            "hx": 3.9,
+            "h2": 3.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.3,
+            "h2": 7.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-03T07:07:16.477Z"
+  }
+]
