@@ -1,0 +1,107 @@
+[
+  {
+    "homeTeam": "Bournemouth",
+    "awayTeam": "Everton",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Fulham",
+    "awayTeam": "Manchester City",
+    "score": "4-5"
+  },
+  {
+    "homeTeam": "Newcastle Utd",
+    "awayTeam": "Tottenham",
+    "score": "2-2"
+  },
+  {
+    "homeTeam": "Blackburn",
+    "awayTeam": "Ipswich Town",
+    "score": "1-1"
+  },
+  {
+    "homeTeam": "Wigan Athletic",
+    "awayTeam": "Burton Albion",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Barcelona",
+    "awayTeam": "Atlético Madrid",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "Racing Ferrol",
+    "awayTeam": "Huesca",
+    "score": "0-2"
+  },
+  {
+    "homeTeam": "Ebro",
+    "awayTeam": "Osasuna",
+    "score": "3-5"
+  },
+  {
+    "homeTeam": "Numancia",
+    "awayTeam": "Mallorca",
+    "score": "2-3"
+  },
+  {
+    "homeTeam": "Club Portugalete",
+    "awayTeam": "Alavés",
+    "score": "0-3"
+  },
+  {
+    "homeTeam": "Guadalajara",
+    "awayTeam": "Ceuta",
+    "score": "1-0"
+  },
+  {
+    "homeTeam": "Navalcarnero",
+    "awayTeam": "Getafe",
+    "score": "2-3"
+  },
+  {
+    "homeTeam": "Hertha BSC",
+    "awayTeam": "Kaiserslautern",
+    "score": "6-1"
+  },
+  {
+    "homeTeam": "Gladbach",
+    "awayTeam": "St. Pauli",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "RB Leipzig",
+    "awayTeam": "Magdeburg",
+    "score": "3-1"
+  },
+  {
+    "homeTeam": "Dortmund",
+    "awayTeam": "Leverkusen",
+    "score": "0-1"
+  },
+  {
+    "homeTeam": "Juventus",
+    "awayTeam": "Udinese",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Montana",
+    "awayTeam": "Lokomotiv Sofia",
+    "score": "1-2"
+  },
+  {
+    "homeTeam": "Arda",
+    "awayTeam": "Botev Plovdiv",
+    "score": "0-0"
+  },
+  {
+    "homeTeam": "Ajax",
+    "awayTeam": "Groningen",
+    "score": "2-0"
+  },
+  {
+    "homeTeam": "Lamontville Golden Arrows",
+    "awayTeam": "AmaZulu",
+    "score": "0-1"
+  }
+]
