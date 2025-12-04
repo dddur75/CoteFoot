@@ -1,0 +1,904 @@
+[
+  {
+    "match_id": "D1_Brésil|2025-12-04T22:30:00.000Z|Cruzeiro|Botafogo",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/d1-bresil/3284389/cruzeiro-vs-botafogo",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h30",
+    "kickoff_utc": "2025-12-04T22:30:00.000Z",
+    "home": "Cruzeiro",
+    "away": "Botafogo",
+    "odds": {
+      "1x2": {
+        "1": 1.92,
+        "2": 3.5,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.24,
+        "X2": 1.63
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.7,
+            "hx": 5.2,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.6,
+            "hx": 3.65,
+            "h2": 1.67
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.75,
+            "h2": 7.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T06:34:49.114Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-04T20:00:00.000Z|Man._United|West_Ham",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3283666/man-united-vs-west-ham",
+    "league": "Premier League",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-04T20:00:00.000Z",
+    "home": "Man. United",
+    "away": "West Ham",
+    "odds": {
+      "1x2": {
+        "1": 1.46,
+        "2": 6.3,
+        "X": 4.9
+      },
+      "double_chance": {
+        "12": 1.16,
+        "1X": 1.12,
+        "X2": 2.35
+      },
+      "btts": {
+        "yes": 1.62,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.14,
+          "under": 4.25
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 12,
+            "hx": 8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5.7,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.5,
+            "hx": 4.15,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.7,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.3,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T06:35:59.408Z"
+  },
+  {
+    "match_id": "Coupe_d'Italie|2025-12-04T17:00:00.000Z|Bologne|Parme",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/coupe-d-italie/3271755/bologne-vs-parme",
+    "league": "Coupe d'Italie",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-04T17:00:00.000Z",
+    "home": "Bologne",
+    "away": "Parme",
+    "odds": {
+      "1x2": {
+        "1": 1.49,
+        "2": 7,
+        "X": 4.1
+      },
+      "double_chance": {
+        "12": 1.2,
+        "1X": 1.1,
+        "X2": 2.25
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3.2,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.8,
+            "hx": 6,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.3,
+            "hx": 4.05,
+            "h2": 1.49
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.25,
+            "hx": 3.35,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.2,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T06:37:50.460Z"
+  },
+  {
+    "match_id": "Coupe_d'Italie|2025-12-04T20:00:00.000Z|Lazio_Rome|Milan_AC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/coupe-d-italie/3271750/lazio-rome-vs-milan-ac",
+    "league": "Coupe d'Italie",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-04T20:00:00.000Z",
+    "home": "Lazio Rome",
+    "away": "Milan AC",
+    "odds": {
+      "1x2": {
+        "1": 3.35,
+        "2": 2.25,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.56,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 16,
+            "hx": 7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7,
+            "hx": 4.4,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.58,
+            "hx": 3.65,
+            "h2": 4.05
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.5,
+            "h2": 9.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.85,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T06:38:00.596Z"
+  },
+  {
+    "match_id": "Serie_B|2025-12-04T18:30:00.000Z|SS_Juve_Stabia|Bari",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-b/3279242/ss-juve-stabia-vs-bari",
+    "league": "Serie B",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2025-12-04T18:30:00.000Z",
+    "home": "SS Juve Stabia",
+    "away": "Bari",
+    "odds": {
+      "1x2": {
+        "1": 1.78,
+        "2": 4.05,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.2,
+        "X2": 1.73
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.8,
+            "hx": 4.9,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.45,
+            "hx": 3.35,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.18,
+            "hx": 4.9,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T06:49:11.573Z"
+  },
+  {
+    "match_id": "Cpe_Belgique|2025-12-04T19:30:00.000Z|Charleroi|KV_Mechelen",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/cpe-belgique/3284110/charleroi-vs-kv-mechelen",
+    "league": "Cpe Belgique",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-04T19:30:00.000Z",
+    "home": "Charleroi",
+    "away": "KV Mechelen",
+    "odds": {
+      "1x2": {
+        "1": 1.88,
+        "2": 3.2,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.26,
+        "X2": 1.61
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 6.25
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.2
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 6.25,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.4,
+            "hx": 4.75,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.25,
+            "hx": 3.55,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.35,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T06:56:20.283Z"
+  },
+  {
+    "match_id": "Cpe_Belgique|2025-12-04T19:30:00.000Z|RC_Genk|Anderlecht",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/cpe-belgique/3284111/rc-genk-vs-anderlecht",
+    "league": "Cpe Belgique",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2025-12-04T19:30:00.000Z",
+    "home": "RC Genk",
+    "away": "Anderlecht",
+    "odds": {
+      "1x2": {
+        "1": 1.94,
+        "2": 3.05,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.28,
+        "X2": 1.57
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 6.25
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.55,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.1,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 6.25,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.9,
+            "hx": 4.85,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.45,
+            "hx": 3.55,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.2,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 5.9,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.2,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T06:56:29.254Z"
+  },
+  {
+    "match_id": "Cpe_Ligue_Portugal|2025-12-04T20:15:00.000Z|FC_Porto|Guimaraes",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/cpe-ligue-portugal/3284595/fc-porto-vs-guimaraes",
+    "league": "Cpe Ligue Portugal",
+    "kickoff_raw": "À 20h15",
+    "kickoff_utc": "2025-12-04T20:15:00.000Z",
+    "home": "FC Porto",
+    "away": "Guimaraes",
+    "odds": {
+      "1x2": {
+        "1": 1.27,
+        "2": 8,
+        "X": 4.8
+      },
+      "double_chance": {
+        "12": 1.12,
+        "1X": 1.06,
+        "X2": 2.6
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.2,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.1,
+            "hx": 6.3,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.2,
+            "hx": 4.7,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.85,
+            "hx": 3.65,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.73,
+            "hx": 3.4,
+            "h2": 3.05
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-04T07:01:59.874Z"
+  }
+]
