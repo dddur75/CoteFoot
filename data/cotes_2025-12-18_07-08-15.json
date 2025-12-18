@@ -1,0 +1,686 @@
+[
+  {
+    "match_id": "Super_Coupe|2025-12-18T19:00:00.000Z|Naples|Milan_AC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/super-coupe/3271756/naples-vs-milan-ac",
+    "league": "Super Coupe",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-12-18T19:00:00.000Z",
+    "home": "Naples",
+    "away": "Milan AC",
+    "odds": {
+      "1x2": {
+        "1": 2.8,
+        "2": 2.65,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.37,
+        "1X": 1.39,
+        "X2": 1.37
+      },
+      "btts": {
+        "yes": 1.75,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.57
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.6,
+            "hx": 4.2,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.39,
+            "hx": 4.1,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.3,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-18T06:34:34.685Z"
+  },
+  {
+    "match_id": "Copa_del_Rey|2025-12-18T18:00:00.000Z|Burgos_CF|Getafe",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/copa-del-rey/3295163/burgos-cf-vs-getafe",
+    "league": "Copa del Rey",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-12-18T18:00:00.000Z",
+    "home": "Burgos CF",
+    "away": "Getafe",
+    "odds": {
+      "1x2": {
+        "1": 3.25,
+        "2": 2.35,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.46,
+        "X2": 1.28
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.48
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.55,
+          "under": 2.05
+        },
+        "2.5": {
+          "over": 2.6,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 4.75,
+          "under": 1.09
+        },
+        "4.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.6,
+            "hx": 4.05,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.5,
+            "hx": 3.45,
+            "h2": 4.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.6,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-18T06:35:01.883Z"
+  },
+  {
+    "match_id": "Copa_del_Rey|2025-12-18T18:00:00.000Z|Ourense_CF|Ath._Bilbao",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/copa-del-rey/3295162/ourense-cf-vs-ath-bilbao",
+    "league": "Copa del Rey",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-12-18T18:00:00.000Z",
+    "home": "Ourense CF",
+    "away": "Ath. Bilbao",
+    "odds": {
+      "1x2": {
+        "1": 7.1,
+        "2": 1.44,
+        "X": 4.1
+      },
+      "double_chance": {
+        "12": 1.18,
+        "1X": 2.2,
+        "X2": 1.09
+      },
+      "btts": {
+        "yes": 2.15,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 17,
+            "hx": 6,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.2,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.49,
+            "hx": 3.95,
+            "h2": 4.25
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.8,
+            "h2": 8.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-18T06:35:12.127Z"
+  },
+  {
+    "match_id": "Copa_del_Rey|2025-12-18T20:00:00.000Z|Real_Murcie|Betis_Séville",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/copa-del-rey/3294373/real-murcie-vs-betis-seville",
+    "league": "Copa del Rey",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-18T20:00:00.000Z",
+    "home": "Real Murcie",
+    "away": "Betis Séville",
+    "odds": {
+      "1x2": {
+        "1": 6.6,
+        "2": 1.43,
+        "X": 4.35
+      },
+      "double_chance": {
+        "12": 1.17,
+        "1X": 2.2,
+        "X2": 1.1
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.85
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 14.5,
+            "hx": 6,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.4,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.53,
+            "hx": 4,
+            "h2": 3.9
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.7,
+            "h2": 7.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-18T06:35:21.699Z"
+  },
+  {
+    "match_id": "Cpe_Portugal|2025-12-18T18:45:00.000Z|Santa_Clara|Sporting",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/cpe-portugal/3296060/santa-clara-vs-sporting",
+    "league": "Cpe Portugal",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-12-18T18:45:00.000Z",
+    "home": "Santa Clara",
+    "away": "Sporting",
+    "odds": {
+      "1x2": {
+        "1": 6.9,
+        "2": 1.39,
+        "X": 4.05
+      },
+      "double_chance": {
+        "12": 1.17,
+        "1X": 2.25,
+        "X2": 1.09
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 16,
+            "hx": 6.1,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.55,
+            "hx": 3.3,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.52,
+            "hx": 3.95,
+            "h2": 4
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.7,
+            "h2": 8.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-18T07:01:16.006Z"
+  },
+  {
+    "match_id": "Cpe_Portugal|2025-12-18T20:45:00.000Z|FC_Porto|Famalicao",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/cpe-portugal/3296062/fc-porto-vs-famalicao",
+    "league": "Cpe Portugal",
+    "kickoff_raw": "À 20h45",
+    "kickoff_utc": "2025-12-18T20:45:00.000Z",
+    "home": "FC Porto",
+    "away": "Famalicao",
+    "odds": {
+      "1x2": {
+        "1": 1.34,
+        "2": 7.3,
+        "X": 4.4
+      },
+      "double_chance": {
+        "12": 1.15,
+        "1X": 1.08,
+        "X2": 2.35
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.1,
+            "hx": 5.4,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.6,
+            "hx": 3.9,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2,
+            "hx": 3.35,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.3,
+            "h2": 17
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-18T07:01:28.221Z"
+  }
+]
