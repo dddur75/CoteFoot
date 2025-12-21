@@ -1,0 +1,4996 @@
+[
+  {
+    "match_id": "LaLiga|2025-12-21T13:00:00.000Z|Gérone|Atl._Madrid",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3265133/gerone-vs-atl-madrid",
+    "league": "LaLiga",
+    "kickoff_raw": "À 13h00",
+    "kickoff_utc": "2025-12-21T13:00:00.000Z",
+    "home": "Gérone",
+    "away": "Atl. Madrid",
+    "odds": {
+      "1x2": {
+        "1": 4.9,
+        "2": 1.67,
+        "X": 4.05
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.98,
+        "X2": 1.17
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.6
+        },
+        "2.5": {
+          "over": 1.68,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.37
+        },
+        "4.5": {
+          "over": 4.4,
+          "under": 1.13
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 10,
+            "hx": 5.5,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.1,
+            "hx": 3.55,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.5,
+            "h2": 4.9
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.6,
+            "h2": 9.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:35:08.896Z"
+  },
+  {
+    "match_id": "LaLiga|2025-12-21T15:15:00.000Z|Villarreal|FC_Barcelone",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3265134/villarreal-vs-fc-barcelone",
+    "league": "LaLiga",
+    "kickoff_raw": "À 15h15",
+    "kickoff_utc": "2025-12-21T15:15:00.000Z",
+    "home": "Villarreal",
+    "away": "FC Barcelone",
+    "odds": {
+      "1x2": {
+        "1": 3.65,
+        "2": 1.76,
+        "X": 4.8
+      },
+      "double_chance": {
+        "12": 1.19,
+        "1X": 1.9,
+        "X2": 1.23
+      },
+      "btts": {
+        "yes": 1.35,
+        "no": 2.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "2.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "3.5": {
+          "over": 1.8,
+          "under": 1.8
+        },
+        "4.5": {
+          "over": 2.65,
+          "under": 1.35
+        },
+        "5.5": {
+          "over": 4.4,
+          "under": 1.13
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7.7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.9,
+            "hx": 5.4,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.99,
+            "hx": 4,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.39,
+            "hx": 4.8,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.14,
+            "hx": 6.7,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:36:02.732Z"
+  },
+  {
+    "match_id": "LaLiga|2025-12-21T17:30:00.000Z|Elche|Rayo_Vallecano",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3265130/elche-vs-rayo-vallecano",
+    "league": "LaLiga",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-12-21T17:30:00.000Z",
+    "home": "Elche",
+    "away": "Rayo Vallecano",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 3.2,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.32,
+        "X2": 1.48
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "1.5": {
+          "over": 1.38,
+          "under": 2.55
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.52
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 5.8,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.65,
+            "hx": 3.75,
+            "h2": 1.49
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 4.25,
+            "h2": 6.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.8,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.25,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:36:56.308Z"
+  },
+  {
+    "match_id": "LaLiga|2025-12-21T20:00:00.000Z|Betis_Séville|Getafe",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3265146/betis-seville-vs-getafe",
+    "league": "LaLiga",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-21T20:00:00.000Z",
+    "home": "Betis Séville",
+    "away": "Getafe",
+    "odds": {
+      "1x2": {
+        "1": 1.72,
+        "2": 5.4,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.15,
+        "X2": 1.89
+      },
+      "btts": {
+        "yes": 2.1,
+        "no": 1.52
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.45
+        },
+        "2.5": {
+          "over": 2.25,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 4.1,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7.5,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.4,
+            "hx": 4.55,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.95,
+            "hx": 3.25,
+            "h2": 1.98
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.3,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.25,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:37:50.498Z"
+  },
+  {
+    "match_id": "Bundesliga_1|2025-12-21T14:30:00.000Z|Mayence|St_Pauli",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-1/3279671/mayence-vs-st-pauli",
+    "league": "Bundesliga 1",
+    "kickoff_raw": "À 14h30",
+    "kickoff_utc": "2025-12-21T14:30:00.000Z",
+    "home": "Mayence",
+    "away": "St Pauli",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 3.9,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.24,
+        "X2": 1.68
+      },
+      "btts": {
+        "yes": 1.82,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.6,
+            "hx": 5.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.5,
+            "hx": 3.55,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.22,
+            "hx": 4.75,
+            "h2": 8.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:39:57.008Z"
+  },
+  {
+    "match_id": "Bundesliga_1|2025-12-21T16:30:00.000Z|FC_Heidenheim|Bayern_Munich",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-1/3279680/fc-heidenheim-vs-bayern-munich",
+    "league": "Bundesliga 1",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-12-21T16:30:00.000Z",
+    "home": "FC Heidenheim",
+    "away": "Bayern Munich",
+    "odds": {
+      "1x2": {
+        "1": 17,
+        "2": 1.13,
+        "X": 9.2
+      },
+      "double_chance": {
+        "12": 1.05,
+        "1X": 3.95,
+        "X2": 1.03
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.75
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "2.5": {
+          "over": 1.25,
+          "under": 3.2
+        },
+        "3.5": {
+          "over": 1.62,
+          "under": 2
+        },
+        "4.5": {
+          "over": 2.35,
+          "under": 1.45
+        },
+        "5.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "6.5": {
+          "over": 6,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 5.4,
+            "hx": 4.65,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 2.75,
+            "hx": 4.1,
+            "h2": 1.84
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.74,
+            "hx": 4.4,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.31,
+            "hx": 5.5,
+            "h2": 4.9
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.11,
+            "hx": 7.5,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 4.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:40:55.735Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-21T16:30:00.000Z|Aston_Villa|Man._United",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3286652/aston-villa-vs-man-united",
+    "league": "Premier League",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2025-12-21T16:30:00.000Z",
+    "home": "Aston Villa",
+    "away": "Man. United",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 3.25,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.31,
+        "X2": 1.6
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 4.1
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7.8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7,
+            "hx": 5.4,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.5,
+            "hx": 4,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.3,
+            "hx": 4.75,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:45:12.486Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-12-21T13:00:00.000Z|Malaga|Almeria",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3265128/malaga-vs-almeria",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 13h00",
+    "kickoff_utc": "2025-12-21T13:00:00.000Z",
+    "home": "Malaga",
+    "away": "Almeria",
+    "odds": {
+      "1x2": {
+        "1": 2.75,
+        "2": 2.3,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.48,
+        "X2": 1.36
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.6,
+            "hx": 4.3,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 3.95,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.9,
+            "h2": 9.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:54:13.183Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-12-21T15:15:00.000Z|Mirandes|Cordoba",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3265137/mirandes-vs-cordoba",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 15h15",
+    "kickoff_utc": "2025-12-21T15:15:00.000Z",
+    "home": "Mirandes",
+    "away": "Cordoba",
+    "odds": {
+      "1x2": {
+        "1": 3.05,
+        "2": 2.1,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.54,
+        "X2": 1.31
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 15,
+            "hx": 6.8,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.35,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.56,
+            "hx": 3.7,
+            "h2": 4.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.6,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:54:25.161Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-12-21T15:15:00.000Z|RealSociedad_B|Ceuta",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3265139/realsociedad-b-vs-ceuta",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 15h15",
+    "kickoff_utc": "2025-12-21T15:15:00.000Z",
+    "home": "RealSociedad B",
+    "away": "Ceuta",
+    "odds": {
+      "1x2": {
+        "1": 2.65,
+        "2": 2.55,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.4,
+        "X2": 1.39
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.4,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.1,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 4.05,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.3,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:54:36.615Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-12-21T17:30:00.000Z|Burgos_CF|Saragosse",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3265123/burgos-cf-vs-saragosse",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-12-21T17:30:00.000Z",
+    "home": "Burgos CF",
+    "away": "Saragosse",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.7,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.36,
+        "1X": 1.24,
+        "X2": 1.57
+      },
+      "btts": {
+        "yes": 2.1,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "1.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "2.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.4,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.3,
+            "hx": 3.45,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.22,
+            "hx": 4.5,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.04,
+            "h2": 7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:54:48.110Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-12-21T17:30:00.000Z|Granada_CF|Albacete",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3265138/granada-cf-vs-albacete",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-12-21T17:30:00.000Z",
+    "home": "Granada CF",
+    "away": "Albacete",
+    "odds": {
+      "1x2": {
+        "1": 1.89,
+        "2": 3.7,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.23,
+        "X2": 1.69
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 14.5,
+            "hx": 7.6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 5.1,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.6,
+            "h2": 1.73
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.85,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:55:04.503Z"
+  },
+  {
+    "match_id": "LaLiga_2|2025-12-21T20:00:00.000Z|Cadix|Castellon",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3265122/cadix-vs-castellon",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-21T20:00:00.000Z",
+    "home": "Cadix",
+    "away": "Castellon",
+    "odds": {
+      "1x2": {
+        "1": 3.35,
+        "2": 1.97,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.64,
+        "X2": 1.26
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 16,
+            "hx": 7.2,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.3,
+            "hx": 4.7,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.67,
+            "hx": 3.7,
+            "h2": 3.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.2,
+            "h2": 7.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:55:13.091Z"
+  },
+  {
+    "match_id": "Bundesliga_2|2025-12-21T12:30:00.000Z|Nuremberg|Hanovre",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-2/3280880/nuremberg-vs-hanovre",
+    "league": "Bundesliga 2",
+    "kickoff_raw": "À 12h30",
+    "kickoff_utc": "2025-12-21T12:30:00.000Z",
+    "home": "Nuremberg",
+    "away": "Hanovre",
+    "odds": {
+      "1x2": {
+        "1": 3.25,
+        "2": 1.91,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.67,
+        "X2": 1.27
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14.5,
+            "hx": 7.2,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.8,
+            "hx": 4.75,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.71,
+            "hx": 3.75,
+            "h2": 3.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.24,
+            "hx": 5.2,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.6,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:55:49.687Z"
+  },
+  {
+    "match_id": "Bundesliga_2|2025-12-21T12:30:00.000Z|SC_Pr_Münster|SV_Elversberg",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-2/3280881/sc-pr-munster-vs-sv-elversberg",
+    "league": "Bundesliga 2",
+    "kickoff_raw": "À 12h30",
+    "kickoff_utc": "2025-12-21T12:30:00.000Z",
+    "home": "SC Pr Münster",
+    "away": "SV Elversberg",
+    "odds": {
+      "1x2": {
+        "1": 3.2,
+        "2": 1.93,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.63,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.5,
+            "hx": 4.65,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.66,
+            "hx": 3.8,
+            "h2": 3.5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.22,
+            "hx": 5.3,
+            "h2": 7.2
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.7,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:56:08.287Z"
+  },
+  {
+    "match_id": "Bundesliga_2|2025-12-21T12:30:00.000Z|Braunschweig|Schalke_04",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/allemagne/bundesliga-2/3281071/braunschweig-vs-schalke-04",
+    "league": "Bundesliga 2",
+    "kickoff_raw": "À 12h30",
+    "kickoff_utc": "2025-12-21T12:30:00.000Z",
+    "home": "Braunschweig",
+    "away": "Schalke 04",
+    "odds": {
+      "1x2": {
+        "1": 3,
+        "2": 2.1,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.53,
+        "X2": 1.32
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14,
+            "hx": 6.8,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.2,
+            "hx": 4.4,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.55,
+            "hx": 3.85,
+            "h2": 4.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.6,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:56:25.512Z"
+  },
+  {
+    "match_id": "Serie_A|2025-12-21T11:30:00.000Z|Cagliari|AC_Pisa_1909",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-a/3285749/cagliari-vs-ac-pisa-1909",
+    "league": "Serie A",
+    "kickoff_raw": "À 11h30",
+    "kickoff_utc": "2025-12-21T11:30:00.000Z",
+    "home": "Cagliari",
+    "away": "AC Pisa 1909",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 3.7,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.26,
+        "X2": 1.59
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 5.3
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 4.25,
+          "under": 1.14
+        },
+        "4.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.6,
+            "hx": 5.4,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 3.5,
+            "h2": 1.61
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.45,
+            "h2": 8.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:57:52.995Z"
+  },
+  {
+    "match_id": "Serie_A|2025-12-21T14:00:00.000Z|Sassuolo|Torino",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-a/3285751/sassuolo-vs-torino",
+    "league": "Serie A",
+    "kickoff_raw": "À 14h00",
+    "kickoff_utc": "2025-12-21T14:00:00.000Z",
+    "home": "Sassuolo",
+    "away": "Torino",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 3.3,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.3,
+        "X2": 1.51
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.7,
+            "hx": 5.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.35,
+            "hx": 3.8,
+            "h2": 1.53
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.4,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.9,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:58:48.190Z"
+  },
+  {
+    "match_id": "Serie_B|2025-12-21T14:00:00.000Z|Virtus_Entella|FC_Sudtirol",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-b/3285752/virtus-entella-vs-fc-sudtirol",
+    "league": "Serie B",
+    "kickoff_raw": "À 14h00",
+    "kickoff_utc": "2025-12-21T14:00:00.000Z",
+    "home": "Virtus Entella",
+    "away": "FC Sudtirol",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 3.1,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.3,
+        "X2": 1.5
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 5.7,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.4,
+            "hx": 3.8,
+            "h2": 1.51
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.4,
+            "h2": 6.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.9,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:59:00.193Z"
+  },
+  {
+    "match_id": "Serie_B|2025-12-21T16:15:00.000Z|Mantova|Empoli",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-b/3285760/mantova-vs-empoli",
+    "league": "Serie B",
+    "kickoff_raw": "À 16h15",
+    "kickoff_utc": "2025-12-21T16:15:00.000Z",
+    "home": "Mantova",
+    "away": "Empoli",
+    "odds": {
+      "1x2": {
+        "1": 2.45,
+        "2": 2.6,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.4,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 5.8,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.8,
+            "hx": 4,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.05,
+            "h2": 4.85
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.8,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.9,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:59:11.918Z"
+  },
+  {
+    "match_id": "Serie_A|2025-12-21T17:00:00.000Z|Fiorentina|Udinese",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/serie-a/3285758/fiorentina-vs-udinese",
+    "league": "Serie A",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-21T17:00:00.000Z",
+    "home": "Fiorentina",
+    "away": "Udinese",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 3.35,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.29,
+        "X2": 1.57
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.9,
+            "hx": 5.5,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4,
+            "hx": 3.7,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.28,
+            "hx": 4.45,
+            "h2": 7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T06:59:36.501Z"
+  },
+  {
+    "match_id": "D1_Belgique|2025-12-21T12:30:00.000Z|Club_Bruges|La_Gantoise",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/d1-belgique/3279782/club-bruges-vs-la-gantoise",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 12h30",
+    "kickoff_utc": "2025-12-21T12:30:00.000Z",
+    "home": "Club Bruges",
+    "away": "La Gantoise",
+    "odds": {
+      "1x2": {
+        "1": 1.42,
+        "2": 5.7,
+        "X": 4.55
+      },
+      "double_chance": {
+        "12": 1.16,
+        "1X": 1.12,
+        "X2": 2.25
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 12.5,
+            "hx": 8.3,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5.8,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.55,
+            "hx": 4.3,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.8,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.5,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:06:21.340Z"
+  },
+  {
+    "match_id": "D1_Belgique|2025-12-21T15:00:00.000Z|St_Trond|KV_Mechelen",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/d1-belgique/3279783/st-trond-vs-kv-mechelen",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 15h00",
+    "kickoff_utc": "2025-12-21T15:00:00.000Z",
+    "home": "St Trond",
+    "away": "KV Mechelen",
+    "odds": {
+      "1x2": {
+        "1": 1.65,
+        "2": 4.4,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.18,
+        "X2": 1.88
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.8,
+            "hx": 6.9,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.9,
+            "hx": 4.7,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.8,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.7,
+            "h2": 9.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:06:36.191Z"
+  },
+  {
+    "match_id": "D1_Belgique|2025-12-21T17:30:00.000Z|Royal_Antwerp|Anderlecht",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/d1-belgique/3279781/royal-antwerp-vs-anderlecht",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2025-12-21T17:30:00.000Z",
+    "home": "Royal Antwerp",
+    "away": "Anderlecht",
+    "odds": {
+      "1x2": {
+        "1": 2.9,
+        "2": 2.2,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.5,
+        "X2": 1.32
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14,
+            "hx": 6.7,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.35,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.54,
+            "hx": 3.85,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.7,
+            "h2": 9.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:06:55.303Z"
+  },
+  {
+    "match_id": "D1_Belgique|2025-12-21T18:15:00.000Z|Louvain|Cercle_Bruges",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/belgique/d1-belgique/3279780/louvain-vs-cercle-bruges",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 18h15",
+    "kickoff_utc": "2025-12-21T18:15:00.000Z",
+    "home": "Louvain",
+    "away": "Cercle Bruges",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.55,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.39,
+        "X2": 1.42
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.1,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.75,
+            "hx": 4.05,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.41,
+            "hx": 4.15,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.2,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:07:10.126Z"
+  },
+  {
+    "match_id": "Coupe_du_Brésil|2025-12-21T21:00:00.000Z|Vasco_De_Gama|Corinthians",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/bresil/coupe-du-bresil/3297417/vasco-de-gama-vs-corinthians",
+    "league": "Coupe du Brésil",
+    "kickoff_raw": "À 21h00",
+    "kickoff_utc": "2025-12-21T21:00:00.000Z",
+    "home": "Vasco De Gama",
+    "away": "Corinthians",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 3.25,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": 1.34,
+        "1X": 1.27,
+        "X2": 1.46
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 5.6,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.65,
+            "hx": 3.6,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 4.25,
+            "h2": 7.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:08:00.939Z"
+  },
+  {
+    "match_id": "D1_Ecosse|2025-12-21T13:30:00.000Z|Hearts|Rangers",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/ecosse/d1-ecosse/3291835/hearts-vs-rangers",
+    "league": "D1 Ecosse",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2025-12-21T13:30:00.000Z",
+    "home": "Hearts",
+    "away": "Rangers",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 3.15,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.27,
+        "X2": 1.57
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.6,
+            "hx": 5.2,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.6,
+            "hx": 3.7,
+            "h2": 1.63
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 4.5,
+            "h2": 6.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.8,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:08:18.147Z"
+  },
+  {
+    "match_id": "D1_Ecosse|2025-12-21T15:00:00.000Z|Celtic|Aberdeen",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/ecosse/d1-ecosse/3297414/celtic-vs-aberdeen",
+    "league": "D1 Ecosse",
+    "kickoff_raw": "À 15h00",
+    "kickoff_utc": "2025-12-21T15:00:00.000Z",
+    "home": "Celtic",
+    "away": "Aberdeen",
+    "odds": {
+      "1x2": {
+        "1": 1.25,
+        "2": 7.5,
+        "X": 5.2
+      },
+      "double_chance": {
+        "12": 1.11,
+        "1X": 1.07,
+        "X2": 2.6
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.4,
+            "hx": 7,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.1,
+            "hx": 5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.85,
+            "hx": 3.9,
+            "h2": 1.81
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.75,
+            "hx": 3.75,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.7,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:08:31.246Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2025-12-21T11:15:00.000Z|Utrecht|PSV_Eindhoven",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/pays-bas/d1-pays-bas/3279749/utrecht-vs-psv-eindhoven",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 11h15",
+    "kickoff_utc": "2025-12-21T11:15:00.000Z",
+    "home": "Utrecht",
+    "away": "PSV Eindhoven",
+    "odds": {
+      "1x2": {
+        "1": 3.85,
+        "2": 1.67,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.86,
+        "X2": 1.2
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "4.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.9,
+            "hx": 5.4,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.97,
+            "hx": 3.85,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.75,
+            "h2": 4.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.7,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:08:59.520Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2025-12-21T13:30:00.000Z|Feyenoord|Twente",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/pays-bas/d1-pays-bas/3279747/feyenoord-vs-twente",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2025-12-21T13:30:00.000Z",
+    "home": "Feyenoord",
+    "away": "Twente",
+    "odds": {
+      "1x2": {
+        "1": 1.61,
+        "2": 4.15,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": 1.21,
+        "1X": 1.18,
+        "X2": 1.9
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.2,
+            "hx": 6.6,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.7,
+            "hx": 4.65,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.55,
+            "hx": 3.75,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.5,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:09:22.317Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2025-12-21T13:30:00.000Z|GOAhead_Eagles|Groningen",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/pays-bas/d1-pays-bas/3279748/goahead-eagles-vs-groningen",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2025-12-21T13:30:00.000Z",
+    "home": "GOAhead Eagles",
+    "away": "Groningen",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 1.99,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.58,
+        "X2": 1.28
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.45,
+          "under": 1.36
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.3,
+            "hx": 4.7,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.63,
+            "hx": 3.9,
+            "h2": 3.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.4,
+            "h2": 7.3
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.8,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:09:40.240Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2025-12-21T15:45:00.000Z|FortunaSittard|AZ_Alkmaar",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/pays-bas/d1-pays-bas/3279752/fortunasittard-vs-az-alkmaar",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 15h45",
+    "kickoff_utc": "2025-12-21T15:45:00.000Z",
+    "home": "FortunaSittard",
+    "away": "AZ Alkmaar",
+    "odds": {
+      "1x2": {
+        "1": 4.1,
+        "2": 1.66,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.87,
+        "X2": 1.18
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.6,
+            "hx": 5.5,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.99,
+            "hx": 3.8,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.7,
+            "h2": 4.85
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.7,
+            "h2": 9.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:09:58.929Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2025-12-21T15:45:00.000Z|Volendam|Spar.Rotterdam",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/pays-bas/d1-pays-bas/3279560/volendam-vs-spar-rotterdam",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 15h45",
+    "kickoff_utc": "2025-12-21T15:45:00.000Z",
+    "home": "Volendam",
+    "away": "Spar.Rotterdam",
+    "odds": {
+      "1x2": {
+        "1": 2.6,
+        "2": 2.25,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.47,
+        "X2": 1.38
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 6.4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.85,
+            "hx": 4.4,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.5,
+            "hx": 4.15,
+            "h2": 4.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.9,
+            "h2": 8.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:10:17.624Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-12-21T11:00:00.000Z|FC_Felgueiras|FC_Porto_B",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3297193/fc-felgueiras-vs-fc-porto-b",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 11h00",
+    "kickoff_utc": "2025-12-21T11:00:00.000Z",
+    "home": "FC Felgueiras",
+    "away": "FC Porto B",
+    "odds": {
+      "1x2": {
+        "1": 1.72,
+        "2": 4.1,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.19,
+        "X2": 1.83
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.1,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6,
+            "hx": 4.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.95,
+            "hx": 3.5,
+            "h2": 1.91
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.2,
+            "h2": 9.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:10:34.005Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-12-21T14:00:00.000Z|Leixoes|CS_Maritimo",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3297197/leixoes-vs-cs-maritimo",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 14h00",
+    "kickoff_utc": "2025-12-21T14:00:00.000Z",
+    "home": "Leixoes",
+    "away": "CS Maritimo",
+    "odds": {
+      "1x2": {
+        "1": 3.1,
+        "2": 2.1,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.56,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 16,
+            "hx": 7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.8,
+            "hx": 4.45,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.59,
+            "hx": 3.7,
+            "h2": 4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.5,
+            "h2": 8.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:10:43.817Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-12-21T15:30:00.000Z|SC_Farense|Uniao_Leiria",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3297205/sc-farense-vs-uniao-leiria",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 15h30",
+    "kickoff_utc": "2025-12-21T15:30:00.000Z",
+    "home": "SC Farense",
+    "away": "Uniao Leiria",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.15,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.3,
+        "X2": 1.56
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.8,
+            "hx": 5.5,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4,
+            "hx": 3.7,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.45,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.9,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:10:53.546Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-12-21T15:30:00.000Z|AVS_Futebol|CD_Nacional",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3286594/avs-futebol-vs-cd-nacional",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 15h30",
+    "kickoff_utc": "2025-12-21T15:30:00.000Z",
+    "home": "AVS Futebol",
+    "away": "CD Nacional",
+    "odds": {
+      "1x2": {
+        "1": 3.1,
+        "2": 2.25,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.49,
+        "X2": 1.3
+      },
+      "btts": {
+        "yes": 1.75,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14,
+            "hx": 6.6,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.3,
+            "hx": 4.25,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.53,
+            "hx": 3.7,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.5,
+            "h2": 9.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:11:09.394Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-12-21T18:00:00.000Z|Penafiel|Torreense",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3297214/penafiel-vs-torreense",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-12-21T18:00:00.000Z",
+    "home": "Penafiel",
+    "away": "Torreense",
+    "odds": {
+      "1x2": {
+        "1": 2.9,
+        "2": 2.2,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.5,
+        "X2": 1.34
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13.5,
+            "hx": 6.7,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6,
+            "hx": 4.25,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.51,
+            "hx": 3.85,
+            "h2": 4.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.8,
+            "h2": 9.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:11:22.311Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-12-21T18:00:00.000Z|CD_Tondela|Casa_Pia",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3286601/cd-tondela-vs-casa-pia",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-12-21T18:00:00.000Z",
+    "home": "CD Tondela",
+    "away": "Casa Pia",
+    "odds": {
+      "1x2": {
+        "1": 1.89,
+        "2": 4.05,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.2,
+        "X2": 1.68
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.38,
+          "under": 2.45
+        },
+        "2.5": {
+          "over": 2.15,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.5,
+            "hx": 4.85,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.3,
+            "h2": 1.77
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.19,
+            "hx": 4.7,
+            "h2": 9.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:11:41.499Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-12-21T20:30:00.000Z|Santa_Clara|Arouca",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3286602/santa-clara-vs-arouca",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 20h30",
+    "kickoff_utc": "2025-12-21T20:30:00.000Z",
+    "home": "Santa Clara",
+    "away": "Arouca",
+    "odds": {
+      "1x2": {
+        "1": 1.77,
+        "2": 4.7,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.16,
+        "X2": 1.77
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5.25
+        },
+        "1.5": {
+          "over": 1.38,
+          "under": 2.45
+        },
+        "2.5": {
+          "over": 2.2,
+          "under": 1.48
+        },
+        "3.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.6,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.1,
+            "hx": 3.25,
+            "h2": 1.89
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:11:54.745Z"
+  },
+  {
+    "match_id": "D1_Turquie|2025-12-21T11:30:00.000Z|Alanyaspor|Karagumruk",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/turquie/d1-turquie/3265065/alanyaspor-vs-karagumruk",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 11h30",
+    "kickoff_utc": "2025-12-21T11:30:00.000Z",
+    "home": "Alanyaspor",
+    "away": "Karagumruk",
+    "odds": {
+      "1x2": {
+        "1": 1.62,
+        "2": 4.55,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.17,
+        "X2": 1.9
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.6,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.75,
+            "hx": 3.5,
+            "h2": 1.99
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:13:03.491Z"
+  },
+  {
+    "match_id": "D1_Turquie|2025-12-21T17:00:00.000Z|Göztepe_AS|Samsunspor",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/turquie/d1-turquie/3265067/goztepe-as-vs-samsunspor",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-21T17:00:00.000Z",
+    "home": "Göztepe AS",
+    "away": "Samsunspor",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 3.2,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.28,
+        "X2": 1.57
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9,
+            "hx": 5.5,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.05,
+            "hx": 3.65,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 4.45,
+            "h2": 7.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7,
+            "h2": 17
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:13:21.716Z"
+  },
+  {
+    "match_id": "D1_Turquie|2025-12-21T17:00:00.000Z|Galatasaray|Kasimpasa",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/turquie/d1-turquie/3265068/galatasaray-vs-kasimpasa",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-21T17:00:00.000Z",
+    "home": "Galatasaray",
+    "away": "Kasimpasa",
+    "odds": {
+      "1x2": {
+        "1": 1.18,
+        "2": 9.1,
+        "X": 6.1
+      },
+      "double_chance": {
+        "12": 1.08,
+        "1X": 1.05,
+        "X2": 3.3
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "3.5": {
+          "over": 1.72,
+          "under": 1.78
+        },
+        "4.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "5.5": {
+          "over": 4,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 11.5,
+            "hx": 8.6,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 6.8,
+            "hx": 6.3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 3.8,
+            "hx": 4.7,
+            "h2": 1.49
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.25,
+            "hx": 4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.52,
+            "hx": 4.15,
+            "h2": 4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-21T07:13:45.702Z"
+  }
+]
