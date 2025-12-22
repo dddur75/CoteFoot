@@ -1,0 +1,1038 @@
+[
+  {
+    "match_id": "LaLiga|2025-12-22T20:00:00.000Z|Ath._Bilbao|Espanyol",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga/3265129/ath-bilbao-vs-espanyol",
+    "league": "LaLiga",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-22T20:00:00.000Z",
+    "home": "Ath. Bilbao",
+    "away": "Espanyol",
+    "odds": {
+      "1x2": {
+        "1": 1.79,
+        "2": 4.7,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.18,
+        "X2": 1.83
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.37,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2.15,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 14,
+            "hx": 7.2,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.65,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.3,
+            "h2": 1.91
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.1,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.25,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.85,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T06:33:58.623Z"
+  },
+  {
+    "match_id": "Super_Coupe|2025-12-22T19:00:00.000Z|Naples|Bologne",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/italie/super-coupe/3299942/naples-vs-bologne",
+    "league": "Super Coupe",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2025-12-22T19:00:00.000Z",
+    "home": "Naples",
+    "away": "Bologne",
+    "odds": {
+      "1x2": {
+        "1": 1.99,
+        "2": 3.85,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.23,
+        "X2": 1.68
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.65
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.57
+        },
+        "3.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 6.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.8,
+            "hx": 5.1,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.55,
+            "hx": 3.5,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.22,
+            "hx": 4.7,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T06:36:01.565Z"
+  },
+  {
+    "match_id": "Premier_League|2025-12-22T20:00:00.000Z|Fulham|Nottingham_F.",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/premier-league/3286648/fulham-vs-nottingham-f",
+    "league": "Premier League",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2025-12-22T20:00:00.000Z",
+    "home": "Fulham",
+    "away": "Nottingham F.",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 3,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.35,
+        "X2": 1.49
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.85
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3.2,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.7,
+            "hx": 5.8,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.4,
+            "hx": 3.85,
+            "h2": 1.51
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.34,
+            "hx": 4.25,
+            "h2": 5.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.6,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T06:39:29.141Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-12-22T18:00:00.000Z|Benfica_B|Sp.Lisbonne_B",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3286600/benfica-b-vs-sp-lisbonne-b",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2025-12-22T18:00:00.000Z",
+    "home": "Benfica B",
+    "away": "Sp.Lisbonne B",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.7,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.38,
+        "X2": 1.47
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.8,
+            "hx": 5.9,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.5,
+            "hx": 3.95,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.2,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.4,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T07:00:35.651Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-12-22T18:45:00.000Z|Alverca_FC|FC_Porto",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3286595/alverca-fc-vs-fc-porto",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2025-12-22T18:45:00.000Z",
+    "home": "Alverca FC",
+    "away": "FC Porto",
+    "odds": {
+      "1x2": {
+        "1": 9.2,
+        "2": 1.31,
+        "X": 4.8
+      },
+      "double_chance": {
+        "12": 1.13,
+        "1X": 2.55,
+        "X2": 1.06
+      },
+      "btts": {
+        "yes": 2.15,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 3.1,
+            "hx": 3.35,
+            "h2": 1.86
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.71,
+            "hx": 3.75,
+            "h2": 3.25
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.24,
+            "hx": 5.2,
+            "h2": 6.4
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.4,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T07:00:54.634Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2025-12-22T20:45:00.000Z|Benfica|Famalicao",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/liga-portugal/3286598/benfica-vs-famalicao",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 20h45",
+    "kickoff_utc": "2025-12-22T20:45:00.000Z",
+    "home": "Benfica",
+    "away": "Famalicao",
+    "odds": {
+      "1x2": {
+        "1": 1.29,
+        "2": 9,
+        "X": 5.2
+      },
+      "double_chance": {
+        "12": 1.12,
+        "1X": 1.06,
+        "X2": 2.65
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.45,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4.25,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 10.5,
+            "hx": 7.2,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.7,
+            "hx": 5,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3,
+            "hx": 3.75,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.78,
+            "hx": 3.5,
+            "h2": 3.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T07:01:16.576Z"
+  },
+  {
+    "match_id": "D2_Portugal|2025-12-22T20:45:00.000Z|Lusitania|Oliveirense",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3298680/lusitania-vs-oliveirense",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 20h45",
+    "kickoff_utc": "2025-12-22T20:45:00.000Z",
+    "home": "Lusitania",
+    "away": "Oliveirense",
+    "odds": {
+      "1x2": {
+        "1": 1.75,
+        "2": 3.95,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.21,
+        "X2": 1.79
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.2,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.3,
+            "hx": 4.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.55,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.19,
+            "hx": 5,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T07:01:26.651Z"
+  },
+  {
+    "match_id": "D1_Turquie|2025-12-22T14:00:00.000Z|Basaksehir|Gaziantep_Spor",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/turquie/d1-turquie/3265066/basaksehir-vs-gaziantep-spor",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 14h00",
+    "kickoff_utc": "2025-12-22T14:00:00.000Z",
+    "home": "Basaksehir",
+    "away": "Gaziantep Spor",
+    "odds": {
+      "1x2": {
+        "1": 1.64,
+        "2": 4.2,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.19,
+        "X2": 1.91
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.7,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.1,
+            "hx": 4.65,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.65,
+            "hx": 3.65,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.4,
+            "h2": 9.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T07:02:41.133Z"
+  },
+  {
+    "match_id": "D1_Turquie|2025-12-22T17:00:00.000Z|Genclerbirligi|Trabzonspor",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/turquie/d1-turquie/3265069/genclerbirligi-vs-trabzonspor",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2025-12-22T17:00:00.000Z",
+    "home": "Genclerbirligi",
+    "away": "Trabzonspor",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 2,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.62,
+        "X2": 1.29
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14.5,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.65,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.65,
+            "hx": 3.8,
+            "h2": 3.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.3,
+            "h2": 7.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2025-12-22T07:02:58.170Z"
+  }
+]
