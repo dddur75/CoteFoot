@@ -1,0 +1,2042 @@
+[
+  {
+    "match_id": "Championship|2026-01-21T19:45:00.000Z|Watford|Portsmouth",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/championship/3305480/watford-vs-portsmouth",
+    "league": "Championship",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2026-01-21T19:45:00.000Z",
+    "home": "Watford",
+    "away": "Portsmouth",
+    "odds": {
+      "1x2": {
+        "1": 1.66,
+        "2": 4.45,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.17,
+        "X2": 1.81
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.7,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.55,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.85,
+            "hx": 3.4,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.1,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T06:34:39.319Z"
+  },
+  {
+    "match_id": "Championship|2026-01-21T19:45:00.000Z|Southampton|Sheffield_Utd",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/championship/3305478/southampton-vs-sheffield-utd",
+    "league": "Championship",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2026-01-21T19:45:00.000Z",
+    "home": "Southampton",
+    "away": "Sheffield Utd",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 2.7,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.36,
+        "X2": 1.48
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.3,
+            "hx": 5.6,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4,
+            "hx": 3.95,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.25,
+            "h2": 5.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.2,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T06:34:57.032Z"
+  },
+  {
+    "match_id": "Championship|2026-01-21T20:00:00.000Z|Stoke_City|Middlesbrough",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/angleterre/championship/3305479/stoke-city-vs-middlesbrough",
+    "league": "Championship",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Stoke City",
+    "away": "Middlesbrough",
+    "odds": {
+      "1x2": {
+        "1": 2.85,
+        "2": 2.25,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.46,
+        "X2": 1.33
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.6,
+            "hx": 4.2,
+            "h2": 1.34
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.5,
+            "hx": 3.85,
+            "h2": 4.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.7,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T06:35:10.251Z"
+  },
+  {
+    "match_id": "D1_Arabie_Saoudite|2026-01-21T15:30:00.000Z|Al_Akhdoud|Al_Riyadh",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/arabie-saoudite/d1-arabie-saoudite/3305945/al-akhdoud-vs-al-riyadh",
+    "league": "D1 Arabie Saoudite",
+    "kickoff_raw": "À 15h30",
+    "kickoff_utc": "2026-01-21T15:30:00.000Z",
+    "home": "Al Akhdoud",
+    "away": "Al Riyadh",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.7,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": 1.32,
+        "1X": 1.37,
+        "X2": 1.44
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5,
+            "hx": 3.8,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.4,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:02:11.257Z"
+  },
+  {
+    "match_id": "D1_Arabie_Saoudite|2026-01-21T17:30:00.000Z|Al_Ettifaq|Neom_SC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/arabie-saoudite/d1-arabie-saoudite/3305967/al-ettifaq-vs-neom-sc",
+    "league": "D1 Arabie Saoudite",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2026-01-21T17:30:00.000Z",
+    "home": "Al Ettifaq",
+    "away": "Neom SC",
+    "odds": {
+      "1x2": {
+        "1": 2.55,
+        "2": 2.35,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.28,
+        "1X": 1.46,
+        "X2": 1.4
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.85
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 6.3,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5,
+            "hx": 4.2,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.47,
+            "hx": 4.05,
+            "h2": 4.5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 6,
+            "h2": 9.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:02:28.721Z"
+  },
+  {
+    "match_id": "D1_Arabie_Saoudite|2026-01-21T17:30:00.000Z|Damac|Al_Nassr",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/arabie-saoudite/d1-arabie-saoudite/3305970/damac-vs-al-nassr",
+    "league": "D1 Arabie Saoudite",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2026-01-21T17:30:00.000Z",
+    "home": "Damac",
+    "away": "Al Nassr",
+    "odds": {
+      "1x2": {
+        "1": 10,
+        "2": 1.17,
+        "X": 6.1
+      },
+      "double_chance": {
+        "12": 1.08,
+        "1X": 3.3,
+        "X2": 1.05
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.08,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "3.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.3,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 4.1,
+            "h2": 1.51
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 2.2,
+            "hx": 3.9,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.48,
+            "hx": 4.65,
+            "h2": 3.85
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.18,
+            "hx": 6.3,
+            "h2": 7
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.05,
+            "hx": 8.6,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:02:41.922Z"
+  },
+  {
+    "match_id": "D2_Portugal|2026-01-21T18:00:00.000Z|Uniao_Leiria|Vizela",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/portugal/d2-portugal/3308957/uniao-leiria-vs-vizela",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2026-01-21T18:00:00.000Z",
+    "home": "Uniao Leiria",
+    "away": "Vizela",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.6,
+        "X": 3
+      },
+      "double_chance": {
+        "12": 1.3,
+        "1X": 1.36,
+        "X2": 1.4
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11,
+            "hx": 6,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.95,
+            "hx": 3.9,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.2,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:08:22.444Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2026-01-21T17:45:00.000Z|AZ_Alkmaar|Exce.Rotterdam",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/pays-bas/d1-pays-bas/3301186/az-alkmaar-vs-exce-rotterdam",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 17h45",
+    "kickoff_utc": "2026-01-21T17:45:00.000Z",
+    "home": "AZ Alkmaar",
+    "away": "Exce.Rotterdam",
+    "odds": {
+      "1x2": {
+        "1": 1.28,
+        "2": 6.8,
+        "X": 4.95
+      },
+      "double_chance": {
+        "12": 1.12,
+        "1X": 1.08,
+        "X2": 2.55
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "3.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.4,
+            "hx": 7.1,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.2,
+            "hx": 5.1,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.9,
+            "hx": 4,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.78,
+            "hx": 3.75,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.7,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:15:01.057Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T17:45:00.000Z|FC_Qarabag|Ein.Francfort",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295973/fc-qarabag-vs-ein-francfort",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 17h45",
+    "kickoff_utc": "2026-01-21T17:45:00.000Z",
+    "home": "FC Qarabag",
+    "away": "Ein.Francfort",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 2.1,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.62,
+        "X2": 1.32
+      },
+      "btts": {
+        "yes": 1.47,
+        "no": 2.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.14,
+          "under": 4.25
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2.2,
+          "under": 1.52
+        },
+        "4.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12,
+            "hx": 6.9,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.66,
+            "hx": 4,
+            "h2": 3.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.23,
+            "hx": 5.4,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.7,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:18:34.547Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T17:45:00.000Z|Galatasaray|Atl._Madrid",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295972/galatasaray-vs-atl-madrid",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 17h45",
+    "kickoff_utc": "2026-01-21T17:45:00.000Z",
+    "home": "Galatasaray",
+    "away": "Atl. Madrid",
+    "odds": {
+      "1x2": {
+        "1": 3.3,
+        "2": 2.05,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.64,
+        "X2": 1.3
+      },
+      "btts": {
+        "yes": 1.47,
+        "no": 2.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 4.1
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.8,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.68,
+            "hx": 3.95,
+            "h2": 3.35
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.24,
+            "hx": 5.3,
+            "h2": 6.5
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.6,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.85,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:19:16.135Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T20:00:00.000Z|Slavia_Prague|FC_Barcelone",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295981/slavia-prague-vs-fc-barcelone",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Slavia Prague",
+    "away": "FC Barcelone",
+    "odds": {
+      "1x2": {
+        "1": 8,
+        "2": 1.3,
+        "X": 6.5
+      },
+      "double_chance": {
+        "12": 1.11,
+        "1X": 2.8,
+        "X2": 1.08
+      },
+      "btts": {
+        "yes": 1.57,
+        "no": 2.15
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "2.5": {
+          "over": 1.3,
+          "under": 2.9
+        },
+        "3.5": {
+          "over": 1.77,
+          "under": 1.82
+        },
+        "4.5": {
+          "over": 2.65,
+          "under": 1.35
+        },
+        "5.5": {
+          "over": 4.25,
+          "under": 1.14
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 14,
+            "hx": 7.2,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 3.25,
+            "hx": 4,
+            "h2": 1.69
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.9,
+            "hx": 4.1,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.36,
+            "hx": 5.1,
+            "h2": 4.6
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.13,
+            "hx": 7,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:20:08.453Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T20:00:00.000Z|Marseille|Liverpool",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295980/marseille-vs-liverpool",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Marseille",
+    "away": "Liverpool",
+    "odds": {
+      "1x2": {
+        "1": 3.7,
+        "2": 1.95,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.73,
+        "X2": 1.26
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 4.1
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14.5,
+            "hx": 7.4,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.9,
+            "hx": 5,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.79,
+            "hx": 3.85,
+            "h2": 3.05
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.28,
+            "hx": 5,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.3,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:21:00.023Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T20:00:00.000Z|Bayern_Munich|Saint-Gilloise",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295975/bayern-munich-vs-saint-gilloise",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Bayern Munich",
+    "away": "Saint-Gilloise",
+    "odds": {
+      "1x2": {
+        "1": 1.1,
+        "2": 20,
+        "X": 11
+      },
+      "double_chance": {
+        "12": 1.04,
+        "1X": 1.02,
+        "X2": 4.3
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.65
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.06,
+          "under": 6.5
+        },
+        "2.5": {
+          "over": 1.22,
+          "under": 3.4
+        },
+        "3.5": {
+          "over": 1.62,
+          "under": 2
+        },
+        "4.5": {
+          "over": 2.35,
+          "under": 1.45
+        },
+        "5.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "6.5": {
+          "over": 6,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 7.6,
+            "hx": 7.1,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 4.4,
+            "hx": 5.3,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 2.6,
+            "hx": 4.25,
+            "h2": 1.87
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 1.71,
+            "hx": 4.1,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 4.8,
+            "h2": 6.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -4.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:21:45.723Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T20:00:00.000Z|Atalanta|Ath._Bilbao",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295974/atalanta-vs-ath-bilbao",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Atalanta",
+    "away": "Ath. Bilbao",
+    "odds": {
+      "1x2": {
+        "1": 1.76,
+        "2": 4.8,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.18,
+        "X2": 1.88
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.88,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 5.3,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12,
+            "hx": 6.9,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.85,
+            "hx": 3.45,
+            "h2": 1.96
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.3,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:22:31.227Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T20:00:00.000Z|Newcastle|PSV_Eindhoven",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295979/newcastle-vs-psv-eindhoven",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Newcastle",
+    "away": "PSV Eindhoven",
+    "odds": {
+      "1x2": {
+        "1": 1.38,
+        "2": 6.9,
+        "X": 5.6
+      },
+      "double_chance": {
+        "12": 1.13,
+        "1X": 1.1,
+        "X2": 2.55
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 5.3
+        },
+        "2.5": {
+          "over": 1.32,
+          "under": 2.8
+        },
+        "3.5": {
+          "over": 1.82,
+          "under": 1.77
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.32
+        },
+        "5.5": {
+          "over": 4.4,
+          "under": 1.13
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.5,
+            "hx": 7.4,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.2,
+            "hx": 5.3,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.95,
+            "hx": 4.15,
+            "h2": 1.76
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.83,
+            "hx": 3.95,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.8,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:23:15.315Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T20:00:00.000Z|Juventus_Turin|Benfica",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295977/juventus-turin-vs-benfica",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Juventus Turin",
+    "away": "Benfica",
+    "odds": {
+      "1x2": {
+        "1": 1.72,
+        "2": 4.8,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.18,
+        "X2": 1.92
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.88,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 5.3,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.6,
+            "hx": 4.55,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.8,
+            "hx": 3.4,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.3,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:24:05.551Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-01-21T20:00:00.000Z|Chelsea|Pafos_FC",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/coupes-d-europe/championsleague/3295976/chelsea-vs-pafos-fc",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-01-21T20:00:00.000Z",
+    "home": "Chelsea",
+    "away": "Pafos FC",
+    "odds": {
+      "1x2": {
+        "1": 1.13,
+        "2": 18,
+        "X": 9
+      },
+      "double_chance": {
+        "12": 1.05,
+        "1X": 1.02,
+        "X2": 3.95
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.7
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "2.5": {
+          "over": 1.25,
+          "under": 3.2
+        },
+        "3.5": {
+          "over": 1.68,
+          "under": 1.95
+        },
+        "4.5": {
+          "over": 2.5,
+          "under": 1.4
+        },
+        "5.5": {
+          "over": 3.75,
+          "under": 1.18
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 8.6,
+            "hx": 7.5,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 4.95,
+            "hx": 5.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 2.9,
+            "hx": 4.35,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 1.84,
+            "hx": 4.05,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.33,
+            "hx": 4.65,
+            "h2": 5.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -4.5,
+          "odds": {
+            "h1": 4.25,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 1.82,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-01-21T07:24:50.021Z"
+  }
+]
