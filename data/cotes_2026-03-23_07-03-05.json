@@ -1,0 +1,335 @@
+[
+  {
+    "match_id": "D1_Argentine|2026-03-23T22:00:00.000Z|Estudiantes_LP|CentralCordoba",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3301429/estudiantes-lp-vs-centralcordoba",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2026-03-23T22:00:00.000Z",
+    "home": "Estudiantes LP",
+    "away": "CentralCordoba",
+    "odds": {
+      "1x2": {
+        "1": 1.44,
+        "2": 6.5,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.1,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 2.3,
+        "no": 1.38
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 6.3,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.1,
+            "hx": 4.05,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.1,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.08,
+            "hx": 5.9,
+            "h2": 19
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-03-23T06:35:42.094Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-03-24T00:15:00.000Z|CA_Huracan|Barracas_Cent.",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/argentine/d1-argentine/3301431/ca-huracan-vs-barracas-cent",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h15",
+    "kickoff_utc": "2026-03-24T00:15:00.000Z",
+    "home": "CA Huracan",
+    "away": "Barracas Cent.",
+    "odds": {
+      "1x2": {
+        "1": 1.69,
+        "2": 5,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": 1.31,
+        "1X": 1.15,
+        "X2": 1.83
+      },
+      "btts": {
+        "yes": 2.3,
+        "no": 1.38
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "1.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "2.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "3.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "4.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.6,
+            "hx": 4.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.3,
+            "hx": 3.1,
+            "h2": 1.91
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.12,
+            "hx": 5.2,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-03-23T06:36:16.092Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-03-23T19:30:00.000Z|Castellon|CD_Leonesa",
+    "url": "https://www.enligne.parionssport.fdj.fr/paris-football/espagne/laliga-2/3321466/castellon-vs-cd-leonesa",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2026-03-23T19:30:00.000Z",
+    "home": "Castellon",
+    "away": "CD Leonesa",
+    "odds": {
+      "1x2": {
+        "1": 1.32,
+        "2": 6.8,
+        "X": 4.6
+      },
+      "double_chance": {
+        "12": 1.14,
+        "1X": 1.08,
+        "X2": 2.4
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "3.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 10.5,
+            "hx": 7.4,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.8,
+            "hx": 5.3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.15,
+            "hx": 4,
+            "h2": 1.69
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.88,
+            "hx": 3.7,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.5,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-03-23T06:46:23.284Z"
+  }
+]
