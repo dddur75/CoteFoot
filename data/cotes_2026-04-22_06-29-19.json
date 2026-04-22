@@ -1,0 +1,3991 @@
+[
+  {
+    "match_id": "D1.Mexique|2026-04-23T01:00:00.000Z|Atl._San_Luis|Santos_Laguna",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3338886/atl-san-luis-vs-santos-laguna",
+    "league": "D1.Mexique",
+    "kickoff_raw": "Demain à 01h00",
+    "kickoff_utc": "2026-04-23T01:00:00.000Z",
+    "home": "Atl. San Luis",
+    "away": "Santos Laguna",
+    "odds": {
+      "1x2": {
+        "1": 1.6,
+        "2": 3.95,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.2,
+        "X2": 1.89
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.8,
+            "hx": 6.2,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.7,
+            "hx": 4.5,
+            "h2": 1.34
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.55,
+            "hx": 3.65,
+            "h2": 1.94
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.1,
+            "h2": 7.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.9,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:34:53.299Z"
+  },
+  {
+    "match_id": "D1.Mexique|2026-04-23T01:00:00.000Z|Mazatlan_FC|Dep._Toluca",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3338887/mazatlan-fc-vs-dep-toluca",
+    "league": "D1.Mexique",
+    "kickoff_raw": "Demain à 01h00",
+    "kickoff_utc": "2026-04-23T01:00:00.000Z",
+    "home": "Mazatlan FC",
+    "away": "Dep. Toluca",
+    "odds": {
+      "1x2": {
+        "1": 6,
+        "2": 1.32,
+        "X": 4.7
+      },
+      "double_chance": {
+        "12": 1.15,
+        "1X": 2.45,
+        "X2": 1.11
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "3.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.65,
+            "hx": 3.65,
+            "h2": 1.88
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.65,
+            "hx": 4,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.24,
+            "hx": 5.2,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.07,
+            "hx": 7,
+            "h2": 9.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4.1,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:35:34.405Z"
+  },
+  {
+    "match_id": "D1.Mexique|2026-04-23T01:00:00.000Z|Atlas_FC|Tigres_UANL",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3338885/atlas-fc-vs-tigres-uanl",
+    "league": "D1.Mexique",
+    "kickoff_raw": "Demain à 01h00",
+    "kickoff_utc": "2026-04-23T01:00:00.000Z",
+    "home": "Atlas FC",
+    "away": "Tigres UANL",
+    "odds": {
+      "1x2": {
+        "1": 4,
+        "2": 1.69,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.8,
+        "X2": 1.2
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.7,
+            "hx": 4.75,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.83,
+            "hx": 3.35,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.55,
+            "h2": 6.1
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.5,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 4.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:36:01.824Z"
+  },
+  {
+    "match_id": "D1.Mexique|2026-04-23T03:05:00.000Z|Club_Necaxa|Chivas",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3338888/club-necaxa-vs-chivas",
+    "league": "D1.Mexique",
+    "kickoff_raw": "Demain à 03h05",
+    "kickoff_utc": "2026-04-23T03:05:00.000Z",
+    "home": "Club Necaxa",
+    "away": "Chivas",
+    "odds": {
+      "1x2": {
+        "1": 4.1,
+        "2": 1.59,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.91,
+        "X2": 1.19
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.1,
+            "hx": 5.1,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.95,
+            "hx": 3.6,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.34,
+            "hx": 4.45,
+            "h2": 4.75
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.2,
+            "h2": 9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.33,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:36:33.590Z"
+  },
+  {
+    "match_id": "D1.Mexique|2026-04-23T03:06:00.000Z|Club_Tijuana|CF_Pachuca",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3338889/club-tijuana-vs-cf-pachuca",
+    "league": "D1.Mexique",
+    "kickoff_raw": "Demain à 03h06",
+    "kickoff_utc": "2026-04-23T03:06:00.000Z",
+    "home": "Club Tijuana",
+    "away": "CF Pachuca",
+    "odds": {
+      "1x2": {
+        "1": 2.55,
+        "2": 2.2,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.48,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.7,
+            "hx": 5.8,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.7,
+            "hx": 4.05,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.46,
+            "hx": 3.9,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.5,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.9,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:37:08.624Z"
+  },
+  {
+    "match_id": "Ligue_1_McDonalds|2026-04-22T17:00:00.000Z|Paris_SG|Nantes",
+    "url": "https://www.unibet.fr/paris-football/france/ligue-1-mcdonalds/3316133/paris-sg-vs-nantes",
+    "league": "Ligue 1 McDonalds",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-04-22T17:00:00.000Z",
+    "home": "Paris SG",
+    "away": "Nantes",
+    "odds": {
+      "1x2": {
+        "1": 1.15,
+        "2": 15,
+        "X": 8.2
+      },
+      "double_chance": {
+        "12": 1.06,
+        "1X": 1.03,
+        "X2": 3.65
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.75
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "3.5": {
+          "over": 1.72,
+          "under": 1.88
+        },
+        "4.5": {
+          "over": 2.55,
+          "under": 1.38
+        },
+        "5.5": {
+          "over": 4.1,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 10,
+            "hx": 8,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 5.7,
+            "hx": 5.9,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 3.25,
+            "hx": 4.45,
+            "h2": 1.61
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2,
+            "hx": 4,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.41,
+            "hx": 4.35,
+            "h2": 4.75
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:38:00.084Z"
+  },
+  {
+    "match_id": "Championship|2026-04-22T18:45:00.000Z|Middlesbrough|Sheffield_Wed.",
+    "url": "https://www.unibet.fr/paris-football/angleterre/championship/3333709/middlesbrough-vs-sheffield-wed",
+    "league": "Championship",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-04-22T18:45:00.000Z",
+    "home": "Middlesbrough",
+    "away": "Sheffield Wed.",
+    "odds": {
+      "1x2": {
+        "1": 1.14,
+        "2": 12,
+        "X": 7.1
+      },
+      "double_chance": {
+        "12": 1.06,
+        "1X": 1.03,
+        "X2": 3.25
+      },
+      "btts": {
+        "yes": 1.82,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.07,
+          "under": 5.25
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 2.85
+        },
+        "3.5": {
+          "over": 1.75,
+          "under": 1.8
+        },
+        "4.5": {
+          "over": 2.6,
+          "under": 1.35
+        },
+        "5.5": {
+          "over": 4.25,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 10,
+            "hx": 7.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 5.9,
+            "hx": 5.8,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 3.35,
+            "hx": 4.45,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.9,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.42,
+            "hx": 4.25,
+            "h2": 4.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:42:05.601Z"
+  },
+  {
+    "match_id": "Championship|2026-04-22T18:45:00.000Z|Sheffield_Utd|Blackburn",
+    "url": "https://www.unibet.fr/paris-football/angleterre/championship/3333716/sheffield-utd-vs-blackburn",
+    "league": "Championship",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-04-22T18:45:00.000Z",
+    "home": "Sheffield Utd",
+    "away": "Blackburn",
+    "odds": {
+      "1x2": {
+        "1": 1.78,
+        "2": 3.9,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.2,
+        "X2": 1.73
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.85
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.78
+        },
+        "3.5": {
+          "over": 2.85,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.75,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3,
+            "hx": 3.55,
+            "h2": 1.83
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.9,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:42:52.026Z"
+  },
+  {
+    "match_id": "Championship|2026-04-22T18:45:00.000Z|Charlton|Ipswich",
+    "url": "https://www.unibet.fr/paris-football/angleterre/championship/3333719/charlton-vs-ipswich",
+    "league": "Championship",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-04-22T18:45:00.000Z",
+    "home": "Charlton",
+    "away": "Ipswich",
+    "odds": {
+      "1x2": {
+        "1": 4.9,
+        "2": 1.61,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.89,
+        "X2": 1.15
+      },
+      "btts": {
+        "yes": 1.82,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.82,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 11,
+            "hx": 5.4,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.4,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.4,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.5,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:43:24.685Z"
+  },
+  {
+    "match_id": "Championship|2026-04-22T18:45:00.000Z|Birmingham|Preston",
+    "url": "https://www.unibet.fr/paris-football/angleterre/championship/3333718/birmingham-vs-preston",
+    "league": "Championship",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-04-22T18:45:00.000Z",
+    "home": "Birmingham",
+    "away": "Preston",
+    "odds": {
+      "1x2": {
+        "1": 1.61,
+        "2": 4.8,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.15,
+        "X2": 1.89
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.82
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.72,
+          "under": 1.82
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.9,
+            "hx": 6.4,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.95,
+            "hx": 4.45,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.5,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:43:58.527Z"
+  },
+  {
+    "match_id": "Premier_League|2026-04-22T19:00:00.000Z|Bournemouth|Leeds_Utd",
+    "url": "https://www.unibet.fr/paris-football/angleterre/premier-league/3338330/bournemouth-vs-leeds-utd",
+    "league": "Premier League",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-04-22T19:00:00.000Z",
+    "home": "Bournemouth",
+    "away": "Leeds Utd",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 3.5,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.27,
+        "X2": 1.66
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.6
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.98
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 4.25,
+          "under": 1.14
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.6,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5.2,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.35,
+            "hx": 3.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.85,
+            "h2": 6.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.2,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:44:40.522Z"
+  },
+  {
+    "match_id": "Premier_League|2026-04-22T19:00:00.000Z|Burnley|Man._City",
+    "url": "https://www.unibet.fr/paris-football/angleterre/premier-league/3338331/burnley-vs-man-city",
+    "league": "Premier League",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-04-22T19:00:00.000Z",
+    "home": "Burnley",
+    "away": "Man. City",
+    "odds": {
+      "1x2": {
+        "1": 17,
+        "2": 1.12,
+        "X": 9
+      },
+      "double_chance": {
+        "12": 1.05,
+        "1X": 4.05,
+        "X2": 1.02
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.62
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "3.5": {
+          "over": 1.75,
+          "under": 1.85
+        },
+        "4.5": {
+          "over": 2.6,
+          "under": 1.37
+        },
+        "5.5": {
+          "over": 4.1,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.45,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 2.75,
+            "hx": 3.95,
+            "h2": 1.87
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.72,
+            "hx": 4.3,
+            "h2": 3
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.29,
+            "hx": 5.6,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.1,
+            "hx": 7.6,
+            "h2": 9.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.85
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:45:31.695Z"
+  },
+  {
+    "match_id": "LaLiga|2026-04-22T17:00:00.000Z|Elche|Atl._Madrid",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga/3332017/elche-vs-atl-madrid",
+    "league": "LaLiga",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-04-22T17:00:00.000Z",
+    "home": "Elche",
+    "away": "Atl. Madrid",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.7,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.39,
+        "X2": 1.5
+      },
+      "btts": {
+        "yes": 1.52,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 4.1,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.8,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.15,
+            "hx": 4.05,
+            "h2": 1.51
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.39,
+            "hx": 4.3,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:50:02.018Z"
+  },
+  {
+    "match_id": "LaLiga|2026-04-22T18:00:00.000Z|Real_Sociedad|Getafe",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga/3314856/real-sociedad-vs-getafe",
+    "league": "LaLiga",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2026-04-22T18:00:00.000Z",
+    "home": "Real Sociedad",
+    "away": "Getafe",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.8,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": 1.33,
+        "1X": 1.24,
+        "X2": 1.61
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.62
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 5.75
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.25,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.75,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.9,
+            "hx": 3.55,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.6,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:50:49.330Z"
+  },
+  {
+    "match_id": "LaLiga|2026-04-22T19:30:00.000Z|FC_Barcelone|Celta_Vigo",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga/3314851/fc-barcelone-vs-celta-vigo",
+    "league": "LaLiga",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2026-04-22T19:30:00.000Z",
+    "home": "FC Barcelone",
+    "away": "Celta Vigo",
+    "odds": {
+      "1x2": {
+        "1": 1.2,
+        "2": 11,
+        "X": 7.5
+      },
+      "double_chance": {
+        "12": 1.09,
+        "1X": 1.06,
+        "X2": 3.15
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 2.05
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "2.5": {
+          "over": 1.25,
+          "under": 3.2
+        },
+        "3.5": {
+          "over": 1.68,
+          "under": 1.95
+        },
+        "4.5": {
+          "over": 2.45,
+          "under": 1.42
+        },
+        "5.5": {
+          "over": 3.75,
+          "under": 1.18
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 11.5,
+            "hx": 8.7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 6.8,
+            "hx": 6.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 3.85,
+            "hx": 4.8,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.3,
+            "hx": 4.05,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.55,
+            "hx": 4.2,
+            "h2": 3.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:51:38.316Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-04-22T18:45:00.000Z|Leverkusen|Bayern_Munich",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3324465/leverkusen-vs-bayern-munich",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-04-22T18:45:00.000Z",
+    "home": "Leverkusen",
+    "away": "Bayern Munich",
+    "odds": {
+      "1x2": {
+        "1": 4.8,
+        "2": 1.5,
+        "X": 4.8
+      },
+      "double_chance": {
+        "12": 1.16,
+        "1X": 2.2,
+        "X2": 1.16
+      },
+      "btts": {
+        "yes": 1.36,
+        "no": 2.5
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "3.5": {
+          "over": 1.7,
+          "under": 1.9
+        },
+        "4.5": {
+          "over": 2.5,
+          "under": 1.4
+        },
+        "5.5": {
+          "over": 4.1,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.9,
+            "hx": 6.2,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.35,
+            "hx": 4,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.57,
+            "hx": 4.5,
+            "h2": 3.45
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.22,
+            "hx": 5.9,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.07,
+            "hx": 8.1,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T05:56:16.888Z"
+  },
+  {
+    "match_id": "Coupe_d'Italie|2026-04-22T19:00:00.000Z|Atalanta|Lazio_Rome",
+    "url": "https://www.unibet.fr/paris-football/italie/coupe-d-italie/3325436/atalanta-vs-lazio-rome",
+    "league": "Coupe d'Italie",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-04-22T19:00:00.000Z",
+    "home": "Atalanta",
+    "away": "Lazio Rome",
+    "odds": {
+      "1x2": {
+        "1": 1.8,
+        "2": 4.3,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.19,
+        "X2": 1.73
+      },
+      "btts": {
+        "yes": 1.75,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.82,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.75,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3,
+            "hx": 3.5,
+            "h2": 1.84
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.18,
+            "hx": 5,
+            "h2": 9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:01:56.334Z"
+  },
+  {
+    "match_id": "D1_Belgique|2026-04-22T18:30:00.000Z|Saint-Gilloise|La_Gantoise",
+    "url": "https://www.unibet.fr/paris-football/belgique/d1-belgique/3333074/saint-gilloise-vs-la-gantoise",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2026-04-22T18:30:00.000Z",
+    "home": "Saint-Gilloise",
+    "away": "La Gantoise",
+    "odds": {
+      "1x2": {
+        "1": 1.35,
+        "2": 7.5,
+        "X": 4.4
+      },
+      "double_chance": {
+        "12": 1.15,
+        "1X": 1.08,
+        "X2": 2.35
+      },
+      "btts": {
+        "yes": 2.05,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.78
+        },
+        "3.5": {
+          "over": 2.85,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.3,
+            "hx": 5.5,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.65,
+            "hx": 3.85,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2,
+            "hx": 3.3,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.3,
+            "h2": 17
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:11:04.230Z"
+  },
+  {
+    "match_id": "D1_Belgique|2026-04-22T18:30:00.000Z|Club_Bruges|KV_Mechelen",
+    "url": "https://www.unibet.fr/paris-football/belgique/d1-belgique/3333078/club-bruges-vs-kv-mechelen",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2026-04-22T18:30:00.000Z",
+    "home": "Club Bruges",
+    "away": "KV Mechelen",
+    "odds": {
+      "1x2": {
+        "1": 1.2,
+        "2": 9.5,
+        "X": 6.1
+      },
+      "double_chance": {
+        "12": 1.08,
+        "1X": 1.05,
+        "X2": 2.9
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.85
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.32,
+          "under": 2.7
+        },
+        "3.5": {
+          "over": 1.82,
+          "under": 1.72
+        },
+        "4.5": {
+          "over": 2.75,
+          "under": 1.3
+        },
+        "5.5": {
+          "over": 4.25,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 7.3,
+            "hx": 6.4,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.05,
+            "hx": 4.7,
+            "h2": 1.43
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.4,
+            "hx": 3.9,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.56,
+            "hx": 4,
+            "h2": 3.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:11:31.543Z"
+  },
+  {
+    "match_id": "MLS|2026-04-22T23:30:00.000Z|Columbus_Crew|LA_Galaxy",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314869/columbus-crew-vs-la-galaxy",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-04-22T23:30:00.000Z",
+    "home": "Columbus Crew",
+    "away": "LA Galaxy",
+    "odds": {
+      "1x2": {
+        "1": 1.71,
+        "2": 3.7,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.21,
+        "X2": 1.76
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.2,
+            "hx": 4.8,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.8,
+            "hx": 3.75,
+            "h2": 1.87
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 5.1,
+            "h2": 7.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:17:13.201Z"
+  },
+  {
+    "match_id": "MLS|2026-04-22T23:30:00.000Z|Toronto_FC|Philadelphia",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314873/toronto-fc-vs-philadelphia",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-04-22T23:30:00.000Z",
+    "home": "Toronto FC",
+    "away": "Philadelphia",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.65,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.35,
+        "X2": 1.44
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.72,
+          "under": 1.78
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.3,
+            "hx": 5.7,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.35,
+            "hx": 3.95,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.2,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.2,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:17:25.601Z"
+  },
+  {
+    "match_id": "MLS|2026-04-22T23:30:00.000Z|NY_Red_Bulls|DC_United",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314871/ny-red-bulls-vs-dc-united",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-04-22T23:30:00.000Z",
+    "home": "NY Red Bulls",
+    "away": "DC United",
+    "odds": {
+      "1x2": {
+        "1": 1.76,
+        "2": 3.65,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.21,
+        "X2": 1.71
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 7,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.9,
+            "hx": 4.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3,
+            "hx": 3.65,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.95,
+            "h2": 7.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:17:37.887Z"
+  },
+  {
+    "match_id": "MLS|2026-04-22T23:30:00.000Z|Orlando_City|Charlotte_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314872/orlando-city-vs-charlotte-fc",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-04-22T23:30:00.000Z",
+    "home": "Orlando City",
+    "away": "Charlotte FC",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.3,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.43,
+        "X2": 1.41
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.25
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.8,
+            "hx": 6,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.35,
+            "hx": 4.25,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.46,
+            "hx": 4.2,
+            "h2": 4.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.9,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:17:49.115Z"
+  },
+  {
+    "match_id": "MLS|2026-04-22T23:30:00.000Z|NY_City_FC|FC_Cincinnati",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314870/ny-city-fc-vs-fc-cincinnati",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-04-22T23:30:00.000Z",
+    "home": "NY City FC",
+    "away": "FC Cincinnati",
+    "odds": {
+      "1x2": {
+        "1": 1.75,
+        "2": 3.65,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": 1.23,
+        "1X": 1.21,
+        "X2": 1.72
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.9,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.85,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.9,
+            "hx": 3.75,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.1,
+            "h2": 7.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:18:00.485Z"
+  },
+  {
+    "match_id": "MLS|2026-04-22T23:45:00.000Z|Atlanta_Utd|New_England",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314868/atlanta-utd-vs-new-england",
+    "league": "MLS",
+    "kickoff_raw": "À 23h45",
+    "kickoff_utc": "2026-04-22T23:45:00.000Z",
+    "home": "Atlanta Utd",
+    "away": "New England",
+    "odds": {
+      "1x2": {
+        "1": 1.9,
+        "2": 3.35,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": 1.25,
+        "1X": 1.25,
+        "X2": 1.61
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 14,
+            "hx": 7.4,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.1,
+            "hx": 5.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.65,
+            "h2": 1.69
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.65,
+            "h2": 7.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:18:11.823Z"
+  },
+  {
+    "match_id": "MLS|2026-04-23T00:30:00.000Z|Dallas_FC|Minnesota_Utd",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314876/dallas-fc-vs-minnesota-utd",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-04-23T00:30:00.000Z",
+    "home": "Dallas FC",
+    "away": "Minnesota Utd",
+    "odds": {
+      "1x2": {
+        "1": 1.94,
+        "2": 3.1,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.28,
+        "X2": 1.59
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.4,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.6,
+            "hx": 5.2,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.35,
+            "hx": 3.9,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.28,
+            "hx": 4.7,
+            "h2": 6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.8,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:18:22.693Z"
+  },
+  {
+    "match_id": "MLS|2026-04-23T00:30:00.000Z|Houston|San_Diego_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314877/houston-vs-san-diego-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-04-23T00:30:00.000Z",
+    "home": "Houston",
+    "away": "San Diego FC",
+    "odds": {
+      "1x2": {
+        "1": 1.85,
+        "2": 3.2,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.26,
+        "X2": 1.64
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 7.2,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.1,
+            "hx": 5.1,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.15,
+            "hx": 3.85,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.8,
+            "h2": 6.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.9,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:18:34.487Z"
+  },
+  {
+    "match_id": "MLS|2026-04-23T01:30:00.000Z|Salt_Lake|Inter_Miami",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314879/salt-lake-vs-inter-miami",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 01h30",
+    "kickoff_utc": "2026-04-23T01:30:00.000Z",
+    "home": "Salt Lake",
+    "away": "Inter Miami",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 2.7,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": 1.22,
+        "1X": 1.34,
+        "X2": 1.53
+      },
+      "btts": {
+        "yes": 1.32,
+        "no": 2.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.36,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5.5,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.5,
+            "hx": 4.15,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.36,
+            "hx": 4.6,
+            "h2": 4.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.4,
+            "h2": 9.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:18:46.385Z"
+  },
+  {
+    "match_id": "MLS|2026-04-23T02:30:00.000Z|Los_Angeles_FC|Colorado",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314880/los-angeles-fc-vs-colorado",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-04-23T02:30:00.000Z",
+    "home": "Los Angeles FC",
+    "away": "Colorado",
+    "odds": {
+      "1x2": {
+        "1": 1.38,
+        "2": 5.4,
+        "X": 4.55
+      },
+      "double_chance": {
+        "12": 1.14,
+        "1X": 1.11,
+        "X2": 2.25
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "3.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 11,
+            "hx": 7.7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.3,
+            "hx": 5.6,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.4,
+            "hx": 4.15,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2,
+            "hx": 3.75,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.2,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:18:58.917Z"
+  },
+  {
+    "match_id": "MLS|2026-04-23T02:30:00.000Z|San_Jose|Austin_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3314881/san-jose-vs-austin-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-04-23T02:30:00.000Z",
+    "home": "San Jose",
+    "away": "Austin FC",
+    "odds": {
+      "1x2": {
+        "1": 1.41,
+        "2": 5.4,
+        "X": 4.3
+      },
+      "double_chance": {
+        "12": 1.16,
+        "1X": 1.12,
+        "X2": 2.2
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.9,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7,
+            "hx": 5.7,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.65,
+            "hx": 4.15,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.1,
+            "hx": 3.6,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:19:10.104Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-04-22T10:00:00.000Z|Gamba_Osaka|Avispa_Fukuoka",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3323870/gamba-osaka-vs-avispa-fukuoka",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 10h00",
+    "kickoff_utc": "2026-04-22T10:00:00.000Z",
+    "home": "Gamba Osaka",
+    "away": "Avispa Fukuoka",
+    "odds": {
+      "1x2": {
+        "1": 1.78,
+        "2": 4.15,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": 1.26,
+        "1X": 1.19,
+        "X2": 1.72
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7.1,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.7,
+            "hx": 4.75,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.15,
+            "hx": 3.4,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.18,
+            "hx": 4.85,
+            "h2": 9.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:21:29.497Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2026-04-22T18:00:00.000Z|SC_Telstar|Spar.Rotterdam",
+    "url": "https://www.unibet.fr/paris-football/pays-bas/d1-pays-bas/3332188/sc-telstar-vs-spar-rotterdam",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 18h00",
+    "kickoff_utc": "2026-04-22T18:00:00.000Z",
+    "home": "SC Telstar",
+    "away": "Spar.Rotterdam",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.75,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": 1.24,
+        "1X": 1.35,
+        "X2": 1.48
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.85
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.2,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.8,
+            "hx": 5.6,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.85,
+            "hx": 4.05,
+            "h2": 1.53
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.4,
+            "h2": 4.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.3,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:23:03.916Z"
+  },
+  {
+    "match_id": "D2_Portugal|2026-04-22T17:00:00.000Z|Oliveirense|Benfica_B",
+    "url": "https://www.unibet.fr/paris-football/portugal/d2-portugal/3339288/oliveirense-vs-benfica-b",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-04-22T17:00:00.000Z",
+    "home": "Oliveirense",
+    "away": "Benfica B",
+    "odds": {
+      "1x2": {
+        "1": 2.9,
+        "2": 2.1,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": 1.27,
+        "1X": 1.51,
+        "X2": 1.33
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.1,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.2,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.53,
+            "hx": 3.75,
+            "h2": 3.85
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.3,
+            "h2": 7.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:24:37.436Z"
+  },
+  {
+    "match_id": "Cpe_Portugal|2026-04-22T19:45:00.000Z|FC_Porto|Sporting",
+    "url": "https://www.unibet.fr/paris-football/portugal/cpe-portugal/3333756/fc-porto-vs-sporting",
+    "league": "Cpe Portugal",
+    "kickoff_raw": "À 19h45",
+    "kickoff_utc": "2026-04-22T19:45:00.000Z",
+    "home": "FC Porto",
+    "away": "Sporting",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 3.15,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": 1.29,
+        "1X": 1.29,
+        "X2": 1.49
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9,
+            "hx": 5.5,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.15,
+            "hx": 3.75,
+            "h2": 1.54
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.35,
+            "h2": 6.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.6,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-04-22T06:25:10.091Z"
+  }
+]
