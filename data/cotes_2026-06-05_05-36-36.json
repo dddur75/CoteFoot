@@ -1,0 +1,350 @@
+[
+  {
+    "match_id": "D1_Japon|2026-06-06T05:00:00.000Z|JEF_Utd_Chiba|Avispa_Fukuoka",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351397/jef-utd-chiba-vs-avispa-fukuoka",
+    "league": "D1 Japon",
+    "kickoff_raw": "Demain à 05h00",
+    "kickoff_utc": "2026-06-06T05:00:00.000Z",
+    "home": "JEF Utd Chiba",
+    "away": "Avispa Fukuoka",
+    "odds": {
+      "1x2": {
+        "1": 2.8,
+        "2": 2.4,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.62
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5.25
+        },
+        "1.5": {
+          "over": 1.4,
+          "under": 2.4
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14,
+            "hx": 6.3,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6,
+            "hx": 3.95,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.42,
+            "hx": 3.75,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.9,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-05T05:35:14.525Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T05:00:00.000Z|FC_Tokyo|Cerezo_Osaka",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351395/fc-tokyo-vs-cerezo-osaka",
+    "league": "D1 Japon",
+    "kickoff_raw": "Demain à 05h00",
+    "kickoff_utc": "2026-06-06T05:00:00.000Z",
+    "home": "FC Tokyo",
+    "away": "Cerezo Osaka",
+    "odds": {
+      "1x2": {
+        "1": 1.8,
+        "2": 3.8,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.62,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.85
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12,
+            "hx": 7.1,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.85,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.65,
+            "h2": 1.79
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.95,
+            "h2": 7.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-05T05:35:23.662Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T05:00:00.000Z|Kashima|Vissel_Kobe",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351386/kashima-vs-vissel-kobe",
+    "league": "D1 Japon",
+    "kickoff_raw": "Demain à 05h00",
+    "kickoff_utc": "2026-06-06T05:00:00.000Z",
+    "home": "Kashima",
+    "away": "Vissel Kobe",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.8,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.8,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.65,
+            "hx": 3.8,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.1,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.3,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-05T05:35:32.314Z"
+  }
+]
