@@ -1,0 +1,895 @@
+[
+  {
+    "match_id": "D1_Japon|2026-06-06T06:00:00.000Z|Mito_Hollyhock|VV_Nagasaki",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351402/mito-hollyhock-vs-vv-nagasaki",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 06h00",
+    "kickoff_utc": "2026-06-06T06:00:00.000Z",
+    "home": "Mito Hollyhock",
+    "away": "VV Nagasaki",
+    "odds": {
+      "1x2": {
+        "1": 1.95,
+        "2": 3.6,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8,
+            "hx": 5.1,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.65,
+            "hx": 3.5,
+            "h2": 1.66
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.5,
+            "h2": 7.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:33:32.921Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T06:00:00.000Z|FC_Machida|Nagoya_Grampus",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351391/fc-machida-vs-nagoya-grampus",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 06h00",
+    "kickoff_utc": "2026-06-06T06:00:00.000Z",
+    "home": "FC Machida",
+    "away": "Nagoya Grampus",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 3.5,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.82,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.3,
+            "hx": 5.2,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.8,
+            "hx": 3.55,
+            "h2": 1.63
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.45,
+            "h2": 7.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:33:41.204Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T07:00:00.000Z|Urawa_Reds|Okayama",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351406/urawa-reds-vs-okayama",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 07h00",
+    "kickoff_utc": "2026-06-06T07:00:00.000Z",
+    "home": "Urawa Reds",
+    "away": "Okayama",
+    "odds": {
+      "1x2": {
+        "1": 1.87,
+        "2": 4,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 4.9,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.35,
+            "hx": 3.45,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.75,
+            "h2": 8.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:33:49.308Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T07:00:00.000Z|Tokyo_Verdy|Gamba_Osaka",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351399/tokyo-verdy-vs-gamba-osaka",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 07h00",
+    "kickoff_utc": "2026-06-06T07:00:00.000Z",
+    "home": "Tokyo Verdy",
+    "away": "Gamba Osaka",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.6,
+        "X": 3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.42
+        },
+        "3.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.3,
+            "hx": 5.3,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.05,
+            "hx": 3.45,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.4,
+            "h2": 8.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:33:57.284Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T08:00:00.000Z|Yokohama_F.Mar|Shimizu",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351408/yokohama-f-mar-vs-shimizu",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 08h00",
+    "kickoff_utc": "2026-06-06T08:00:00.000Z",
+    "home": "Yokohama F.Mar",
+    "away": "Shimizu",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 3.1,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.5,
+            "hx": 5.5,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.25,
+            "hx": 3.7,
+            "h2": 1.53
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 4.2,
+            "h2": 6.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.5,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:34:05.685Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T09:00:00.000Z|Kashiwa_Reysol|Kyoto_Sanga_FC",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351404/kashiwa-reysol-vs-kyoto-sanga-fc",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 09h00",
+    "kickoff_utc": "2026-06-06T09:00:00.000Z",
+    "home": "Kashiwa Reysol",
+    "away": "Kyoto Sanga FC",
+    "odds": {
+      "1x2": {
+        "1": 1.83,
+        "2": 3.9,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.82
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.82,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.85,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.1,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.5,
+            "hx": 4.85,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.15,
+            "hx": 3.55,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.85,
+            "h2": 8.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:34:13.873Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-06-06T10:00:00.000Z|KawasakiFront.|Hiroshima",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3351393/kawasakifront-vs-hiroshima",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 10h00",
+    "kickoff_utc": "2026-06-06T10:00:00.000Z",
+    "home": "KawasakiFront.",
+    "away": "Hiroshima",
+    "odds": {
+      "1x2": {
+        "1": 3.3,
+        "2": 1.96,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.48,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.85
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.8,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.7,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.67,
+            "hx": 3.85,
+            "h2": 3.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.23,
+            "hx": 5.2,
+            "h2": 6.5
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.4,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:34:21.994Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-06-06T19:00:00.000Z|Castellon|Almeria",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3353061/castellon-vs-almeria",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-06-06T19:00:00.000Z",
+    "home": "Castellon",
+    "away": "Almeria",
+    "odds": {
+      "1x2": {
+        "1": 1.73,
+        "2": 3.95,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.3,
+            "hx": 4.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.8,
+            "hx": 3.65,
+            "h2": 1.89
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.19,
+            "hx": 5.2,
+            "h2": 8.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-06T05:34:58.608Z"
+  }
+]
