@@ -1,0 +1,118 @@
+[
+  {
+    "match_id": "LaLiga_2|2026-06-09T19:00:00.000Z|Almeria|Castellon",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3353062/almeria-vs-castellon",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-06-09T19:00:00.000Z",
+    "home": "Almeria",
+    "away": "Castellon",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 2.8,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.48,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.85
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.9,
+            "hx": 5.6,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.9,
+            "hx": 4.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.4,
+            "h2": 5.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-09T05:33:33.238Z"
+  }
+]
