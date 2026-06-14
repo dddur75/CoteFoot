@@ -1,0 +1,118 @@
+[
+  {
+    "match_id": "LaLiga_2|2026-06-14T19:00:00.000Z|Malaga|Almeria",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3355606/malaga-vs-almeria",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-06-14T19:00:00.000Z",
+    "home": "Malaga",
+    "away": "Almeria",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 3.2,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8,
+            "hx": 5.5,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.85,
+            "hx": 3.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.28,
+            "hx": 4.55,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.8,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-06-14T05:33:39.367Z"
+  }
+]
