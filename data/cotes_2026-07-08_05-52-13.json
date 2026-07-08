@@ -1,0 +1,458 @@
+[
+  {
+    "match_id": "ChampionsLeague|2026-07-08T15:00:00.000Z|Kairat_Almaty|Sutjeska",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/championsleague/3358991/kairat-almaty-vs-sutjeska",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 15h00",
+    "kickoff_utc": "2026-07-08T15:00:00.000Z",
+    "home": "Kairat Almaty",
+    "away": "Sutjeska",
+    "odds": {
+      "1x2": {
+        "1": 1.15,
+        "2": 12,
+        "X": 5.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.42
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 8.3,
+            "hx": 6.2,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.5,
+            "hx": 4.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.56,
+            "hx": 3.5,
+            "h2": 3.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.9,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-08T05:51:29.306Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-07-08T16:00:00.000Z|FC_Flora|Iberia_1999",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/championsleague/3357006/fc-flora-vs-iberia-1999",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2026-07-08T16:00:00.000Z",
+    "home": "FC Flora",
+    "away": "Iberia 1999",
+    "odds": {
+      "1x2": {
+        "1": 2.75,
+        "2": 2.1,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.45,
+          "under": 1.36
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.1,
+            "hx": 4.2,
+            "h2": 1.34
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.51,
+            "hx": 3.85,
+            "h2": 3.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.4,
+            "h2": 7.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-08T05:51:38.789Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-07-08T17:00:00.000Z|Max.Rogachev|Uni.Craiova",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/championsleague/3363273/max-rogachev-vs-uni-craiova",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-07-08T17:00:00.000Z",
+    "home": "Max.Rogachev",
+    "away": "Uni.Craiova",
+    "odds": {
+      "1x2": {
+        "1": 4.15,
+        "2": 1.7,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 9.2,
+            "hx": 4.75,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.83,
+            "hx": 3.35,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.55,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.5,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 4.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-08T05:51:47.615Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-07-08T17:00:00.000Z|CS_Petrocub|KS_Egnatia",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/championsleague/3357002/cs-petrocub-vs-ks-egnatia",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-07-08T17:00:00.000Z",
+    "home": "CS Petrocub",
+    "away": "KS Egnatia",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.1,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.1,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.95,
+            "hx": 3.45,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.27,
+            "hx": 4.1,
+            "h2": 6.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-08T05:51:56.501Z"
+  }
+]
