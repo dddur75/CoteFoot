@@ -1,0 +1,2583 @@
+[
+  {
+    "match_id": "D1_Brésil|2026-07-22T22:30:00.000Z|Coritiba|Palmeiras",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3353243/coritiba-vs-palmeiras",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h30",
+    "kickoff_utc": "2026-07-22T22:30:00.000Z",
+    "home": "Coritiba",
+    "away": "Palmeiras",
+    "odds": {
+      "1x2": {
+        "1": 4,
+        "2": 1.77,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 9.6,
+            "hx": 5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.81,
+            "hx": 3.45,
+            "h2": 3.25
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.25,
+            "hx": 4.85,
+            "h2": 6.9
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.4,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:52:44.557Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-07-23T00:30:00.000Z|Sao_Paulo|Atletico_PR",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3353251/sao-paulo-vs-atletico-pr",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-07-23T00:30:00.000Z",
+    "home": "Sao Paulo",
+    "away": "Atletico PR",
+    "odds": {
+      "1x2": {
+        "1": 1.87,
+        "2": 3.6,
+        "X": 3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.7,
+            "hx": 5.1,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.55,
+            "hx": 3.55,
+            "h2": 1.71
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.21,
+            "hx": 4.75,
+            "h2": 8.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:53:13.223Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-07-23T00:30:00.000Z|Internacional|Cruzeiro",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3353246/internacional-vs-cruzeiro",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-07-23T00:30:00.000Z",
+    "home": "Internacional",
+    "away": "Cruzeiro",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.1,
+        "X": 3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.8,
+            "hx": 5.5,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.05,
+            "hx": 3.75,
+            "h2": 1.57
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.45,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 6.9,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:53:39.727Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-07-23T00:30:00.000Z|Chapecoense_SC|Flamengo",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3353233/chapecoense-sc-vs-flamengo",
+    "league": "D1 Brésil",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-07-23T00:30:00.000Z",
+    "home": "Chapecoense SC",
+    "away": "Flamengo",
+    "odds": {
+      "1x2": {
+        "1": 6.1,
+        "2": 1.38,
+        "X": 4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 15,
+            "hx": 6.2,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.55,
+            "hx": 3.4,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.53,
+            "hx": 4.05,
+            "h2": 4
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.8,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:54:05.136Z"
+  },
+  {
+    "match_id": "MLS|2026-07-22T23:30:00.000Z|Philadelphia|NY_Red_Bulls",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344566/philadelphia-vs-ny-red-bulls",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-07-22T23:30:00.000Z",
+    "home": "Philadelphia",
+    "away": "NY Red Bulls",
+    "odds": {
+      "1x2": {
+        "1": 1.62,
+        "2": 4,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.25
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 4.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.6,
+            "hx": 6.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.55,
+            "hx": 4.65,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.55,
+            "hx": 3.85,
+            "h2": 1.98
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.18,
+            "hx": 5.4,
+            "h2": 7.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:56:28.622Z"
+  },
+  {
+    "match_id": "MLS|2026-07-22T23:30:00.000Z|Inter_Miami|Chicago_Fire",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344567/inter-miami-vs-chicago-fire",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-07-22T23:30:00.000Z",
+    "home": "Inter Miami",
+    "away": "Chicago Fire",
+    "odds": {
+      "1x2": {
+        "1": 1.96,
+        "2": 2.85,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.28,
+        "no": 2.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "3.5": {
+          "over": 1.72,
+          "under": 1.78
+        },
+        "4.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "5.5": {
+          "over": 4,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 7.4,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.9,
+            "hx": 5.4,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.2,
+            "hx": 4.2,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.33,
+            "hx": 4.85,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.7,
+            "h2": 9.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:56:42.131Z"
+  },
+  {
+    "match_id": "MLS|2026-07-22T23:30:00.000Z|FC_Cincinnati|Vancouver",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344563/fc-cincinnati-vs-vancouver",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-07-22T23:30:00.000Z",
+    "home": "FC Cincinnati",
+    "away": "Vancouver",
+    "odds": {
+      "1x2": {
+        "1": 3.6,
+        "2": 1.69,
+        "X": 3.85
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.35,
+        "no": 2.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "3.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.3,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13,
+            "hx": 7.4,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.8,
+            "hx": 5.3,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.89,
+            "hx": 3.95,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.85,
+            "h2": 4.75
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.7,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:56:54.653Z"
+  },
+  {
+    "match_id": "MLS|2026-07-22T23:30:00.000Z|New_England|Toronto_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344564/new-england-vs-toronto-fc",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-07-22T23:30:00.000Z",
+    "home": "New England",
+    "away": "Toronto FC",
+    "odds": {
+      "1x2": {
+        "1": 1.79,
+        "2": 3.55,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12,
+            "hx": 7.1,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.2,
+            "hx": 4.9,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.1,
+            "hx": 3.65,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.22,
+            "hx": 4.85,
+            "h2": 7.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:57:06.833Z"
+  },
+  {
+    "match_id": "MLS|2026-07-22T23:30:00.000Z|Columbus_Crew|NY_City_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344565/columbus-crew-vs-ny-city-fc",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-07-22T23:30:00.000Z",
+    "home": "Columbus Crew",
+    "away": "NY City FC",
+    "odds": {
+      "1x2": {
+        "1": 1.86,
+        "2": 3.35,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.85
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.2,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.5,
+            "hx": 5,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.25,
+            "hx": 3.7,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.75,
+            "h2": 7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:57:18.340Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T00:15:00.000Z|Charlotte_FC|Atlanta_Utd",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344568/charlotte-fc-vs-atlanta-utd",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h15",
+    "kickoff_utc": "2026-07-23T00:15:00.000Z",
+    "home": "Charlotte FC",
+    "away": "Atlanta Utd",
+    "odds": {
+      "1x2": {
+        "1": 1.88,
+        "2": 3.35,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12,
+            "hx": 7.3,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.3,
+            "hx": 5.1,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.2,
+            "hx": 3.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.85,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:57:30.221Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T00:30:00.000Z|Houston|DC_United",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344570/houston-vs-dc-united",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-07-23T00:30:00.000Z",
+    "home": "Houston",
+    "away": "DC United",
+    "odds": {
+      "1x2": {
+        "1": 1.68,
+        "2": 4,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 6.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.65,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.8,
+            "hx": 3.6,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.18,
+            "hx": 5.1,
+            "h2": 8.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:57:42.021Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T00:30:00.000Z|Nashville_SC|CF_Montreal",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344571/nashville-sc-vs-cf-montreal",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-07-23T00:30:00.000Z",
+    "home": "Nashville SC",
+    "away": "CF Montreal",
+    "odds": {
+      "1x2": {
+        "1": 1.42,
+        "2": 5.4,
+        "X": 4.1
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.3,
+            "hx": 5.8,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.8,
+            "hx": 4.15,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.15,
+            "hx": 3.6,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:57:53.321Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T00:30:00.000Z|Kansas_City|Minnesota_Utd",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344572/kansas-city-vs-minnesota-utd",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-07-23T00:30:00.000Z",
+    "home": "Kansas City",
+    "away": "Minnesota Utd",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 1.87,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.25
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "3.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "4.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.85,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.7,
+            "hx": 3.95,
+            "h2": 3.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.25,
+            "hx": 5.1,
+            "h2": 6
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.07,
+            "hx": 7.2,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:58:05.124Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T01:30:00.000Z|Colorado|San_Diego_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344573/colorado-vs-san-diego-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 01h30",
+    "kickoff_utc": "2026-07-23T01:30:00.000Z",
+    "home": "Colorado",
+    "away": "San Diego FC",
+    "odds": {
+      "1x2": {
+        "1": 1.89,
+        "2": 3.05,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.32,
+        "no": 2.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "3.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.3,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 7.2,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 5.2,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.1,
+            "hx": 4.1,
+            "h2": 1.69
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.28,
+            "hx": 4.9,
+            "h2": 5.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.9,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:58:16.632Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T01:30:00.000Z|Austin_FC|Seattle",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344569/austin-fc-vs-seattle",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 01h30",
+    "kickoff_utc": "2026-07-23T01:30:00.000Z",
+    "home": "Austin FC",
+    "away": "Seattle",
+    "odds": {
+      "1x2": {
+        "1": 3,
+        "2": 2,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12,
+            "hx": 6.7,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.9,
+            "hx": 4.6,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.61,
+            "hx": 3.9,
+            "h2": 3.5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.2,
+            "hx": 5.3,
+            "h2": 7.1
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.5,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:58:28.441Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T02:30:00.000Z|Portland|Dallas_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344577/portland-vs-dallas-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-07-23T02:30:00.000Z",
+    "home": "Portland",
+    "away": "Dallas FC",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 2.6,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.35,
+        "no": 2.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.5,
+            "hx": 5.7,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.85,
+            "hx": 4.2,
+            "h2": 1.51
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.5,
+            "h2": 4.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.3,
+            "h2": 9.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:58:40.233Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T02:30:00.000Z|San_Jose|Orlando_City",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344578/san-jose-vs-orlando-city",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-07-23T02:30:00.000Z",
+    "home": "San Jose",
+    "away": "Orlando City",
+    "odds": {
+      "1x2": {
+        "1": 1.47,
+        "2": 4.5,
+        "X": 4.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.35,
+        "no": 2.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "2.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "3.5": {
+          "over": 1.72,
+          "under": 1.78
+        },
+        "4.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "5.5": {
+          "over": 4,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 11.5,
+            "hx": 8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.5,
+            "hx": 5.9,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.6,
+            "hx": 4.45,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.15,
+            "hx": 3.95,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.9,
+            "h2": 8.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:58:51.741Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T02:30:00.000Z|Los_Angeles_FC|Salt_Lake",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344575/los-angeles-fc-vs-salt-lake",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-07-23T02:30:00.000Z",
+    "home": "Los Angeles FC",
+    "away": "Salt Lake",
+    "odds": {
+      "1x2": {
+        "1": 1.63,
+        "2": 4,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "3.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9,
+            "hx": 6.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.7,
+            "hx": 4.65,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.8,
+            "h2": 1.97
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.18,
+            "hx": 5.4,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:59:03.646Z"
+  },
+  {
+    "match_id": "MLS|2026-07-23T02:30:00.000Z|LA_Galaxy|Saint_Louis_SC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3344576/la-galaxy-vs-saint-louis-sc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-07-23T02:30:00.000Z",
+    "home": "LA Galaxy",
+    "away": "Saint Louis SC",
+    "odds": {
+      "1x2": {
+        "1": 1.86,
+        "2": 3.25,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 7.2,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6,
+            "hx": 5.1,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.1,
+            "hx": 3.9,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.85,
+            "h2": 6.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T05:59:15.023Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-07-22T17:00:00.000Z|Omonia_Nicosie|Kairat_Almaty",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/championsleague/3364782/omonia-nicosie-vs-kairat-almaty",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-07-22T17:00:00.000Z",
+    "home": "Omonia Nicosie",
+    "away": "Kairat Almaty",
+    "odds": {
+      "1x2": {
+        "1": 1.63,
+        "2": 4.9,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.85
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5.25,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.6,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.45,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.75,
+            "hx": 3.35,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.2,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T06:02:48.974Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-07-22T17:30:00.000Z|Levski_Sofia|Uni.Craiova",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/championsleague/3364759/levski-sofia-vs-uni-craiova",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2026-07-22T17:30:00.000Z",
+    "home": "Levski Sofia",
+    "away": "Uni.Craiova",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 3.3,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.75
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.6,
+            "hx": 5.3,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.95,
+            "hx": 3.65,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.4,
+            "h2": 7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 6.8,
+            "h2": 16
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T06:02:57.071Z"
+  },
+  {
+    "match_id": "ChampionsLeague|2026-07-22T19:00:00.000Z|KS_Egnatia|NK_Celje",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/championsleague/3365067/ks-egnatia-vs-nk-celje",
+    "league": "ChampionsLeague",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-07-22T19:00:00.000Z",
+    "home": "KS Egnatia",
+    "away": "NK Celje",
+    "odds": {
+      "1x2": {
+        "1": 3.75,
+        "2": 1.83,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.85
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5.25,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.2,
+            "hx": 4.75,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.75,
+            "hx": 3.5,
+            "h2": 3.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.9,
+            "h2": 6.9
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.2,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.06,
+            "h2": 5.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-07-22T06:03:05.022Z"
+  }
+]
