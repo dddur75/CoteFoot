@@ -1,0 +1,7285 @@
+[
+  {
+    "match_id": "MLS|2026-08-23T20:30:00.000Z|New_England|NY_City_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3353312/new-england-vs-ny-city-fc",
+    "league": "MLS",
+    "kickoff_raw": "À 20h30",
+    "kickoff_utc": "2026-08-23T20:30:00.000Z",
+    "home": "New England",
+    "away": "NY City FC",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 2.85,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.7,
+            "hx": 5.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.8,
+            "hx": 3.95,
+            "h2": 1.56
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.33,
+            "hx": 4.45,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.5,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:35:19.033Z"
+  },
+  {
+    "match_id": "MLS|2026-08-23T23:00:00.000Z|Atlanta_Utd|Kansas_City",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3353330/atlanta-utd-vs-kansas-city",
+    "league": "MLS",
+    "kickoff_raw": "À 23h00",
+    "kickoff_utc": "2026-08-23T23:00:00.000Z",
+    "home": "Atlanta Utd",
+    "away": "Kansas City",
+    "odds": {
+      "1x2": {
+        "1": 1.63,
+        "2": 4.2,
+        "X": 3.85
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "3.5": {
+          "over": 2.05,
+          "under": 1.52
+        },
+        "4.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.6,
+            "hx": 6.4,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.55,
+            "hx": 4.6,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.8,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.5,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:35:31.216Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-08-23T17:45:00.000Z|Barracas_Cent.|CA_Platense",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367813/barracas-cent-vs-ca-platense",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 17h45",
+    "kickoff_utc": "2026-08-23T17:45:00.000Z",
+    "home": "Barracas Cent.",
+    "away": "CA Platense",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 3.05,
+        "X": 2.65
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.42
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "1.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "2.5": {
+          "over": 2.7,
+          "under": 1.3
+        },
+        "3.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "4.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13,
+            "hx": 5.6,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.4,
+            "hx": 3.5,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 3.85,
+            "h2": 7.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.1,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.2,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:35:59.597Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-08-23T17:45:00.000Z|Sarmiento|Estudiantes_LP",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367807/sarmiento-vs-estudiantes-lp",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 17h45",
+    "kickoff_utc": "2026-08-23T17:45:00.000Z",
+    "home": "Sarmiento",
+    "away": "Estudiantes LP",
+    "odds": {
+      "1x2": {
+        "1": 3.2,
+        "2": 2.15,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.1,
+            "hx": 4.1,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 3.55,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 5.3,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.04
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:36:28.110Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-08-23T20:00:00.000Z|Belgrano|Defensa_Y_Jus.",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367808/belgrano-vs-defensa-y-jus",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 20h00",
+    "kickoff_utc": "2026-08-23T20:00:00.000Z",
+    "home": "Belgrano",
+    "away": "Defensa Y Jus.",
+    "odds": {
+      "1x2": {
+        "1": 1.7,
+        "2": 4.55,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "2.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "3.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 6.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.5,
+            "hx": 4.5,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.05,
+            "hx": 3.25,
+            "h2": 1.83
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 4.8,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:36:55.395Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-08-23T22:15:00.000Z|River_Plate|VelezSarsfield",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367805/river-plate-vs-velezsarsfield",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h15",
+    "kickoff_utc": "2026-08-23T22:15:00.000Z",
+    "home": "River Plate",
+    "away": "VelezSarsfield",
+    "odds": {
+      "1x2": {
+        "1": 1.54,
+        "2": 5.5,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2.1,
+        "no": 1.45
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "2.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "3.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.2,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.15,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.1,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.1,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.25,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:37:17.704Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-08-24T00:30:00.000Z|Racing_Club|Boca_Juniors",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367810/racing-club-vs-boca-juniors",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-08-24T00:30:00.000Z",
+    "home": "Racing Club",
+    "away": "Boca Juniors",
+    "odds": {
+      "1x2": {
+        "1": 3.15,
+        "2": 2.2,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "2.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.1,
+            "hx": 4.05,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.48,
+            "hx": 3.5,
+            "h2": 4.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.04
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 3.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:37:45.507Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-08-23T19:00:00.000Z|Palmeiras|Vasco_De_Gama",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3368753/palmeiras-vs-vasco-de-gama",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-08-23T19:00:00.000Z",
+    "home": "Palmeiras",
+    "away": "Vasco De Gama",
+    "odds": {
+      "1x2": {
+        "1": 1.51,
+        "2": 5.4,
+        "X": 3.85
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.72,
+          "under": 1.78
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 9.3,
+            "hx": 6.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.65,
+            "hx": 4.25,
+            "h2": 1.41
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.45,
+            "hx": 3.45,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.12,
+            "hx": 5.6,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:40:02.636Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-08-23T19:00:00.000Z|Bragantino_SP|Gremio",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3368754/bragantino-sp-vs-gremio",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-08-23T19:00:00.000Z",
+    "home": "Bragantino SP",
+    "away": "Gremio",
+    "odds": {
+      "1x2": {
+        "1": 1.62,
+        "2": 4.6,
+        "X": 3.65
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.75
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 6.6,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.4,
+            "hx": 4.5,
+            "h2": 1.33
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.45,
+            "h2": 1.99
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.3,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:40:43.632Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-08-23T19:00:00.000Z|Vitoria_BA|Bahia_Salvador",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3368757/vitoria-ba-vs-bahia-salvador",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-08-23T19:00:00.000Z",
+    "home": "Vitoria BA",
+    "away": "Bahia Salvador",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.65,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.8,
+            "hx": 4.05,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.39,
+            "hx": 4.1,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.1,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:41:14.909Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-08-23T21:30:00.000Z|Santos|Mirassol_SP",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3368752/santos-vs-mirassol-sp",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 21h30",
+    "kickoff_utc": "2026-08-23T21:30:00.000Z",
+    "home": "Santos",
+    "away": "Mirassol SP",
+    "odds": {
+      "1x2": {
+        "1": 1.78,
+        "2": 3.9,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "2.5": {
+          "over": 1.72,
+          "under": 1.78
+        },
+        "3.5": {
+          "over": 2.7,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.1,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.2,
+            "hx": 4.85,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.1,
+            "hx": 3.6,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.9,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:41:45.390Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-08-23T21:30:00.000Z|Chapecoense_SC|Sao_Paulo",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3368758/chapecoense-sc-vs-sao-paulo",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 21h30",
+    "kickoff_utc": "2026-08-23T21:30:00.000Z",
+    "home": "Chapecoense SC",
+    "away": "Sao Paulo",
+    "odds": {
+      "1x2": {
+        "1": 3.55,
+        "2": 1.92,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "3.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.5,
+            "hx": 4.6,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.66,
+            "hx": 3.6,
+            "h2": 3.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.2,
+            "hx": 5.1,
+            "h2": 7.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:42:19.051Z"
+  },
+  {
+    "match_id": "D1_Brésil|2026-08-23T22:30:00.000Z|Coritiba|Corinthians",
+    "url": "https://www.unibet.fr/paris-football/bresil/d1-bresil/3368756/coritiba-vs-corinthians",
+    "league": "D1 Brésil",
+    "kickoff_raw": "À 22h30",
+    "kickoff_utc": "2026-08-23T22:30:00.000Z",
+    "home": "Coritiba",
+    "away": "Corinthians",
+    "odds": {
+      "1x2": {
+        "1": 3,
+        "2": 2.3,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 4.75
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "3.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 16,
+            "hx": 6.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.7,
+            "hx": 4.05,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.45,
+            "hx": 3.65,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.8,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:42:46.405Z"
+  },
+  {
+    "match_id": "Ligue_1_McDonalds|2026-08-23T13:00:00.000Z|Angers|Lille",
+    "url": "https://www.unibet.fr/paris-football/france/ligue-1-mcdonalds/3362706/angers-vs-lille",
+    "league": "Ligue 1 McDonalds",
+    "kickoff_raw": "À 13h00",
+    "kickoff_utc": "2026-08-23T13:00:00.000Z",
+    "home": "Angers",
+    "away": "Lille",
+    "odds": {
+      "1x2": {
+        "1": 5,
+        "2": 1.66,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.88,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 3.2,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 11.5,
+            "hx": 5.4,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.05,
+            "hx": 3.4,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.45,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.7,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:44:23.291Z"
+  },
+  {
+    "match_id": "Ligue_1_McDonalds|2026-08-23T15:15:00.000Z|Le_Havre|Monaco",
+    "url": "https://www.unibet.fr/paris-football/france/ligue-1-mcdonalds/3362709/le-havre-vs-monaco",
+    "league": "Ligue 1 McDonalds",
+    "kickoff_raw": "À 15h15",
+    "kickoff_utc": "2026-08-23T15:15:00.000Z",
+    "home": "Le Havre",
+    "away": "Monaco",
+    "odds": {
+      "1x2": {
+        "1": 3.7,
+        "2": 1.86,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.45,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 4.1,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 16,
+            "hx": 7.4,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.3,
+            "hx": 5,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.84,
+            "hx": 3.7,
+            "h2": 2.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.9,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.2,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.82,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:44:53.414Z"
+  },
+  {
+    "match_id": "Ligue_1_McDonalds|2026-08-23T18:45:00.000Z|Rennes|Paris_SG",
+    "url": "https://www.unibet.fr/paris-football/france/ligue-1-mcdonalds/3373112/rennes-vs-paris-sg",
+    "league": "Ligue 1 McDonalds",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-08-23T18:45:00.000Z",
+    "home": "Rennes",
+    "away": "Paris SG",
+    "odds": {
+      "1x2": {
+        "1": 5.8,
+        "2": 1.5,
+        "X": 4.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2.15
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 2.05,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3.2,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 5.3,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.1,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.35,
+            "hx": 3.8,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.53,
+            "hx": 4.35,
+            "h2": 3.75
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.19,
+            "hx": 5.9,
+            "h2": 7.1
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.05,
+            "hx": 8.3,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4.25,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:45:42.028Z"
+  },
+  {
+    "match_id": "Premier_League|2026-08-23T13:00:00.000Z|Brighton_Hove|Aston_Villa",
+    "url": "https://www.unibet.fr/paris-football/angleterre/premier-league/3357646/brighton-hove-vs-aston-villa",
+    "league": "Premier League",
+    "kickoff_raw": "À 13h00",
+    "kickoff_utc": "2026-08-23T13:00:00.000Z",
+    "home": "Brighton Hove",
+    "away": "Aston Villa",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 3.1,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 2.05
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.65,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8,
+            "hx": 5.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.8,
+            "hx": 3.9,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.31,
+            "hx": 4.5,
+            "h2": 6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.8,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:46:22.126Z"
+  },
+  {
+    "match_id": "Premier_League|2026-08-23T13:00:00.000Z|Man._City|Bournemouth",
+    "url": "https://www.unibet.fr/paris-football/angleterre/premier-league/3357650/man-city-vs-bournemouth",
+    "league": "Premier League",
+    "kickoff_raw": "À 13h00",
+    "kickoff_utc": "2026-08-23T13:00:00.000Z",
+    "home": "Man. City",
+    "away": "Bournemouth",
+    "odds": {
+      "1x2": {
+        "1": 1.43,
+        "2": 6,
+        "X": 5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.52,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.11,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.38,
+          "under": 2.55
+        },
+        "3.5": {
+          "over": 1.98,
+          "under": 1.65
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 11,
+            "hx": 7.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.2,
+            "hx": 5.6,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.35,
+            "hx": 4.2,
+            "h2": 1.63
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.98,
+            "hx": 3.8,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.4,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:46:56.127Z"
+  },
+  {
+    "match_id": "Premier_League|2026-08-23T15:30:00.000Z|Newcastle|Liverpool",
+    "url": "https://www.unibet.fr/paris-football/angleterre/premier-league/3357653/newcastle-vs-liverpool",
+    "league": "Premier League",
+    "kickoff_raw": "À 15h30",
+    "kickoff_utc": "2026-08-23T15:30:00.000Z",
+    "home": "Newcastle",
+    "away": "Liverpool",
+    "odds": {
+      "1x2": {
+        "1": 3.6,
+        "2": 1.87,
+        "X": 3.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.35
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2.1,
+          "under": 1.57
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5.75,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 14,
+            "hx": 7.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.8,
+            "hx": 5.1,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.81,
+            "hx": 3.95,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.3,
+            "hx": 5,
+            "h2": 5.5
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.09,
+            "hx": 7.2,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:47:27.102Z"
+  },
+  {
+    "match_id": "LaLiga|2026-08-23T15:00:00.000Z|Atl._Madrid|Villarreal",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga/3360676/atl-madrid-vs-villarreal",
+    "league": "LaLiga",
+    "kickoff_raw": "À 15h00",
+    "kickoff_utc": "2026-08-23T15:00:00.000Z",
+    "home": "Atl. Madrid",
+    "away": "Villarreal",
+    "odds": {
+      "1x2": {
+        "1": 1.8,
+        "2": 4.1,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.62,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.6
+        },
+        "2.5": {
+          "over": 1.68,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.37
+        },
+        "4.5": {
+          "over": 4.4,
+          "under": 1.13
+        },
+        "5.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 7.1,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.8,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.9,
+            "hx": 3.65,
+            "h2": 1.88
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.19,
+            "hx": 5.2,
+            "h2": 8.4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.7,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:49:06.829Z"
+  },
+  {
+    "match_id": "LaLiga|2026-08-23T17:30:00.000Z|Getafe|Santander",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga/3360700/getafe-vs-santander",
+    "league": "LaLiga",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2026-08-23T17:30:00.000Z",
+    "home": "Getafe",
+    "away": "Santander",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 3.6,
+        "X": 2.95
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 5.3
+        },
+        "1.5": {
+          "over": 1.45,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 4.25,
+          "under": 1.14
+        },
+        "4.5": {
+          "over": 7.5,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.8,
+            "hx": 5.5,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.25,
+            "hx": 3.55,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.5,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:49:32.305Z"
+  },
+  {
+    "match_id": "LaLiga|2026-08-23T19:30:00.000Z|Elche|FC_Barcelone",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga/3360697/elche-vs-fc-barcelone",
+    "league": "LaLiga",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2026-08-23T19:30:00.000Z",
+    "home": "Elche",
+    "away": "FC Barcelone",
+    "odds": {
+      "1x2": {
+        "1": 8.75,
+        "2": 1.31,
+        "X": 5.85
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.11,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.5
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.62
+        },
+        "4.5": {
+          "over": 3.2,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 5.3,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 15,
+            "hx": 7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 3.15,
+            "hx": 3.8,
+            "h2": 1.76
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.82,
+            "hx": 4,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.31,
+            "hx": 5.1,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.1,
+            "hx": 7.2,
+            "h2": 9.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.85,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:50:00.915Z"
+  },
+  {
+    "match_id": "Championship|2026-08-23T11:00:00.000Z|West_Bromwich|Burnley",
+    "url": "https://www.unibet.fr/paris-football/angleterre/championship/3369727/west-bromwich-vs-burnley",
+    "league": "Championship",
+    "kickoff_raw": "À 11h00",
+    "kickoff_utc": "2026-08-23T11:00:00.000Z",
+    "home": "West Bromwich",
+    "away": "Burnley",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.7,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.9,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.75,
+            "hx": 3.9,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.39,
+            "hx": 4.05,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.1,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:52:32.514Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-08-23T15:00:00.000Z|Eibar|Valladolid",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3360614/eibar-vs-valladolid",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 15h00",
+    "kickoff_utc": "2026-08-23T15:00:00.000Z",
+    "home": "Eibar",
+    "away": "Valladolid",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 3.35,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.82,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2.05,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.8,
+            "hx": 5.4,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.05,
+            "hx": 3.7,
+            "h2": 1.56
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.24,
+            "hx": 4.5,
+            "h2": 7.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:56:45.344Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-08-23T17:00:00.000Z|Gijon|Burgos_CF",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3360628/gijon-vs-burgos-cf",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-08-23T17:00:00.000Z",
+    "home": "Gijon",
+    "away": "Burgos CF",
+    "odds": {
+      "1x2": {
+        "1": 2.15,
+        "2": 3.4,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.35,
+          "under": 1.42
+        },
+        "3.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 5.5,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.4,
+            "hx": 3.55,
+            "h2": 1.54
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.3,
+            "h2": 7.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.05,
+            "h2": 6
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:57:08.188Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-08-23T17:00:00.000Z|Castellon|Sabadell",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3360613/castellon-vs-sabadell",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-08-23T17:00:00.000Z",
+    "home": "Castellon",
+    "away": "Sabadell",
+    "odds": {
+      "1x2": {
+        "1": 1.54,
+        "2": 5.1,
+        "X": 3.95
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.85
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.36
+        },
+        "4.5": {
+          "over": 4.25,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.8,
+            "hx": 6.2,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.45,
+            "hx": 4.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.4,
+            "hx": 3.55,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.6,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:57:34.409Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-08-23T19:30:00.000Z|Tenerife|Almeria",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3360610/tenerife-vs-almeria",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2026-08-23T19:30:00.000Z",
+    "home": "Tenerife",
+    "away": "Almeria",
+    "odds": {
+      "1x2": {
+        "1": 2.8,
+        "2": 2.35,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.85
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.85
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5.25,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12,
+            "hx": 6.3,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.5,
+            "hx": 4.15,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.45,
+            "hx": 3.95,
+            "h2": 4.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.8,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:58:00.805Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T11:00:00.000Z|Greuther_Furth|Bochum",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358862/greuther-furth-vs-bochum",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 11h00",
+    "kickoff_utc": "2026-08-23T11:00:00.000Z",
+    "home": "Greuther Furth",
+    "away": "Bochum",
+    "odds": {
+      "1x2": {
+        "1": 2.7,
+        "2": 2.45,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2.15
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 6.2,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.9,
+            "hx": 4.3,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.45,
+            "hx": 4.15,
+            "h2": 4.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.9,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:58:24.349Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T11:00:00.000Z|SSV_Jeddeloh|FC_Heidenheim",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3357939/ssv-jeddeloh-vs-fc-heidenheim",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 11h00",
+    "kickoff_utc": "2026-08-23T11:00:00.000Z",
+    "home": "SSV Jeddeloh",
+    "away": "FC Heidenheim",
+    "odds": {
+      "1x2": {
+        "1": 17,
+        "2": 1.08,
+        "X": 10
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.9
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "2.5": {
+          "over": 1.12,
+          "under": 4.25
+        },
+        "3.5": {
+          "over": 1.36,
+          "under": 2.5
+        },
+        "4.5": {
+          "over": 1.82,
+          "under": 1.72
+        },
+        "5.5": {
+          "over": 2.6,
+          "under": 1.35
+        },
+        "6.5": {
+          "over": 3.85,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 6.3,
+            "hx": 5.3,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 3.25,
+            "hx": 4.45,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 2,
+            "hx": 4.4,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.46,
+            "hx": 5.1,
+            "h2": 3.6
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.19,
+            "hx": 6.6,
+            "h2": 6
+          }
+        },
+        {
+          "line": 6,
+          "odds": {
+            "h1": 1.07,
+            "hx": 8.5,
+            "h2": 9.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 4.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:58:32.696Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T13:30:00.000Z|Schott_Mainz|M'Gladbach",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358891/schott-mainz-vs-m-gladbach",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2026-08-23T13:30:00.000Z",
+    "home": "Schott Mainz",
+    "away": "M'Gladbach",
+    "odds": {
+      "1x2": {
+        "1": 47,
+        "2": 1.01,
+        "X": 15
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": null,
+      "ou": {
+        "1.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "2.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "3.5": {
+          "over": 1.2,
+          "under": 3.4
+        },
+        "4.5": {
+          "over": 1.48,
+          "under": 2.2
+        },
+        "5.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "6.5": {
+          "over": 2.75,
+          "under": 1.3
+        },
+        "7.5": {
+          "over": 4.25,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 2,
+          "odds": {
+            "h1": 7.1,
+            "hx": 6,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 3.8,
+            "hx": 4.95,
+            "h2": 1.43
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 2.35,
+            "hx": 4.7,
+            "h2": 1.92
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.65,
+            "hx": 5.1,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 6,
+          "odds": {
+            "h1": 1.31,
+            "hx": 6.1,
+            "h2": 4.35
+          }
+        },
+        {
+          "line": 7,
+          "odds": {
+            "h1": 1.13,
+            "hx": 7.8,
+            "h2": 6.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 4.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 5.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:58:40.156Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T13:30:00.000Z|VfB_1921_Krieschow|Mayence",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3356204/vfb-1921-krieschow-vs-mayence",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2026-08-23T13:30:00.000Z",
+    "home": "VfB 1921 Krieschow",
+    "away": "Mayence",
+    "odds": {
+      "1x2": {
+        "1": 25,
+        "2": 1.01,
+        "X": 25
+      },
+      "double_chance": null,
+      "btts": {
+        "yes": 4.5,
+        "no": 1.1
+      },
+      "ou": {
+        "2.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "3.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "4.5": {
+          "over": 1.12,
+          "under": 4.25
+        },
+        "5.5": {
+          "over": 1.3,
+          "under": 2.75
+        },
+        "6.5": {
+          "over": 1.62,
+          "under": 1.95
+        },
+        "7.5": {
+          "over": 2.1,
+          "under": 1.52
+        },
+        "8.5": {
+          "over": 2.85,
+          "under": 1.28
+        },
+        "9.5": {
+          "over": 3.85,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 3,
+          "odds": {
+            "h1": 11,
+            "hx": 8.3,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 6.4,
+            "hx": 6.8,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 3.8,
+            "hx": 5.8,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 6,
+          "odds": {
+            "h1": 2.5,
+            "hx": 5.4,
+            "h2": 1.74
+          }
+        },
+        {
+          "line": 7,
+          "odds": {
+            "h1": 1.8,
+            "hx": 5.6,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 8,
+          "odds": {
+            "h1": 1.43,
+            "hx": 6.3,
+            "h2": 3.35
+          }
+        },
+        {
+          "line": 9,
+          "odds": {
+            "h1": 1.21,
+            "hx": 7.6,
+            "h2": 4.9
+          }
+        },
+        {
+          "line": 10,
+          "odds": {
+            "h1": 1.1,
+            "hx": 9.3,
+            "h2": 7.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 5.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 6.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 7.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 8.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:58:48.543Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T13:30:00.000Z|Braunschweig|Union_Berlin",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358861/braunschweig-vs-union-berlin",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2026-08-23T13:30:00.000Z",
+    "home": "Braunschweig",
+    "away": "Union Berlin",
+    "odds": {
+      "1x2": {
+        "1": 3.6,
+        "2": 1.9,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.85
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13.5,
+            "hx": 7.1,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.95,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.74,
+            "hx": 3.9,
+            "h2": 3.05
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.27,
+            "hx": 5,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.1,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:58:56.850Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T13:30:00.000Z|FC_Carl_Z.Jena|SV_Darmstadt",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358868/fc-carl-z-jena-vs-sv-darmstadt",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2026-08-23T13:30:00.000Z",
+    "home": "FC Carl Z.Jena",
+    "away": "SV Darmstadt",
+    "odds": {
+      "1x2": {
+        "1": 5.2,
+        "2": 1.51,
+        "X": 4.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.52,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4.25
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2.05,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.25,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 10,
+            "hx": 5.9,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.3,
+            "hx": 3.75,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.5,
+            "hx": 4.3,
+            "h2": 3.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.18,
+            "hx": 5.9,
+            "h2": 7.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:59:04.708Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T13:30:00.000Z|Bahlinger_SC|FC_Magdeburg",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358870/bahlinger-sc-vs-fc-magdeburg",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2026-08-23T13:30:00.000Z",
+    "home": "Bahlinger SC",
+    "away": "FC Magdeburg",
+    "odds": {
+      "1x2": {
+        "1": 30,
+        "2": 1.04,
+        "X": 12
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": null,
+      "ou": {
+        "1.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "2.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "3.5": {
+          "over": 1.52,
+          "under": 2.1
+        },
+        "4.5": {
+          "over": 2.15,
+          "under": 1.5
+        },
+        "5.5": {
+          "over": 3.25,
+          "under": 1.22
+        },
+        "6.5": {
+          "over": 5,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 9.2,
+            "hx": 5.4,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 4.05,
+            "hx": 4.3,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 2.25,
+            "hx": 4.15,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.55,
+            "hx": 4.75,
+            "h2": 3.3
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.23,
+            "hx": 6.1,
+            "h2": 5.5
+          }
+        },
+        {
+          "line": 6,
+          "odds": {
+            "h1": 1.08,
+            "hx": 8.1,
+            "h2": 9.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 4.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:59:12.159Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T13:30:00.000Z|W.Rhynern|Dynamo_Dresden",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358877/w-rhynern-vs-dynamo-dresden",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 13h30",
+    "kickoff_utc": "2026-08-23T13:30:00.000Z",
+    "home": "W.Rhynern",
+    "away": "Dynamo Dresden",
+    "odds": {
+      "1x2": {
+        "1": 19,
+        "2": 1.07,
+        "X": 11
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "2.5": {
+          "over": 1.15,
+          "under": 3.85
+        },
+        "3.5": {
+          "over": 1.42,
+          "under": 2.35
+        },
+        "4.5": {
+          "over": 1.95,
+          "under": 1.62
+        },
+        "5.5": {
+          "over": 2.85,
+          "under": 1.28
+        },
+        "6.5": {
+          "over": 4.25,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 6.7,
+            "hx": 5.2,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 3.35,
+            "hx": 4.3,
+            "h2": 1.59
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 2,
+            "hx": 4.3,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.45,
+            "hx": 5.1,
+            "h2": 3.7
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.18,
+            "hx": 6.6,
+            "h2": 6.2
+          }
+        },
+        {
+          "line": 6,
+          "odds": {
+            "h1": 1.06,
+            "hx": 8.5,
+            "h2": 9.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 4.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:59:20.512Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T16:00:00.000Z|Rot-W._Essen|St_Pauli",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3357248/rot-w-essen-vs-st-pauli",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2026-08-23T16:00:00.000Z",
+    "home": "Rot-W. Essen",
+    "away": "St Pauli",
+    "odds": {
+      "1x2": {
+        "1": 3.2,
+        "2": 2.05,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.85
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.2
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.5,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.8,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.64,
+            "hx": 3.95,
+            "h2": 3.35
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.22,
+            "hx": 5.3,
+            "h2": 6.6
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.4,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:59:28.914Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T16:00:00.000Z|Düsseldorf|Fribourg",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358867/dusseldorf-vs-fribourg",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2026-08-23T16:00:00.000Z",
+    "home": "Düsseldorf",
+    "away": "Fribourg",
+    "odds": {
+      "1x2": {
+        "1": 6.6,
+        "2": 1.37,
+        "X": 5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.4,
+          "under": 2.4
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.4,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.7,
+            "hx": 3.75,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.68,
+            "hx": 4.1,
+            "h2": 3.15
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.25,
+            "hx": 5.4,
+            "h2": 5.7
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T05:59:37.121Z"
+  },
+  {
+    "match_id": "Cpe_Allemagne|2026-08-23T16:00:00.000Z|Phonix_Lubeck|Paderborn",
+    "url": "https://www.unibet.fr/paris-football/allemagne/cpe-allemagne/3358869/phonix-lubeck-vs-paderborn",
+    "league": "Cpe Allemagne",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2026-08-23T16:00:00.000Z",
+    "home": "Phonix Lubeck",
+    "away": "Paderborn",
+    "odds": {
+      "1x2": {
+        "1": 9.5,
+        "2": 1.14,
+        "X": 7.8
+      },
+      "double_chance": null,
+      "btts": null,
+      "ou": {},
+      "european_handicap": [],
+      "asian_handicap": []
+    },
+    "scraped_at": "2026-08-23T05:59:42.503Z"
+  },
+  {
+    "match_id": "Serie_A|2026-08-23T16:30:00.000Z|Frosinone|Juventus_Turin",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-a/3356916/frosinone-vs-juventus-turin",
+    "league": "Serie A",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2026-08-23T16:30:00.000Z",
+    "home": "Frosinone",
+    "away": "Juventus Turin",
+    "odds": {
+      "1x2": {
+        "1": 7.8,
+        "2": 1.37,
+        "X": 4.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 4.1,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 17,
+            "hx": 6.7,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2.8,
+            "hx": 3.6,
+            "h2": 1.94
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.67,
+            "hx": 4,
+            "h2": 3.35
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.23,
+            "hx": 5.4,
+            "h2": 6.4
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.07,
+            "hx": 7.8,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:04:33.192Z"
+  },
+  {
+    "match_id": "Serie_A|2026-08-23T16:30:00.000Z|Venezia_FC|Lecce",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-a/3356909/venezia-fc-vs-lecce",
+    "league": "Serie A",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2026-08-23T16:30:00.000Z",
+    "home": "Venezia FC",
+    "away": "Lecce",
+    "odds": {
+      "1x2": {
+        "1": 1.95,
+        "2": 4,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.07,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.65
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.57
+        },
+        "3.5": {
+          "over": 3.6,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 6.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.6,
+            "hx": 5.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.5,
+            "hx": 3.55,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 4.85,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 6,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.85,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:05:05.661Z"
+  },
+  {
+    "match_id": "Serie_B|2026-08-23T17:00:00.000Z|Hellas_Vérone|Ascoli",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-b/3366479/hellas-verone-vs-ascoli",
+    "league": "Serie B",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-08-23T17:00:00.000Z",
+    "home": "Hellas Vérone",
+    "away": "Ascoli",
+    "odds": {
+      "1x2": {
+        "1": 1.57,
+        "2": 5,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.72
+        },
+        "3.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.6,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.1,
+            "hx": 4.45,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.45,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.6,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:05:28.493Z"
+  },
+  {
+    "match_id": "Serie_B|2026-08-23T17:00:00.000Z|AC_Pisa_1909|Padoue",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-b/3366480/ac-pisa-1909-vs-padoue",
+    "league": "Serie B",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-08-23T17:00:00.000Z",
+    "home": "AC Pisa 1909",
+    "away": "Padoue",
+    "odds": {
+      "1x2": {
+        "1": 1.69,
+        "2": 4.6,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.8,
+        "no": 1.65
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.3,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 1.95,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 13,
+            "hx": 7.1,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.1,
+            "hx": 4.65,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.95,
+            "hx": 3.45,
+            "h2": 1.92
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.15,
+            "hx": 5.3,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.75,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:05:53.600Z"
+  },
+  {
+    "match_id": "Serie_A|2026-08-23T18:45:00.000Z|Torino|Milan_AC",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-a/3356912/torino-vs-milan-ac",
+    "league": "Serie A",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-08-23T18:45:00.000Z",
+    "home": "Torino",
+    "away": "Milan AC",
+    "odds": {
+      "1x2": {
+        "1": 4.6,
+        "2": 1.73,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.82,
+        "no": 1.72
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.9,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3.2,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 10.5,
+            "hx": 5.2,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.97,
+            "hx": 3.45,
+            "h2": 2.85
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.32,
+            "hx": 4.6,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.9,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.85,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:06:27.236Z"
+  },
+  {
+    "match_id": "Serie_A|2026-08-23T18:45:00.000Z|Atalanta|Sassuolo",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-a/3356911/atalanta-vs-sassuolo",
+    "league": "Serie A",
+    "kickoff_raw": "À 18h45",
+    "kickoff_utc": "2026-08-23T18:45:00.000Z",
+    "home": "Atalanta",
+    "away": "Sassuolo",
+    "odds": {
+      "1x2": {
+        "1": 1.48,
+        "2": 5.8,
+        "X": 4.3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.72,
+        "no": 1.82
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8.5
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.75
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 4.25,
+          "under": 1.14
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 7.9,
+            "hx": 5.9,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4,
+            "hx": 4.2,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.2,
+            "hx": 3.55,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.1,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:07:00.412Z"
+  },
+  {
+    "match_id": "Serie_B|2026-08-23T19:00:00.000Z|Palerme|SS_Juve_Stabia",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-b/3366482/palerme-vs-ss-juve-stabia",
+    "league": "Serie B",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-08-23T19:00:00.000Z",
+    "home": "Palerme",
+    "away": "SS Juve Stabia",
+    "odds": {
+      "1x2": {
+        "1": 1.52,
+        "2": 5.4,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.9,
+            "hx": 4.3,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.7,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.5,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:07:22.837Z"
+  },
+  {
+    "match_id": "Serie_B|2026-08-23T19:00:00.000Z|Cesena|Sampdoria",
+    "url": "https://www.unibet.fr/paris-football/italie/serie-b/3366481/cesena-vs-sampdoria",
+    "league": "Serie B",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-08-23T19:00:00.000Z",
+    "home": "Cesena",
+    "away": "Sampdoria",
+    "odds": {
+      "1x2": {
+        "1": 2.35,
+        "2": 2.7,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.75,
+            "hx": 4,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.38,
+            "hx": 4.2,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.4,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:07:43.890Z"
+  },
+  {
+    "match_id": "D1_Belgique|2026-08-23T14:00:00.000Z|Lommel_United|Westerlo",
+    "url": "https://www.unibet.fr/paris-football/belgique/d1-belgique/3364368/lommel-united-vs-westerlo",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 14h00",
+    "kickoff_utc": "2026-08-23T14:00:00.000Z",
+    "home": "Lommel United",
+    "away": "Westerlo",
+    "odds": {
+      "1x2": {
+        "1": 2.75,
+        "2": 2.25,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.48,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "2.5": {
+          "over": 1.6,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.3,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5,
+            "hx": 4.35,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.49,
+            "hx": 4.05,
+            "h2": 4.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.16,
+            "hx": 5.7,
+            "h2": 8.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:08:45.203Z"
+  },
+  {
+    "match_id": "D1_Belgique|2026-08-23T16:30:00.000Z|Club_Bruges|Cercle_Bruges",
+    "url": "https://www.unibet.fr/paris-football/belgique/d1-belgique/3364370/club-bruges-vs-cercle-bruges",
+    "league": "D1 Belgique",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2026-08-23T16:30:00.000Z",
+    "home": "Club Bruges",
+    "away": "Cercle Bruges",
+    "odds": {
+      "1x2": {
+        "1": 1.24,
+        "2": 8,
+        "X": 5.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2.15
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "2.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "3.5": {
+          "over": 1.65,
+          "under": 1.9
+        },
+        "4.5": {
+          "over": 2.4,
+          "under": 1.4
+        },
+        "5.5": {
+          "over": 3.85,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 7.3,
+            "hx": 6.6,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.15,
+            "hx": 4.9,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.45,
+            "hx": 4.1,
+            "h2": 1.97
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.63,
+            "hx": 4.15,
+            "h2": 3.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.1,
+            "h2": 14
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:09:09.698Z"
+  },
+  {
+    "match_id": "D1_Japon|2026-08-23T10:30:00.000Z|FC_Machida|Urawa_Reds",
+    "url": "https://www.unibet.fr/paris-football/japon/d1-japon/3370501/fc-machida-vs-urawa-reds",
+    "league": "D1 Japon",
+    "kickoff_raw": "À 10h30",
+    "kickoff_utc": "2026-08-23T10:30:00.000Z",
+    "home": "FC Machida",
+    "away": "Urawa Reds",
+    "odds": {
+      "1x2": {
+        "1": 1.84,
+        "2": 4,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.85,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.7
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.6
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.22
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 14,
+            "hx": 7.2,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7,
+            "hx": 4.85,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.3,
+            "hx": 3.45,
+            "h2": 1.76
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.19,
+            "hx": 4.8,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.78,
+            "h2": 1.72
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:10:26.305Z"
+  },
+  {
+    "match_id": "D1_Mexique|2026-08-23T23:00:00.000Z|Atl._San_Luis|CF_Pachuca",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3367621/atl-san-luis-vs-cf-pachuca",
+    "league": "D1 Mexique",
+    "kickoff_raw": "À 23h00",
+    "kickoff_utc": "2026-08-23T23:00:00.000Z",
+    "home": "Atl. San Luis",
+    "away": "CF Pachuca",
+    "odds": {
+      "1x2": {
+        "1": 3.1,
+        "2": 1.98,
+        "X": 3.3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 6.3,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6,
+            "hx": 4.35,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.59,
+            "hx": 3.7,
+            "h2": 3.6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.18,
+            "hx": 5.1,
+            "h2": 7.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.4,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:11:31.287Z"
+  },
+  {
+    "match_id": "D1_Mexique|2026-08-24T01:00:00.000Z|UNAM_Pumas|Club_Necaxa",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3367622/unam-pumas-vs-club-necaxa",
+    "league": "D1 Mexique",
+    "kickoff_raw": "Demain à 01h00",
+    "kickoff_utc": "2026-08-24T01:00:00.000Z",
+    "home": "UNAM Pumas",
+    "away": "Club Necaxa",
+    "odds": {
+      "1x2": {
+        "1": 1.84,
+        "2": 3.45,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.9
+        },
+        "3.5": {
+          "over": 2.5,
+          "under": 1.35
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.2,
+            "hx": 4.85,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.15,
+            "hx": 3.65,
+            "h2": 1.69
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.65,
+            "h2": 6.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.75,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.65
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:11:57.394Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2026-08-23T10:15:00.000Z|GOAhead_Eagles|ADO_Den_Haag",
+    "url": "https://www.unibet.fr/paris-football/pays-bas/d1-pays-bas/3364363/goahead-eagles-vs-ado-den-haag",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 10h15",
+    "kickoff_utc": "2026-08-23T10:15:00.000Z",
+    "home": "GOAhead Eagles",
+    "away": "ADO Den Haag",
+    "odds": {
+      "1x2": {
+        "1": 1.64,
+        "2": 4.25,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4.25
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.35
+        },
+        "3.5": {
+          "over": 2.05,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.25,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.6,
+            "hx": 6.5,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.55,
+            "hx": 4.65,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.85,
+            "h2": 1.99
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.5,
+            "h2": 8.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:13:13.744Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2026-08-23T12:30:00.000Z|PSV_Eindhoven|Groningen",
+    "url": "https://www.unibet.fr/paris-football/pays-bas/d1-pays-bas/3364362/psv-eindhoven-vs-groningen",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 12h30",
+    "kickoff_utc": "2026-08-23T12:30:00.000Z",
+    "home": "PSV Eindhoven",
+    "away": "Groningen",
+    "odds": {
+      "1x2": {
+        "1": 1.26,
+        "2": 7.5,
+        "X": 5.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.3
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "2.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "3.5": {
+          "over": 1.6,
+          "under": 2
+        },
+        "4.5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "5.5": {
+          "over": 3.5,
+          "under": 1.18
+        },
+        "6.5": {
+          "over": 5.25,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 7.3,
+            "hx": 6.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.15,
+            "hx": 5,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.5,
+            "hx": 4.15,
+            "h2": 1.94
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.65,
+            "hx": 4.15,
+            "h2": 3.2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7.1,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:13:43.830Z"
+  },
+  {
+    "match_id": "D1_Pays-Bas|2026-08-23T14:45:00.000Z|SC_Cambuur|Feyenoord",
+    "url": "https://www.unibet.fr/paris-football/pays-bas/d1-pays-bas/3364364/sc-cambuur-vs-feyenoord",
+    "league": "D1 Pays-Bas",
+    "kickoff_raw": "À 14h45",
+    "kickoff_utc": "2026-08-23T14:45:00.000Z",
+    "home": "SC Cambuur",
+    "away": "Feyenoord",
+    "odds": {
+      "1x2": {
+        "1": 8.6,
+        "2": 1.23,
+        "X": 5.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.35,
+          "under": 2.6
+        },
+        "3.5": {
+          "over": 1.85,
+          "under": 1.7
+        },
+        "4.5": {
+          "over": 2.85,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 3.95,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.95,
+            "hx": 3.95,
+            "h2": 2.55
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.85,
+            "h2": 4.4
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 1.13,
+            "hx": 6.7,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:14:18.344Z"
+  },
+  {
+    "match_id": "D2_Portugal|2026-08-23T10:00:00.000Z|Chaves|AVS_Futebol",
+    "url": "https://www.unibet.fr/paris-football/portugal/d2-portugal/3369668/chaves-vs-avs-futebol",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 10h00",
+    "kickoff_utc": "2026-08-23T10:00:00.000Z",
+    "home": "Chaves",
+    "away": "AVS Futebol",
+    "odds": {
+      "1x2": {
+        "1": 1.91,
+        "2": 3.7,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.75
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.08
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 15,
+            "hx": 7.9,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 5.2,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.45,
+            "hx": 3.7,
+            "h2": 1.73
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.95,
+            "h2": 8.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:14:47.319Z"
+  },
+  {
+    "match_id": "D2_Portugal|2026-08-23T13:00:00.000Z|Penafiel|Sporting_B",
+    "url": "https://www.unibet.fr/paris-football/portugal/d2-portugal/3370680/penafiel-vs-sporting-b",
+    "league": "D2 Portugal",
+    "kickoff_raw": "À 13h00",
+    "kickoff_utc": "2026-08-23T13:00:00.000Z",
+    "home": "Penafiel",
+    "away": "Sporting B",
+    "odds": {
+      "1x2": {
+        "1": 2.4,
+        "2": 2.7,
+        "X": 3.15
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.7,
+        "no": 1.7
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "2.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "3.5": {
+          "over": 3.25,
+          "under": 1.2
+        },
+        "4.5": {
+          "over": 5.5,
+          "under": 1.06
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.2,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5,
+            "hx": 3.95,
+            "h2": 1.46
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.39,
+            "hx": 4.1,
+            "h2": 5.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.09,
+            "hx": 6.6,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:14:55.522Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2026-08-23T14:30:00.000Z|Guimaraes|CD_Nacional",
+    "url": "https://www.unibet.fr/paris-football/portugal/liga-portugal/3372274/guimaraes-vs-cd-nacional",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 14h30",
+    "kickoff_utc": "2026-08-23T14:30:00.000Z",
+    "home": "Guimaraes",
+    "away": "CD Nacional",
+    "odds": {
+      "1x2": {
+        "1": 1.6,
+        "2": 5,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.78
+        },
+        "3.5": {
+          "over": 2.85,
+          "under": 1.28
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 6.5,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.2,
+            "hx": 4.45,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.65,
+            "hx": 3.45,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:15:34.324Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2026-08-23T17:00:00.000Z|Santa_Clara|Famalicao",
+    "url": "https://www.unibet.fr/paris-football/portugal/liga-portugal/3371606/santa-clara-vs-famalicao",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 17h00",
+    "kickoff_utc": "2026-08-23T17:00:00.000Z",
+    "home": "Santa Clara",
+    "away": "Famalicao",
+    "odds": {
+      "1x2": {
+        "1": 2.5,
+        "2": 2.8,
+        "X": 3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.95,
+        "no": 1.62
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.08,
+          "under": 5
+        },
+        "1.5": {
+          "over": 1.42,
+          "under": 2.35
+        },
+        "2.5": {
+          "over": 2.3,
+          "under": 1.45
+        },
+        "3.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "4.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 13,
+            "hx": 6.1,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.5,
+            "hx": 3.85,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 3.9,
+            "h2": 5.7
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.2,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:16:06.940Z"
+  },
+  {
+    "match_id": "Liga_Portugal|2026-08-23T19:30:00.000Z|FC_Porto|Arouca",
+    "url": "https://www.unibet.fr/paris-football/portugal/liga-portugal/3369914/fc-porto-vs-arouca",
+    "league": "Liga Portugal",
+    "kickoff_raw": "À 19h30",
+    "kickoff_utc": "2026-08-23T19:30:00.000Z",
+    "home": "FC Porto",
+    "away": "Arouca",
+    "odds": {
+      "1x2": {
+        "1": 1.18,
+        "2": 12,
+        "X": 6.3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.48
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.85
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.85,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 8.6,
+            "hx": 6.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.55,
+            "hx": 4.55,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.5,
+            "hx": 3.6,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.56,
+            "hx": 3.55,
+            "h2": 4.2
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:16:35.546Z"
+  },
+  {
+    "match_id": "D1_Turquie|2026-08-23T16:00:00.000Z|Trabzonspor|Basaksehir",
+    "url": "https://www.unibet.fr/paris-football/turquie/d1-turquie/3363770/trabzonspor-vs-basaksehir",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2026-08-23T16:00:00.000Z",
+    "home": "Trabzonspor",
+    "away": "Basaksehir",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 3.15,
+        "X": 3.45
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.52,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.5
+        },
+        "2.5": {
+          "over": 1.62,
+          "under": 1.95
+        },
+        "3.5": {
+          "over": 2.45,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 4.25,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 5.3,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.55,
+            "hx": 3.85,
+            "h2": 1.61
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.29,
+            "hx": 4.6,
+            "h2": 6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.7,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:17:32.709Z"
+  },
+  {
+    "match_id": "D1_Turquie|2026-08-23T16:00:00.000Z|Eyupspor|Gaziantep_Spor",
+    "url": "https://www.unibet.fr/paris-football/turquie/d1-turquie/3363771/eyupspor-vs-gaziantep-spor",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 16h00",
+    "kickoff_utc": "2026-08-23T16:00:00.000Z",
+    "home": "Eyupspor",
+    "away": "Gaziantep Spor",
+    "odds": {
+      "1x2": {
+        "1": 2.8,
+        "2": 2.35,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.78,
+          "under": 1.78
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 11.5,
+            "hx": 6.3,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.3,
+            "hx": 4.2,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.46,
+            "hx": 4,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.8,
+            "h2": 9.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:18:02.122Z"
+  },
+  {
+    "match_id": "D1_Turquie|2026-08-23T18:30:00.000Z|Göztepe_AS|Genclerbirligi",
+    "url": "https://www.unibet.fr/paris-football/turquie/d1-turquie/3363758/goztepe-as-vs-genclerbirligi",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2026-08-23T18:30:00.000Z",
+    "home": "Göztepe AS",
+    "away": "Genclerbirligi",
+    "odds": {
+      "1x2": {
+        "1": 1.59,
+        "2": 4.85,
+        "X": 3.75
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.78,
+        "no": 1.78
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.75,
+          "under": 1.09
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.4,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5,
+            "hx": 4.4,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.6,
+            "hx": 3.45,
+            "h2": 2.1
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.14,
+            "hx": 5.4,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.45,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:18:32.399Z"
+  },
+  {
+    "match_id": "D1_Turquie|2026-08-23T18:30:00.000Z|Alanyaspor|Besiktas",
+    "url": "https://www.unibet.fr/paris-football/turquie/d1-turquie/3363757/alanyaspor-vs-besiktas",
+    "league": "D1 Turquie",
+    "kickoff_raw": "À 18h30",
+    "kickoff_utc": "2026-08-23T18:30:00.000Z",
+    "home": "Alanyaspor",
+    "away": "Besiktas",
+    "odds": {
+      "1x2": {
+        "1": 3.75,
+        "2": 1.81,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.22,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.75,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.75,
+          "under": 1.3
+        },
+        "4.5": {
+          "over": 4.5,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7.8,
+            "hx": 4.85,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.79,
+            "hx": 3.6,
+            "h2": 3.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.26,
+            "hx": 4.85,
+            "h2": 6.3
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.07,
+            "hx": 7.1,
+            "h2": 12.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.25,
+            "h2": 3
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-08-23T06:19:09.796Z"
+  }
+]
