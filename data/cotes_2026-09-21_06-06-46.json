@@ -1,0 +1,322 @@
+[
+  {
+    "match_id": "D1_Argentine|2026-09-21T17:30:00.000Z|CA_Aldosivi|Tucuman",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367873/ca-aldosivi-vs-tucuman",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 17h30",
+    "kickoff_utc": "2026-09-21T17:30:00.000Z",
+    "home": "CA Aldosivi",
+    "away": "Tucuman",
+    "odds": {
+      "1x2": {
+        "1": 3,
+        "2": 2.3,
+        "X": 2.8
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "2.5": {
+          "over": 2.45,
+          "under": 1.36
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 15,
+            "hx": 6.1,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.7,
+            "hx": 3.9,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.44,
+            "hx": 3.5,
+            "h2": 4.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 5.5,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-21T05:39:26.068Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-09-21T22:00:00.000Z|Barracas_Cent.|Ind._Rivadavia",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367872/barracas-cent-vs-ind-rivadavia",
+    "league": "D1 Argentine",
+    "kickoff_raw": "À 22h00",
+    "kickoff_utc": "2026-09-21T22:00:00.000Z",
+    "home": "Barracas Cent.",
+    "away": "Ind. Rivadavia",
+    "odds": {
+      "1x2": {
+        "1": 3.1,
+        "2": 2.2,
+        "X": 2.85
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "2.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 7,
+            "hx": 3.95,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.48,
+            "hx": 3.45,
+            "h2": 4.65
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 5.3,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.65,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 3.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-21T05:40:02.845Z"
+  },
+  {
+    "match_id": "D1_Argentine|2026-09-22T00:15:00.000Z|CA_Lanus|Estudiantes_LP",
+    "url": "https://www.unibet.fr/paris-football/argentine/d1-argentine/3367866/ca-lanus-vs-estudiantes-lp",
+    "league": "D1 Argentine",
+    "kickoff_raw": "Demain à 00h15",
+    "kickoff_utc": "2026-09-22T00:15:00.000Z",
+    "home": "CA Lanus",
+    "away": "Estudiantes LP",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 3.45,
+        "X": 2.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2,
+        "no": 1.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "1.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "2.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "3.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "4.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9.6,
+            "hx": 5.1,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.15,
+            "hx": 3.35,
+            "h2": 1.56
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.15,
+            "h2": 8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.5,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 2.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.03,
+            "h2": 4.9
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-21T05:40:37.583Z"
+  }
+]
