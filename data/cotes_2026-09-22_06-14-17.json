@@ -1,0 +1,594 @@
+[
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-22T16:45:00.000Z|Bay.Munich_F|Man.City_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3378906/bay-munich-f-vs-man-city-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2026-09-22T16:45:00.000Z",
+    "home": "Bay.Munich F",
+    "away": "Man.City F",
+    "odds": {
+      "1x2": {
+        "1": 1.95,
+        "2": 2.9,
+        "X": 4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.3,
+        "no": 2.55
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.08,
+          "under": 4.75
+        },
+        "2.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "3.5": {
+          "over": 1.8,
+          "under": 1.7
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.3,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12,
+            "hx": 7.8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.5,
+            "hx": 5.6,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.4,
+            "hx": 4.25,
+            "h2": 1.61
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.75,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.7,
+            "h2": 9.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-22T06:01:02.601Z"
+  },
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-22T16:45:00.000Z|Inter_Milan_F|Hacken_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3381498/inter-milan-f-vs-hacken-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2026-09-22T16:45:00.000Z",
+    "home": "Inter Milan F",
+    "away": "Hacken F",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 2.8,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.65,
+          "under": 1.85
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4,
+          "under": 1.12
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.8,
+            "hx": 5.5,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.75,
+            "hx": 3.85,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.32,
+            "hx": 4.5,
+            "h2": 6
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 6.8,
+            "h2": 13
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.08,
+            "h2": 4.75
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-22T06:01:20.309Z"
+  },
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-22T19:00:00.000Z|Real_Madrid_F|Paris_SG_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3378907/real-madrid-f-vs-paris-sg-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-09-22T19:00:00.000Z",
+    "home": "Real Madrid F",
+    "away": "Paris SG F",
+    "odds": {
+      "1x2": {
+        "1": 1.64,
+        "2": 3.95,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.5,
+        "no": 2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 7,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.4,
+            "hx": 4.8,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.8,
+            "hx": 3.75,
+            "h2": 1.89
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.2,
+            "hx": 5.2,
+            "h2": 7.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.6,
+            "h2": 1.32
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.65,
+            "h2": 1.85
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-22T06:01:30.087Z"
+  },
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-22T19:00:00.000Z|Juventus_F|Benfica_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3378921/juventus-f-vs-benfica-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-09-22T19:00:00.000Z",
+    "home": "Juventus F",
+    "away": "Benfica F",
+    "odds": {
+      "1x2": {
+        "1": 1.56,
+        "2": 4,
+        "X": 3.55
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10,
+            "hx": 6.8,
+            "h2": 1.11
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.1,
+            "hx": 4.65,
+            "h2": 1.36
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.65,
+            "hx": 3.7,
+            "h2": 1.99
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.4,
+            "h2": 8.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.3,
+            "h2": 1.1
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.5,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-22T06:01:44.107Z"
+  },
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-22T19:00:00.000Z|Arsenal_F|HB_Koge_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3381499/arsenal-f-vs-hb-koge-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-09-22T19:00:00.000Z",
+    "home": "Arsenal F",
+    "away": "HB Koge F",
+    "odds": {
+      "1x2": {
+        "1": 1.04,
+        "2": 17,
+        "X": 6.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 2.2,
+        "no": 1.42
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "2.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "3.5": {
+          "over": 1.65,
+          "under": 1.85
+        },
+        "4.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "5.5": {
+          "over": 3.7,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -5,
+          "odds": {
+            "h1": 7.2,
+            "hx": 6.9,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 4.15,
+            "hx": 5.1,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 2.5,
+            "hx": 4.15,
+            "h2": 1.97
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 1.64,
+            "hx": 4.1,
+            "h2": 3.35
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 4.95,
+            "h2": 7.3
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -4.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 2.35,
+            "h2": 1.4
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 1.62,
+            "h2": 1.9
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-22T06:01:54.101Z"
+  }
+]
