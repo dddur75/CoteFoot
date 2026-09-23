@@ -1,0 +1,614 @@
+[
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-23T16:45:00.000Z|Leuven_F|AS_Rome_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3378909/leuven-f-vs-as-rome-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2026-09-23T16:45:00.000Z",
+    "home": "Leuven F",
+    "away": "AS Rome F",
+    "odds": {
+      "1x2": {
+        "1": 4.3,
+        "2": 1.55,
+        "X": 4.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.35,
+          "under": 1.4
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -1,
+          "odds": {
+            "h1": 8.7,
+            "hx": 5.3,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 2,
+            "hx": 3.65,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.36,
+            "hx": 4.6,
+            "h2": 5
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.7,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-23T05:59:35.471Z"
+  },
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-23T16:45:00.000Z|Servette_FC_F|Lyon_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3381501/servette-fc-f-vs-lyon-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 16h45",
+    "kickoff_utc": "2026-09-23T16:45:00.000Z",
+    "home": "Servette FC F",
+    "away": "Lyon F",
+    "odds": {
+      "1x2": {
+        "1": 25,
+        "2": 1.01,
+        "X": 8
+      },
+      "double_chance": null,
+      "btts": null,
+      "ou": {
+        "1.5": {
+          "over": 1.01,
+          "under": 5.5
+        },
+        "2.5": {
+          "over": 1.08,
+          "under": 4
+        },
+        "3.5": {
+          "over": 1.22,
+          "under": 2.75
+        },
+        "4.5": {
+          "over": 1.55,
+          "under": 1.9
+        },
+        "5.5": {
+          "over": 2.05,
+          "under": 1.45
+        },
+        "6.5": {
+          "over": 3,
+          "under": 1.18
+        },
+        "7.5": {
+          "over": 4,
+          "under": 1.08
+        }
+      },
+      "european_handicap": [
+        {
+          "line": 2,
+          "odds": {
+            "h1": 7.6,
+            "hx": 5.5,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 3.95,
+            "hx": 4.6,
+            "h2": 1.37
+          }
+        },
+        {
+          "line": 4,
+          "odds": {
+            "h1": 2.4,
+            "hx": 4.35,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 5,
+          "odds": {
+            "h1": 1.65,
+            "hx": 4.65,
+            "h2": 2.65
+          }
+        },
+        {
+          "line": 6,
+          "odds": {
+            "h1": 1.3,
+            "hx": 5.6,
+            "h2": 4
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": 3.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.35
+          }
+        },
+        {
+          "line": 4.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 5.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-23T05:59:49.140Z"
+  },
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-23T19:00:00.000Z|Chelsea_F|Austr.Vienne_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3378912/chelsea-f-vs-austr-vienne-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-09-23T19:00:00.000Z",
+    "home": "Chelsea F",
+    "away": "Austr.Vienne F",
+    "odds": {
+      "1x2": {
+        "1": 1.01,
+        "2": 36,
+        "X": 6.8
+      },
+      "double_chance": null,
+      "btts": null,
+      "ou": {
+        "1.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "2.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "3.5": {
+          "over": 1.4,
+          "under": 2.35
+        },
+        "4.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "5.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "6.5": {
+          "over": 4,
+          "under": 1.12
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -7,
+          "odds": {
+            "h1": 9.5,
+            "hx": 8.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -6,
+          "odds": {
+            "h1": 5.9,
+            "hx": 6.8,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -5,
+          "odds": {
+            "h1": 3.6,
+            "hx": 5.2,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 2.3,
+            "hx": 4.45,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 1.6,
+            "hx": 4.45,
+            "h2": 3.35
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 1.23,
+            "hx": 5.3,
+            "h2": 6.7
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.06,
+            "hx": 7,
+            "h2": 15
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -5.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -4.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-23T06:00:04.145Z"
+  },
+  {
+    "match_id": "Ligue_des_Champions_F|2026-09-23T19:00:00.000Z|Barcelone_F|Paris_FC_F",
+    "url": "https://www.unibet.fr/paris-football/coupes-d-europe/ligue-des-champions-f/3378911/barcelone-f-vs-paris-fc-f",
+    "league": "Ligue des Champions F",
+    "kickoff_raw": "À 19h00",
+    "kickoff_utc": "2026-09-23T19:00:00.000Z",
+    "home": "Barcelone F",
+    "away": "Paris FC F",
+    "odds": {
+      "1x2": {
+        "1": 1.01,
+        "2": 31,
+        "X": 7
+      },
+      "double_chance": null,
+      "btts": null,
+      "ou": {
+        "1.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "2.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "3.5": {
+          "over": 1.32,
+          "under": 2.6
+        },
+        "4.5": {
+          "over": 1.72,
+          "under": 1.78
+        },
+        "5.5": {
+          "over": 2.45,
+          "under": 1.36
+        },
+        "6.5": {
+          "over": 3.7,
+          "under": 1.15
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -7,
+          "odds": {
+            "h1": 8.7,
+            "hx": 8.6,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -6,
+          "odds": {
+            "h1": 5.4,
+            "hx": 6.6,
+            "h2": 1.23
+          }
+        },
+        {
+          "line": -5,
+          "odds": {
+            "h1": 3.35,
+            "hx": 5.2,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": -4,
+          "odds": {
+            "h1": 2.15,
+            "hx": 4.55,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.65,
+            "hx": 3.5,
+            "h2": 1.21
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.6,
+            "hx": 6.9,
+            "h2": 1.06
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -5.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -4.5,
+          "odds": {
+            "h1": 2.1,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 1.52,
+            "h2": 2.05
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-23T06:00:26.435Z"
+  },
+  {
+    "match_id": "MLS|2026-09-24T01:30:00.000Z|Seattle|Salt_Lake",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3361055/seattle-vs-salt-lake",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 01h30",
+    "kickoff_utc": "2026-09-24T01:30:00.000Z",
+    "home": "Seattle",
+    "away": "Salt Lake",
+    "odds": {
+      "1x2": {
+        "1": 1.75,
+        "2": 3.6,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 10.5,
+            "hx": 7.1,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.5,
+            "hx": 5,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.9,
+            "hx": 3.9,
+            "h2": 1.82
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.23,
+            "hx": 5.2,
+            "h2": 7.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.5,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.72,
+            "h2": 1.78
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.22,
+            "h2": 3.1
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-23T06:08:14.728Z"
+  }
+]
