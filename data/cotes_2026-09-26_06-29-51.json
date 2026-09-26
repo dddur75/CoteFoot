@@ -1,0 +1,2595 @@
+[
+  {
+    "match_id": "LaLiga_2|2026-09-26T12:00:00.000Z|Ceuta|RealSociedad_B",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3363139/ceuta-vs-realsociedad-b",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 12h00",
+    "kickoff_utc": "2026-09-26T12:00:00.000Z",
+    "home": "Ceuta",
+    "away": "RealSociedad B",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 2.5,
+        "X": 3.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.04,
+          "under": 7
+        },
+        "1.5": {
+          "over": 1.2,
+          "under": 3.25
+        },
+        "2.5": {
+          "over": 1.7,
+          "under": 1.8
+        },
+        "3.5": {
+          "over": 2.6,
+          "under": 1.32
+        },
+        "4.5": {
+          "over": 4.3,
+          "under": 1.1
+        },
+        "5.5": {
+          "over": 8,
+          "under": 1.03
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 10,
+            "hx": 6,
+            "h2": 1.13
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.6,
+            "hx": 4.05,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.41,
+            "hx": 4.15,
+            "h2": 4.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.2,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4,
+            "h2": 1.12
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.4,
+            "h2": 2.35
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T05:43:26.240Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-09-26T14:15:00.000Z|Granada_CF|FC_Andorra",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3363137/granada-cf-vs-fc-andorra",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 14h15",
+    "kickoff_utc": "2026-09-26T14:15:00.000Z",
+    "home": "Granada CF",
+    "away": "FC Andorra",
+    "odds": {
+      "1x2": {
+        "1": 1.99,
+        "2": 2.95,
+        "X": 3.05
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.25,
+          "under": 3
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.8,
+            "hx": 5.6,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.05,
+            "hx": 3.8,
+            "h2": 1.56
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.3,
+            "hx": 4.4,
+            "h2": 6.4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.07,
+            "hx": 6.9,
+            "h2": 14.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.07,
+            "h2": 5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T05:44:02.571Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-09-26T16:30:00.000Z|Celta_Fortuna|Sabadell",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3369275/celta-fortuna-vs-sabadell",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2026-09-26T16:30:00.000Z",
+    "home": "Celta Fortuna",
+    "away": "Sabadell",
+    "odds": {
+      "1x2": {
+        "1": 3,
+        "2": 1.96,
+        "X": 3.1
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "1.5": {
+          "over": 1.28,
+          "under": 2.8
+        },
+        "2.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "3.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "4.5": {
+          "over": 5,
+          "under": 1.07
+        },
+        "5.5": {
+          "over": 10,
+          "under": 1.02
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 15,
+            "hx": 6.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.6,
+            "hx": 4.45,
+            "h2": 1.29
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.58,
+            "hx": 3.75,
+            "h2": 4
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.17,
+            "hx": 5.5,
+            "h2": 8.7
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 5,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.55,
+            "h2": 2
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T05:44:35.551Z"
+  },
+  {
+    "match_id": "LaLiga_2|2026-09-26T16:30:00.000Z|Tenerife|Cadix",
+    "url": "https://www.unibet.fr/paris-football/espagne/laliga-2/3363142/tenerife-vs-cadix",
+    "league": "LaLiga 2",
+    "kickoff_raw": "À 16h30",
+    "kickoff_utc": "2026-09-26T16:30:00.000Z",
+    "home": "Tenerife",
+    "away": "Cadix",
+    "odds": {
+      "1x2": {
+        "1": 1.7,
+        "2": 4,
+        "X": 3
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.9,
+        "no": 1.6
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.06,
+          "under": 5.5
+        },
+        "1.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "2.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "3.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "4.5": {
+          "over": 6,
+          "under": 1.05
+        },
+        "5.5": {
+          "over": 15,
+          "under": 1.01
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 15,
+            "hx": 7.5,
+            "h2": 1.05
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.2,
+            "hx": 4.9,
+            "h2": 1.24
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.3,
+            "hx": 3.4,
+            "h2": 1.8
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.18,
+            "hx": 4.95,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 5.5,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T05:45:15.723Z"
+  },
+  {
+    "match_id": "MLS|2026-09-26T23:30:00.000Z|CF_Montreal|FC_Cincinnati",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363009/cf-montreal-vs-fc-cincinnati",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-09-26T23:30:00.000Z",
+    "home": "CF Montreal",
+    "away": "FC Cincinnati",
+    "odds": {
+      "1x2": {
+        "1": 2.55,
+        "2": 2.2,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.32,
+        "no": 2.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.36,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 6.3,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.4,
+            "hx": 4.5,
+            "h2": 1.43
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.5,
+            "hx": 4.35,
+            "h2": 3.95
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.17,
+            "hx": 6,
+            "h2": 7.8
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.18,
+            "h2": 3.4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:10:05.531Z"
+  },
+  {
+    "match_id": "MLS|2026-09-26T23:30:00.000Z|Charlotte_FC|Chicago_Fire",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363010/charlotte-fc-vs-chicago-fire",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-09-26T23:30:00.000Z",
+    "home": "Charlotte FC",
+    "away": "Chicago Fire",
+    "odds": {
+      "1x2": {
+        "1": 2,
+        "2": 2.9,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.35,
+        "no": 2.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.1,
+          "under": 4.3
+        },
+        "2.5": {
+          "over": 1.38,
+          "under": 2.4
+        },
+        "3.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.8,
+            "h2": 1.06
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 6.6,
+            "hx": 5.6,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.45,
+            "hx": 4.2,
+            "h2": 1.61
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.34,
+            "hx": 4.75,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.8,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.32,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:10:45.231Z"
+  },
+  {
+    "match_id": "MLS|2026-09-26T23:30:00.000Z|Philadelphia|Orlando_City",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363011/philadelphia-vs-orlando-city",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-09-26T23:30:00.000Z",
+    "home": "Philadelphia",
+    "away": "Orlando City",
+    "odds": {
+      "1x2": {
+        "1": 1.39,
+        "2": 5.1,
+        "X": 4.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.32,
+        "no": 2.5
+      },
+      "ou": {
+        "1.5": {
+          "over": 1.05,
+          "under": 6
+        },
+        "2.5": {
+          "over": 1.22,
+          "under": 3.1
+        },
+        "3.5": {
+          "over": 1.6,
+          "under": 1.95
+        },
+        "4.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "5.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "6.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 9.9,
+            "hx": 7.8,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 5.6,
+            "hx": 5.7,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.2,
+            "hx": 4.45,
+            "h2": 1.64
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.98,
+            "hx": 4.1,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.4,
+            "h2": 9.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.9,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:11:28.265Z"
+  },
+  {
+    "match_id": "MLS|2026-09-26T23:30:00.000Z|Atlanta_Utd|NY_City_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363012/atlanta-utd-vs-ny-city-fc",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-09-26T23:30:00.000Z",
+    "home": "Atlanta Utd",
+    "away": "NY City FC",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 2.8,
+        "X": 3.4
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.45,
+        "no": 2.1
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.1,
+            "hx": 5.7,
+            "h2": 1.17
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.95,
+            "hx": 4.05,
+            "h2": 1.54
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.35,
+            "hx": 4.5,
+            "h2": 5.3
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.6,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:12:13.932Z"
+  },
+  {
+    "match_id": "MLS|2026-09-26T23:30:00.000Z|NY_Red_Bulls|Saint_Louis_SC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363013/ny-red-bulls-vs-saint-louis-sc",
+    "league": "MLS",
+    "kickoff_raw": "À 23h30",
+    "kickoff_utc": "2026-09-26T23:30:00.000Z",
+    "home": "NY Red Bulls",
+    "away": "Saint Louis SC",
+    "odds": {
+      "1x2": {
+        "1": 3.4,
+        "2": 1.76,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.35,
+        "no": 2.4
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.36,
+          "under": 2.45
+        },
+        "3.5": {
+          "over": 1.9,
+          "under": 1.62
+        },
+        "4.5": {
+          "over": 3,
+          "under": 1.25
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12.5,
+            "hx": 7.3,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 6.3,
+            "hx": 5.1,
+            "h2": 1.26
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.8,
+            "hx": 4,
+            "h2": 2.9
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.3,
+            "hx": 5.1,
+            "h2": 5.4
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.1,
+            "hx": 7.2,
+            "h2": 10
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 3,
+            "h2": 1.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.75,
+            "h2": 1.75
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.3,
+            "h2": 2.7
+          }
+        },
+        {
+          "line": 2.5,
+          "odds": {
+            "h1": 1.09,
+            "h2": 4.5
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:12:56.928Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T00:30:00.000Z|Austin_FC|San_Diego_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363018/austin-fc-vs-san-diego-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-09-27T00:30:00.000Z",
+    "home": "Austin FC",
+    "away": "San Diego FC",
+    "odds": {
+      "1x2": {
+        "1": 2.2,
+        "2": 2.65,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.4,
+            "hx": 5.9,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.1,
+            "hx": 4.2,
+            "h2": 1.5
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.4,
+            "hx": 4.4,
+            "h2": 4.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.12,
+            "hx": 6.4,
+            "h2": 9.9
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.38,
+            "h2": 2.4
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:13:34.754Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T00:30:00.000Z|Seattle|Minnesota_Utd",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363019/seattle-vs-minnesota-utd",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-09-27T00:30:00.000Z",
+    "home": "Seattle",
+    "away": "Minnesota Utd",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 2.75,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.38,
+        "no": 2.3
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.45,
+          "under": 2.25
+        },
+        "3.5": {
+          "over": 2.1,
+          "under": 1.5
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.5,
+            "hx": 5.7,
+            "h2": 1.19
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.8,
+            "hx": 4.15,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.55,
+            "h2": 5
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.6,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:14:21.443Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T00:30:00.000Z|Nashville_SC|Toronto_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363020/nashville-sc-vs-toronto-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-09-27T00:30:00.000Z",
+    "home": "Nashville SC",
+    "away": "Toronto FC",
+    "odds": {
+      "1x2": {
+        "1": 1.36,
+        "2": 5.8,
+        "X": 4.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.42,
+          "under": 2.3
+        },
+        "3.5": {
+          "over": 2,
+          "under": 1.55
+        },
+        "4.5": {
+          "over": 3.1,
+          "under": 1.22
+        },
+        "5.5": {
+          "over": 5,
+          "under": 1.07
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 11.5,
+            "hx": 7.9,
+            "h2": 1.07
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 6.4,
+            "hx": 5.6,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 3.45,
+            "hx": 4.2,
+            "h2": 1.62
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2,
+            "hx": 3.75,
+            "h2": 2.6
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.1,
+            "hx": 6.4,
+            "h2": 12
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.1,
+            "h2": 1.22
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.95,
+            "h2": 1.6
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:15:01.350Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T00:30:00.000Z|Dallas_FC|Los_Angeles_FC",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363021/dallas-fc-vs-los-angeles-fc",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-09-27T00:30:00.000Z",
+    "home": "Dallas FC",
+    "away": "Los Angeles FC",
+    "odds": {
+      "1x2": {
+        "1": 2.1,
+        "2": 2.75,
+        "X": 3.6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8,
+            "hx": 5.7,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.9,
+            "hx": 4.1,
+            "h2": 1.54
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.37,
+            "hx": 4.45,
+            "h2": 5.1
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.5,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.4,
+            "h2": 1.18
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.05,
+            "h2": 1.52
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.36,
+            "h2": 2.45
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:15:50.367Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T00:30:00.000Z|Houston|Kansas_City",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363022/houston-vs-kansas-city",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 00h30",
+    "kickoff_utc": "2026-09-27T00:30:00.000Z",
+    "home": "Houston",
+    "away": "Kansas City",
+    "odds": {
+      "1x2": {
+        "1": 1.47,
+        "2": 5,
+        "X": 4.2
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.55,
+        "no": 1.95
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.25,
+          "under": 1.45
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.1,
+            "hx": 6.1,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.15,
+            "hx": 4.35,
+            "h2": 1.47
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.3,
+            "hx": 3.65,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.9,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:16:26.544Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T01:30:00.000Z|Salt_Lake|New_England",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363028/salt-lake-vs-new-england",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 01h30",
+    "kickoff_utc": "2026-09-27T01:30:00.000Z",
+    "home": "Salt Lake",
+    "away": "New England",
+    "odds": {
+      "1x2": {
+        "1": 2.3,
+        "2": 2.5,
+        "X": 3.5
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.25
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 8.7,
+            "hx": 6.1,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.3,
+            "hx": 4.3,
+            "h2": 1.46
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.44,
+            "hx": 4.35,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 6.2,
+            "h2": 9.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:17:20.124Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T02:30:00.000Z|Vancouver|DC_United",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363039/vancouver-vs-dc-united",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-09-27T02:30:00.000Z",
+    "home": "Vancouver",
+    "away": "DC United",
+    "odds": {
+      "1x2": {
+        "1": 1.2,
+        "2": 8.7,
+        "X": 6
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.01,
+          "under": 15
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "3.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.5,
+          "under": 1.09
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -4,
+          "odds": {
+            "h1": 8.2,
+            "hx": 6.8,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -3,
+          "odds": {
+            "h1": 4.45,
+            "hx": 4.85,
+            "h2": 1.39
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 2.55,
+            "hx": 3.9,
+            "h2": 2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 1.62,
+            "hx": 3.9,
+            "h2": 3.6
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -3.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 2.4,
+            "h2": 1.38
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:18:04.043Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T02:30:00.000Z|San_Jose|Portland",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363038/san-jose-vs-portland",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-09-27T02:30:00.000Z",
+    "home": "San Jose",
+    "away": "Portland",
+    "odds": {
+      "1x2": {
+        "1": 1.86,
+        "2": 3.2,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.32,
+        "no": 2.5
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.09,
+          "under": 4.5
+        },
+        "2.5": {
+          "over": 1.35,
+          "under": 2.5
+        },
+        "3.5": {
+          "over": 1.85,
+          "under": 1.65
+        },
+        "4.5": {
+          "over": 2.8,
+          "under": 1.28
+        },
+        "5.5": {
+          "over": 4.3,
+          "under": 1.1
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 11,
+            "hx": 7.5,
+            "h2": 1.08
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 5.7,
+            "hx": 5.3,
+            "h2": 1.27
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.1,
+            "hx": 4.15,
+            "h2": 1.71
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.28,
+            "hx": 5,
+            "h2": 5.8
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.08,
+            "hx": 7.2,
+            "h2": 11.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.8,
+            "h2": 1.28
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.8,
+            "h2": 1.7
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.28,
+            "h2": 2.8
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:18:47.264Z"
+  },
+  {
+    "match_id": "MLS|2026-09-27T02:30:00.000Z|LA_Galaxy|Colorado",
+    "url": "https://www.unibet.fr/paris-football/etats-unis/mls/3363040/la-galaxy-vs-colorado",
+    "league": "MLS",
+    "kickoff_raw": "Demain à 02h30",
+    "kickoff_utc": "2026-09-27T02:30:00.000Z",
+    "home": "LA Galaxy",
+    "away": "Colorado",
+    "odds": {
+      "1x2": {
+        "1": 2.05,
+        "2": 2.8,
+        "X": 3.7
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 7.4,
+            "hx": 5.6,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 3.7,
+            "hx": 4.05,
+            "h2": 1.58
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.36,
+            "hx": 4.5,
+            "h2": 5.2
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.11,
+            "hx": 6.6,
+            "h2": 10.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.25,
+            "h2": 1.2
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2,
+            "h2": 1.55
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.35,
+            "h2": 2.5
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.1,
+            "h2": 4.3
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:19:30.372Z"
+  },
+  {
+    "match_id": "D1_Mexique|2026-09-26T22:50:00.000Z|Cruz_Azul|Dep._Toluca",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3379310/cruz-azul-vs-dep-toluca",
+    "league": "D1 Mexique",
+    "kickoff_raw": "À 22h50",
+    "kickoff_utc": "2026-09-26T22:50:00.000Z",
+    "home": "Cruz Azul",
+    "away": "Dep. Toluca",
+    "odds": {
+      "1x2": {
+        "1": 2.25,
+        "2": 2.4,
+        "X": 3.25
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.4,
+        "no": 2.25
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.12,
+          "under": 4
+        },
+        "2.5": {
+          "over": 1.48,
+          "under": 2.15
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 9,
+            "hx": 6.2,
+            "h2": 1.14
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 4.4,
+            "hx": 4.35,
+            "h2": 1.44
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.44,
+            "hx": 4.35,
+            "h2": 4.45
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.14,
+            "hx": 6.2,
+            "h2": 9.1
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.3,
+            "h2": 1.42
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.42,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.15,
+            "h2": 3.7
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:22:43.259Z"
+  },
+  {
+    "match_id": "D1_Mexique|2026-09-26T23:07:00.000Z|Chivas|Queretaro_FC",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3379311/chivas-vs-queretaro-fc",
+    "league": "D1 Mexique",
+    "kickoff_raw": "À 23h07",
+    "kickoff_utc": "2026-09-26T23:07:00.000Z",
+    "home": "Chivas",
+    "away": "Queretaro FC",
+    "odds": {
+      "1x2": {
+        "1": 1.41,
+        "2": 4.85,
+        "X": 3.9
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.6,
+        "no": 1.9
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.52,
+          "under": 2.05
+        },
+        "3.5": {
+          "over": 2.3,
+          "under": 1.42
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 6,
+          "under": 1.05
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.1,
+            "hx": 6.1,
+            "h2": 1.16
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.15,
+            "hx": 4.3,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.3,
+            "hx": 3.6,
+            "h2": 2.3
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.12,
+            "hx": 5.9,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.15,
+            "h2": 1.48
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.45,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:23:19.407Z"
+  },
+  {
+    "match_id": "D1_Mexique|2026-09-27T03:05:00.000Z|Santos_Laguna|CF_Pachuca",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3379312/santos-laguna-vs-cf-pachuca",
+    "league": "D1 Mexique",
+    "kickoff_raw": "Demain à 03h05",
+    "kickoff_utc": "2026-09-27T03:05:00.000Z",
+    "home": "Santos Laguna",
+    "away": "CF Pachuca",
+    "odds": {
+      "1x2": {
+        "1": 2.9,
+        "2": 1.91,
+        "X": 3.35
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.42,
+        "no": 2.2
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.02,
+          "under": 10
+        },
+        "1.5": {
+          "over": 1.15,
+          "under": 3.7
+        },
+        "2.5": {
+          "over": 1.5,
+          "under": 2.1
+        },
+        "3.5": {
+          "over": 2.15,
+          "under": 1.48
+        },
+        "4.5": {
+          "over": 3.4,
+          "under": 1.18
+        },
+        "5.5": {
+          "over": 5.5,
+          "under": 1.06
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -2,
+          "odds": {
+            "h1": 12,
+            "hx": 6.9,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 5.7,
+            "hx": 4.7,
+            "h2": 1.31
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.61,
+            "hx": 4.05,
+            "h2": 3.55
+          }
+        },
+        {
+          "line": 2,
+          "odds": {
+            "h1": 1.21,
+            "hx": 5.5,
+            "h2": 7
+          }
+        },
+        {
+          "line": 3,
+          "odds": {
+            "h1": 1.05,
+            "hx": 7.8,
+            "h2": 13.5
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 4.5,
+            "h2": 1.09
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 2.7,
+            "h2": 1.3
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.6,
+            "h2": 1.95
+          }
+        },
+        {
+          "line": 1.5,
+          "odds": {
+            "h1": 1.2,
+            "h2": 3.25
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:24:10.417Z"
+  },
+  {
+    "match_id": "D1_Mexique|2026-09-27T03:10:00.000Z|Tigres_UANL|Club_Puebla",
+    "url": "https://www.unibet.fr/paris-football/mexique/d1-mexique/3379313/tigres-uanl-vs-club-puebla",
+    "league": "D1 Mexique",
+    "kickoff_raw": "Demain à 03h10",
+    "kickoff_utc": "2026-09-27T03:10:00.000Z",
+    "home": "Tigres UANL",
+    "away": "Club Puebla",
+    "odds": {
+      "1x2": {
+        "1": 1.43,
+        "2": 4.75,
+        "X": 3.85
+      },
+      "double_chance": {
+        "12": null,
+        "1X": null,
+        "X2": null
+      },
+      "btts": {
+        "yes": 1.65,
+        "no": 1.8
+      },
+      "ou": {
+        "0.5": {
+          "over": 1.03,
+          "under": 8
+        },
+        "1.5": {
+          "over": 1.18,
+          "under": 3.4
+        },
+        "2.5": {
+          "over": 1.55,
+          "under": 2
+        },
+        "3.5": {
+          "over": 2.4,
+          "under": 1.38
+        },
+        "4.5": {
+          "over": 3.7,
+          "under": 1.15
+        },
+        "5.5": {
+          "over": 7,
+          "under": 1.04
+        }
+      },
+      "european_handicap": [
+        {
+          "line": -3,
+          "odds": {
+            "h1": 8.5,
+            "hx": 6.2,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -2,
+          "odds": {
+            "h1": 4.3,
+            "hx": 4.3,
+            "h2": 1.46
+          }
+        },
+        {
+          "line": -1,
+          "odds": {
+            "h1": 2.35,
+            "hx": 3.55,
+            "h2": 2.25
+          }
+        },
+        {
+          "line": 1,
+          "odds": {
+            "h1": 1.13,
+            "hx": 5.8,
+            "h2": 11
+          }
+        }
+      ],
+      "asian_handicap": [
+        {
+          "line": -2.5,
+          "odds": {
+            "h1": 3.7,
+            "h2": 1.15
+          }
+        },
+        {
+          "line": -1.5,
+          "odds": {
+            "h1": 2.25,
+            "h2": 1.45
+          }
+        },
+        {
+          "line": -0.5,
+          "odds": {
+            "h1": 1.48,
+            "h2": 2.15
+          }
+        },
+        {
+          "line": 0.5,
+          "odds": {
+            "h1": 1.12,
+            "h2": 4
+          }
+        }
+      ]
+    },
+    "scraped_at": "2026-09-26T06:24:54.043Z"
+  }
+]
